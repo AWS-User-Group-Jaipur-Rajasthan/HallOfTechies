@@ -1,0 +1,54 @@
+.card {
+	width: 15em;
+	height: 20em;
+	padding: 1em;
+	background: rgba(0, 0, 0, 0.753);
+	margin: 3em;
+	/* margin: 1em; */
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	color: #fff;
+	backdrop-filter: blur(3px);
+}
+
+.card .userImg {
+	width: 8em;
+	height: 8em;
+	object-fit: cover;
+	border-radius: 50%;
+	background-position: center;
+	background-size: cover;
+}
+
+.card img {
+	width: 8em;
+	height: 8em;
+	object-fit: cover;
+	border-radius: 50%;
+	/* background-image: url('./../../upload/image/abc.jpg'); */
+	background-position: center;
+	background-size: cover;
+}
+
+.details {
+	text-align: center;
+}
+.details > * {
+	margin: 1em;
+}
+
+.icons {
+	display: flex;
+	justify-content: space-evenly;
+	width: 100%;
+}
+
+.icons > * {
+	cursor: pointer;
+}
+
+.link {
+	color: #fff;
+}

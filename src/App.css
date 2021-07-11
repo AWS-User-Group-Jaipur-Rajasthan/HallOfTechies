@@ -1,0 +1,56 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+:root {
+	--ff-nav: 'Montserrat', sans-serif;
+
+	--fs-body: 1rem;
+	--fs-h1: 3rem;
+	--fs-h2: 2.25rem;
+	--fs-h3: 1.25rem;
+
+	--clr-light: #fff;
+	--clr-dark: #000;
+
+	--clr-accent: rgb(1, 1, 34);
+	--clr-second: rgb(17, 78, 114);
+	/* --clr-second: rgb(0, 0, 0); */
+}
+
+@media (min-width: 600px) {
+	:root {
+		--fs-h1: 4.5rem;
+		--fs-h2: 3.75rem;
+		--fs-h3: 1.5rem;
+		--fs-body: 1.125rem;
+	}
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	/* background: rgb(167, 11, 219); */
+
+	/* color: var(--clr-light); */
+	font-family: var(--ff-nav);
+	font-size: var(--fs-body);
+	line-height: 1.6;
+	/* background: var(--clr-accent); */
+	overflow: auto;
+	/* min-height: 100vh; */
+	scroll-behavior: smooth;
+	/* background-image: url(./res/bg.jpg); */
+}
+
+/* main-container */
+
+.main-container {
+	display: block;
+}

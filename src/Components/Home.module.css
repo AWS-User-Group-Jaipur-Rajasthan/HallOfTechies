@@ -1,0 +1,72 @@
+.home {
+	/* background: url('./../res/bg.jpg'); */
+	background: url('./../res/bg-2.jpg');
+	background-size: cover;
+	height: auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	position: relative;
+}
+
+.content {
+	padding: 1em;
+	/* min-height: 95vh; */
+	display: flex;
+	flex-wrap: wrap;
+	min-height: 90vh;
+	color: #fff;
+	/* background: url('./../res/bg.jpg') rgba(0, 0, 255, 0.63); */
+	/* background-position: fixed; */
+	/* mix-blend-mode: multiply; */
+	position: relative;
+	justify-content: center;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-image: linear-gradient(
+		to left top,
+		#4e4e6f,
+		#414073cb,
+		#333176b7,
+		#2322787e,
+		#0f0f7888
+	);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
+
+.pagination {
+	background-color: rgb(241, 241, 241);
+	background: rgba(0, 0, 0, 0.76);
+	color: #fff !important;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	position: fixed;
+	padding: 1em;
+	bottom: 0;
+	left: 0%;
+	right: 0;
+	top: 90%;
+	/* transform: translateX(-50%); */
+	/* width: 100%; */
+	/* height: 5em; */
+}
+
+.pagination nav ul li button {
+	width: auto;
+	color: #fff !important;
+}
+
+.nodata {
+	text-align: center;
+	z-index: 10;
+	color: #000;
+}
