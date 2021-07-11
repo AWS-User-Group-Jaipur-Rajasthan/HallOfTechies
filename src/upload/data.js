@@ -21,6 +21,17 @@ const data = [
       "https://twitter.com",
     ],
   },
+  {
+    id: 7003,
+    name: "Ankit Chaudhari",
+    role: "Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/65450600?v=4",
+    link: [
+      "https://github.com/Ankit1598",
+      "https://www.linkedin.com/in/ankit1598/",
+      "https://twitter.com/Ankit15_",
+    ],
+  },
 ];
 
 export default data;
