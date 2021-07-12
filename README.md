@@ -2,7 +2,7 @@
 
 A place for developers from the **[AWS UG Jaipur Rajasthan](https://www.youtube.com/c/awsusergroupjaipurrajasthan)** to show recruiters that they are available for hire. Feel free to contribute and improve this in any way you see fit.
 
-Link to the webpage: https://awsug-showcase.web.app/.
+Link to the website: https://awsug-showcase.web.app/.
 
 ## How to make a pull request?
 
