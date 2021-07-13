@@ -47,4 +47,6 @@ https://github.com/seema1711.png
 
 - Hit enter and the browser will generate a page with your image, it look like this: https://avatars.githubusercontent.com/u/48756444?v=4
 
+### Resources
 
+All icons have been sourced from [Material Design Icons](https://materialdesignicons.com) and [Octicons](https://octicons.github.com/)
