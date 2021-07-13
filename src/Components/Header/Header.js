@@ -1,10 +1,8 @@
 import React from "react";
 import classes from "./Header.module.css";
 import logo from "./../../res/logo.png";
-import SearchIcon from "@material-ui/icons/Search";
 
 export default function Header(props) {
-  // const [input, setInput] = useState("");
 
   const inputHandler = (e) => {
     props.onSearch(e.target.value);
@@ -22,7 +20,6 @@ export default function Header(props) {
           onChange={inputHandler}
         // value={input}
         />
-        {/* <SearchIcon className={classes.icon} /> */}
       </div>
     </div>
   );
