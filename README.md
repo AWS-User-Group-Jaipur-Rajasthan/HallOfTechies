@@ -47,6 +47,4 @@ https://github.com/seema1711.png
 
 - Hit enter and the browser will generate a page with your image, it look like this: https://avatars.githubusercontent.com/u/48756444?v=4
 
-- Copy URL of this page and paste it in Submissions/<YOUR_GH_USERNAME>.json file
-
 
