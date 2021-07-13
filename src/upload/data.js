@@ -4,6 +4,7 @@ const data = [
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
     image: "https://avatars.githubusercontent.com/u/56211500?v=4",
+    skills: ['js', 'react', 'node', 'react native'],
     link: [
       "https://github.com/aksh-22",
       "https://linkedin.com",
@@ -12,20 +13,10 @@ const data = [
   },
   {
     id: 7002,
-    name: "Akash",
-    role: "MERN Stack Developer",
-    image: "https://avatars.githubusercontent.com/u/56211500?v=4",
-    link: [
-      "https://github.com/aksh-22",
-      "https://linkedin.com",
-      "https://twitter.com",
-    ],
-  },
-  {
-    id: 7003,
     name: "Ankit Chaudhari",
     role: "Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/65450600?v=4",
+    skills: ['html', 'css', 'js', 'docker'],
     link: [
       "https://github.com/Ankit1598",
       "https://www.linkedin.com/in/ankit1598/",

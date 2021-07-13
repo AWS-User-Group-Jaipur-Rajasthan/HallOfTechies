@@ -12,31 +12,36 @@ export default function Card(props) {
         <h4>{props.userData.name}</h4>
         <p>{props.userData.role}</p>
       </div>
-      <div className={classes.icons}>
-        <a
-          href={props.userData.link[0]}
-          target="_blank"
-          rel="noreferrer"
-          className={classes.link}
-        >
-          <GitHubIcon />
-        </a>
-        <a
-          href={props.userData.link[1]}
-          target="_blank"
-          rel="noreferrer"
-          className={classes.link}
-        >
-          <LinkedInIcon />
-        </a>
-        <a
-          href={props.userData.link[2]}
-          target="_blank"
-          rel="noreferrer"
-          className={classes.link}
-        >
-          <TwitterIcon />
-        </a>
+      <div className={classes.bottom}>
+        <div className={classes.skills}>
+          {props.userData.skills.map(el => <p key={Math.floor(Math.random() * 10000)}>{el}</p>)}
+        </div>
+        <div className={classes.icons}>
+          <a
+            href={props.userData.link[0]}
+            target="_blank"
+            rel="noreferrer"
+            className={classes.link}
+          >
+            <GitHubIcon />
+          </a>
+          <a
+            href={props.userData.link[1]}
+            target="_blank"
+            rel="noreferrer"
+            className={classes.link}
+          >
+            <LinkedInIcon />
+          </a>
+          <a
+            href={props.userData.link[2]}
+            target="_blank"
+            rel="noreferrer"
+            className={classes.link}
+          >
+            <TwitterIcon />
+          </a>
+        </div>
       </div>
     </div>
   );

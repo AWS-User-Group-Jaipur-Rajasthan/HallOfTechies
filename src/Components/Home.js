@@ -31,7 +31,7 @@ export default function Home() {
     if (dataArr.length < 1) {
       return <h1 className={classes.nodata}>No Data Found</h1>
     }
-    return dataArr.map((el) => (<Card userData={el} key={Math.floor(Math.random() * 10000) + el.userName} />
+    return dataArr.map((el) => (<Card userData={el} key={Math.floor(Math.random() * 10000) + `${el.userName}`} />
     ));
   };
 

@@ -15,13 +15,14 @@ export default function Header(props) {
       <div className={classes.logo}>
         <img src={logo} alt="logo"></img>
       </div>
+      <h1>Hall Of Techies</h1>
       <div className={classes.search}>
         <input
-          placeholder="search Hero"
+          placeholder="Search here"
           onChange={inputHandler}
         // value={input}
         />
-        <SearchIcon className={classes.icon} />
+        {/* <SearchIcon className={classes.icon} /> */}
       </div>
     </div>
   );
