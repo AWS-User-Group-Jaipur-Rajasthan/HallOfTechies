@@ -15,14 +15,14 @@ export default function Card(props) {
       </div>
       <div className={classes.bottom}>
         <div className={classes.skills}>
-          {props.userData.skills.map(el =>
-            <Tooltip title={el} aria-label="add">
-              {el.length > 5 ? <p key={Math.floor(Math.random() * 10000)}>
-                {el.substring(0, 5)}...
-              </p> : <p key={Math.floor(Math.random() * 10000)}>
-                {el}
-              </p>}
-            </Tooltip>
+          {props.userData.skills.map(el => {
+            el.length > 5 ? <Tooltip title={el} aria-label="add"> <p key={Math.floor(Math.random() * 10000)}>
+              {el.substring(0, 5)}...
+            </p> </Tooltip> : <p key={Math.floor(Math.random() * 10000)}>
+              {el}
+            </p>
+          }
+
           )}
         </div>
         <div className={classes.icons}>
