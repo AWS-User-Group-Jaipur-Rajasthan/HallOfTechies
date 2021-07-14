@@ -23,6 +23,18 @@ const data = [
       "https://twitter.com/Ankit15_",
     ],
   },
+    {
+    id: 7003,
+    name: "Priyanka Prasad",
+    role: "Postman Student Expert | Developer",
+    image: "https://avatars.githubusercontent.com/u/59612128?s=400&u=508b3cb2b19845ebf3a38aec415d0e455922a816&v=4",
+    skills: ['html', 'css', 'js', 'docker','api'],
+    link: [
+      "https://github.com/P-riyanka-prasad",
+      "https://www.linkedin.com/in/priyanka677/",
+      "https://twitter.com/Priyank43692137",
+    ],
+  },  
 ];
 
 export default data;
