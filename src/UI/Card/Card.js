@@ -3,6 +3,7 @@ import classes from "./Card.module.css";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import TwitterIcon from "@material-ui/icons/Twitter";
 import GitHubIcon from "@material-ui/icons/GitHub";
+import Tooltip from '@material-ui/core/Tooltip';
 
 export default function Card(props) {
   return (
@@ -14,7 +15,15 @@ export default function Card(props) {
       </div>
       <div className={classes.bottom}>
         <div className={classes.skills}>
-          {props.userData.skills.map(el => <p key={Math.floor(Math.random() * 10000)}>{el}</p>)}
+          {props.userData.skills.map(el =>
+            <Tooltip title={el} aria-label="add">
+              {el.length > 5 ? <p key={Math.floor(Math.random() * 10000)}>
+                {el.substring(0, 5)}...
+              </p> : <p key={Math.floor(Math.random() * 10000)}>
+                {el}
+              </p>}
+            </Tooltip>
+          )}
         </div>
         <div className={classes.icons}>
           <a

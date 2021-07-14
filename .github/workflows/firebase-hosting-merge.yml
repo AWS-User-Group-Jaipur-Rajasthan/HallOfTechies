@@ -15,6 +15,6 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_AWSUG_SHOWCASE }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_AWSUGJAIPUR_HALLOFTECHIES }}'
           channelId: live
-          projectId: awsug-showcase
+          projectId: awsugjaipur-halloftechies
