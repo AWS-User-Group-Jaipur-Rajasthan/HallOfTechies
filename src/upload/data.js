@@ -23,7 +23,6 @@ const data = [
       "https://twitter.com/Ankit15_",
     ],
   },
-  
     {
     id: 7003,
     name: "Priyanka Prasad",
@@ -35,12 +34,7 @@ const data = [
       "https://www.linkedin.com/in/priyanka677/",
       "https://twitter.com/Priyank43692137",
     ],
-  },
-
-
-  
-  
-  
+  },  
 ];
 
 export default data;
