@@ -1,6 +1,6 @@
 # Hall of Techies 👩🏼‍💻🧑🏼‍💻
 
-A place for developers from the **[AWS UG Jaipur Rajasthan](https://www.youtube.com/c/awsusergroupjaipurrajasthan)** to show recruiters that they are available for hire. Feel free to contribute and improve this in any way you see fit.
+A Initiavtive by **[AWS UG Jaipur - Rajasthan](https://www.youtube.com/c/awsusergroupjaipurrajasthan)** for developers around the glob to showcase and add their profile on a open platform.
 
 Link to the [website](https://awsugjaipur-halloftechies.web.app/).
 
@@ -8,8 +8,7 @@ Link to the [website](https://awsugjaipur-halloftechies.web.app/).
 
 1. Fork this repository
 
-2. To add your name to the list, go to **src/upload folder and in data.js**, then fill it up with following content and append it at the end of last entry.  
- **Don't remove previous entry**. 
+2. To add your name to the list, go to **src/upload folder and in data.js**, then fill it up with following content and append it at the end of last entry **Don't remove previous entry**. 
 
 ```
 {
