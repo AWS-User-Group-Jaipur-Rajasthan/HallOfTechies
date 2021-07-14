@@ -23,7 +23,7 @@ const data = [
       "https://twitter.com/Ankit15_",
     ],
   },
-    {
+  {
     id: 7003,
     name: "Priyanka Prasad",
     role: "Postman Student Expert | Developer",
