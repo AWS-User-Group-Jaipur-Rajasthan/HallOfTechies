@@ -8,7 +8,8 @@ Link to the [website](https://awsugjaipur-halloftechies.web.app/).
 
 1. Fork this repository
 
-2. To add your name to the list, go to **src/upload folder and in data.js**, then fill it up with following content and append it at the end of last entry **Don't remove previous entry**. 
+2. To add your name to the list, go to **src/upload folder and in data.js**, then fill it up with following content and append it at the end of last entry.  
+ **Don't remove previous entry**. 
 
 ```
 {
