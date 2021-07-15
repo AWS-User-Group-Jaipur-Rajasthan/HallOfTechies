@@ -43,6 +43,17 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+  {
+    name: "Harshit Pandey",
+    role: "MERN Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/69616901?s=60&v=4",
+    skills: ['html', 'css', 'js', 'ReactJS', 'NodeJS', 'MongoDB'],
+    link: [
+      "https://github.com/HarshitPandey251",
+      "https://www.linkedin.com/in/harshit-pandey-7ab915176/",
+      "https://twitter.com/Harshit69219433",
+    ],
+  },
 ];
 
 export default data;
