@@ -1,6 +1,6 @@
 # Hall of Techies 👩🏼‍💻🧑🏼‍💻
 
-A Initiavtive by **[AWS UG Jaipur - Rajasthan](https://www.youtube.com/c/awsusergroupjaipurrajasthan)** for developers around the globe to showcase, and add their profile on an open platform and for beginner who wants make their first open source contribution.
+An initiative by **[AWS UG Jaipur - Rajasthan](https://www.youtube.com/c/awsusergroupjaipurrajasthan)** for developers around the globe to showcase, and add their profile on an open platform and for beginners who wants make their first open source contribution.
 
 Link to the [website](https://awsugjaipur-halloftechies.web.app/).
 
@@ -8,7 +8,7 @@ Link to the [website](https://awsugjaipur-halloftechies.web.app/).
 
 1. Fork this repository
 
-2. To add your name to the list, go to **src/upload folder and then in data.js**, then fill it up with following content and append it at the end of last entry.  
+2. To add your name to the list, go to **src/upload folder/data.js**, then fill it up with following content and append it at the end of last entry.  
 **Don't remove and manipulate previous entry**. 
 
 ```
@@ -33,7 +33,7 @@ Please submit a Pull Request to be added to this list.
 ## How to add profile image to Hall of Techies profile using Github avatars?
 
 - Go to your profile on GitHub.com
-Append to your GitHub profile url “.png”, so it will look like this:
+Append to your GitHub Profile URL “.png”, so it will look like this:
 https://github.com/seema1711.png
 
 - Just copy the URL will look like this, it look like this: https://avatars.githubusercontent.com/u/48756444?v=4
