@@ -1,6 +1,6 @@
 .card {
 	width: 15em;
-	height: 20em;
+	height: auto;
 	padding: 1em;
 	background: rgba(0, 0, 0, 0.671);
 	margin: 3em;
@@ -13,6 +13,7 @@
 	border-radius: 10px;
 	backdrop-filter: blur(5px);
 	transition: all 0.4s linear;
+	/* overflow: auto; */
 }
 
 .card:hover {
