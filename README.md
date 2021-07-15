@@ -41,4 +41,4 @@ https://github.com/seema1711.png
 
 ### Resources
 
-All icons have been sourced from [Material Design Icons](https://materialdesignicons.com) and [Octicons](https://octicons.github.com/)
+All icons have been sourced from [Material UI](https://material-ui.com/)
