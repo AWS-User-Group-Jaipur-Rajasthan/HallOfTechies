@@ -3,9 +3,13 @@ import classes from "./Card.module.css";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import TwitterIcon from "@material-ui/icons/Twitter";
 import GitHubIcon from "@material-ui/icons/GitHub";
-import Tooltip from '@material-ui/core/Tooltip';
 
 export default function Card(props) {
+
+  // const arr = []
+
+
+
   return (
     <div className={classes.card}>
       <img src={props.userData.image} alt="img" />
@@ -16,14 +20,12 @@ export default function Card(props) {
       <div className={classes.bottom}>
         <div className={classes.skills}>
           {props.userData.skills.map(el => {
-            el.length > 5 ? <Tooltip title={el} aria-label="add"> <p key={Math.floor(Math.random() * 10000)}>
+            return el.length > 5 ? <p key={Math.floor(Math.random() * 10000)}>
               {el.substring(0, 5)}...
-            </p> </Tooltip> : <p key={Math.floor(Math.random() * 10000)}>
+            </p> : <p key={Math.floor(Math.random() * 10000)}>
               {el}
             </p>
-          }
-
-          )}
+          })}
         </div>
         <div className={classes.icons}>
           <a
