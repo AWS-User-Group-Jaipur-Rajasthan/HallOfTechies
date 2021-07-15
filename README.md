@@ -12,7 +12,6 @@ Link to the [website](https://awsugjaipur-halloftechies.web.app/).
 
 ```
 {
-    id: ID,
     name: "YOUR NAME",
     role: "YOUR ROLE",
     image: "GITHUB PROFILE IMAGE LINK",
