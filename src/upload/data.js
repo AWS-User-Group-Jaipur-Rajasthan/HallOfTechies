@@ -1,6 +1,5 @@
 const data = [
   {
-    id: 7001,
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
     image: "https://avatars.githubusercontent.com/u/56211500?v=4",
@@ -12,7 +11,6 @@ const data = [
     ],
   },
   {
-    id: 7002,
     name: "Ankit Chaudhari",
     role: "Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/65450600?v=4",
@@ -24,7 +22,6 @@ const data = [
     ],
   },
   {
-    id: 7003,
     name: "Priyanka Prasad",
     role: "Postman Student Expert | Developer",
     image: "https://avatars.githubusercontent.com/u/59612128?s=400&u=508b3cb2b19845ebf3a38aec415d0e455922a816&v=4",
