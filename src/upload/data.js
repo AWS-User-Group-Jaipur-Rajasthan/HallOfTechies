@@ -43,6 +43,17 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+  {
+    name: "Nitesh Thapliyal",
+    role: "Technical Content Writer | Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/53345517?v=4",
+    skills: ['DevOps', 'Cloud', 'Machine Learning', 'Deep Learning'],
+    link: [
+      "https://github.com/Nitesh-thapliyal",
+      "https://linkedin.com/in/nitesh-thapliyal",
+      "https://twitter.com/Bauddhik_Geek",
+    ],
+  },
 ];
 
 export default data;
