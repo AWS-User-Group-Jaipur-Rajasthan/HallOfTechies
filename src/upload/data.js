@@ -32,15 +32,6 @@ const data = [
       "https://twitter.com/Priyank43692137",
     ],
   }, 
-  {
-    name: "Aditya Soni",
-    role: "",
-    image: "",
-    skills: [],
-    link: [
-      
-    ],
-  }, 
 ];
 
 export default data;
