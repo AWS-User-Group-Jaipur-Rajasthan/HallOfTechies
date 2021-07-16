@@ -43,6 +43,17 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+  {
+    name: "Phanindra Kumar",
+    role: "Full Stack Web Developer",
+    image: "https://github.com/phanindra-max.png",
+    skills: ['js', 'react', 'node', 'SQL'],
+    link: [
+      "https://github.com/phanindra-max",
+      "https://linkedin.com/in/phanindra-kumar-kalaga",
+      "https://twitter.com/Phanind52024538",
+    ],
+  }
 ];
 
 export default data;
