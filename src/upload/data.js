@@ -43,6 +43,17 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+  {
+    name: "Rohan Kumar",
+    role: "FrontEnd Developer",
+    image: "https://avatars.githubusercontent.com/u/71714344?v=4",
+    skills: ['HTML', 'Css', 'Python', 'Js'],
+    link: [
+      "https://github.com/starrohan999",
+      "https://linkedin.com/in/starrohan999",
+      "https://twitter.com/RohanKu93825159",
+    ],
+  },
 ];
 
 export default data;
