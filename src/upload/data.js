@@ -51,7 +51,7 @@ const data = [
     link: [
       "https://github.com/varhacks",
       "https://linkedin.com/in/LINKEDIN_USERNAME",
-      "https://twitter.com/real__hacks",
+      "https://twitter.com/TWITTER_USERNAME",
     ],
   }
 ];
