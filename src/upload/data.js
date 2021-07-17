@@ -43,6 +43,17 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+  {
+    name: "Yash Jaiswal",
+    role: "Computer Engineering Student",
+    image: "https://avatars.githubusercontent.com/u/67980466?v=4",
+    skills: ['linux', 'networking', 'java', 'python', 'c++'],
+    link: [
+      "https://github.com/bitorsic",
+      "https://linkedin.com/in/bitorsic",
+      "https://twitter.com/bitorsic",
+    ],
+  }
 ];
 
 export default data;
