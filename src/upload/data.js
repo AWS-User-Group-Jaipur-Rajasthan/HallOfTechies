@@ -43,6 +43,17 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+  {
+    name: "Ryan Dsouza",
+    role: "Full Stack Dev",
+    image: "https://avatars.githubusercontent.com/u/19697099?v=4",
+    skills: ['TS', 'Node', 'GraphQL', 'CDK', 'Serverless', 'k8s', 'React'],
+    link: [
+      "https://github.com/ryands17/",
+      "https://www.linkedin.com/in/ryan-dsouza-880522125/",
+      "https://twitter.com/ryands1701",
+    ],
+  },
 ];
 
 export default data;
