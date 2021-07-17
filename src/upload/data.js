@@ -43,6 +43,17 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+  {
+    name: "Priyanka Banerjee",
+    role: "Sr Data Scientist",
+    image: "https://avatars.githubusercontent.com/u/49121592?v=4",
+    skills: ['Python', 'R', 'Machine Learning', 'Data Analysis', 'AutoML'],
+    link: [
+      "https://github.com/Priktopic",
+      "https://www.linkedin.com/in/priyanka-banerjee-3005/E",
+      "https://twitter.com/lambda_py",
+    ],
+  }
 ];
 
 export default data;
