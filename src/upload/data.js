@@ -43,6 +43,16 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+  {
+    name: "Viral Mamniya",
+    role: "Software Developer | Future Data Scientist",
+    image: "https://avatars.githubusercontent.com/u/64903130",
+    skills: ['php(laravel)','js', 'docker', 'kubernetes', 'python', 'api', 'machine learning', 'deep learning'],
+    link: [
+      "https://github.com/VRL2403",
+      "https://www.linkedin.com/in/viral-mamniya",
+    ],
+  }
 ];
 
 export default data;
