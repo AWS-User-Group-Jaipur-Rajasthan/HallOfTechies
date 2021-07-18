@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Bhavik Jikadara",
+    role: "Python Developer",
+    image: "https://avatars.githubusercontent.com/u/66177876?v=4",
+    skills: ['Python', 'Data Structure in Python', 'Machine Learning', 'Deep Learning', 'Data Science'],
+    link: [
+      "https://github.com/Bhavik-Jikadara",
+      "https://www.linkedin.com/in/bhavik-jikadara-612643190",
+      "https://twitter.com/BhavikJikadara1?s=09",
+    ],
+  }
 ];
 
 export default data;
