@@ -76,8 +76,6 @@ const data = [
       "https://twitter.com/AdityaP84700564",
     ],
   }
-
-
 ];
 
 export default data;
