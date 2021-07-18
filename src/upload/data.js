@@ -65,7 +65,7 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
-    {
+  {
     name: "Areti Pavan",
     role: "CS Undergrad",
     image: "https://avatars.githubusercontent.com/u/62766354?v=4",
