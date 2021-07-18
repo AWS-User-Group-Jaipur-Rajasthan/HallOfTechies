@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+    {
+    name: "Anisha Shukla",
+    role: "Undergrad Student",
+    image: "https://avatars.githubusercontent.com/u/66470180?s=400&v=4",
+    skills: ['cloud computing', 'cyber security', 'django', 'gcp'],
+    link: [
+      "https://github.com/AnishaShukla",
+      "https://linkedin.com/in/anisha-shukla",
+      "https://twitter.com/Anisha_Shukla_",
+    ],
+  },
 ];
 
 export default data;
