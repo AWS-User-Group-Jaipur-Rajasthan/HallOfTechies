@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Jaskeerat Singh",
+    role: "IT Undergrad | MERN Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/64856348?v=4",
+    skills: ['mern stack','java','cpp','python','open-source','cloud-native'],
+    link: [
+      "https://github.com/Jassi10000",
+      "https://www.linkedin.com/in/jaskeerat-singh-5438531a6/",
+      "https://twitter.com/Jaskeer56002158",
+    ],
+  },
 ];
 
 export default data;
