@@ -55,6 +55,17 @@ const data = [
     ],
   },
   {
+    name: "Samarth Agarwal",
+    role: "Software Developer",
+    image: "https://avatars.githubusercontent.com/u/44058680?v=4",
+    skills: ['Java','Python','Cloud Technologies','RestAPIs'],
+    link: [
+      "https://github.com/Thecapable",
+      "https://www.linkedin.com/in/samarth-agarwal-6b9204171/",
+      "https://twitter.com/The_Capable1",
+    ],
+  },
+  {
     name: "Muhammad Sami Khanday",
     role: "CS Undergrad",
     image: "https://avatars.githubusercontent.com/u/61789670?v=4",
