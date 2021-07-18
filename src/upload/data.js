@@ -65,6 +65,16 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+    {
+    name: "Areti Pavan",
+    role: "CS Undergrad",
+    image: "https://github.com/pavan-areti.png",
+    skills: ['competetive programming','web-development'],
+    link: [
+      "https://github.com/pavan-areti",
+      "https://www.linkedin.com/in/pavan-areti-8907131aa/",
+    ],
+  },
 ];
 
 export default data;
