@@ -65,6 +65,19 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Mahima Goyal",
+    role: "CS Undergrad | Open Source Contributor",
+    image: "https://avatars.githubusercontent.com/u/44669552?v=4",
+    skills: ['js', 'react', 'angular', 'flutter', 'asp.net'],
+    link: [
+      "https://github.com/mahimagoyalx",
+      "https://www.linkedin.com/in/mahimagoyal-/",
+      "https://twitter.com/mahimagoyalx",
+    ],
+  }
+
+
 ];
 
 export default data;
