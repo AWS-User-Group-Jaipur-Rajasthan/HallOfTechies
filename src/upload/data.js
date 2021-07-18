@@ -68,7 +68,7 @@ const data = [
   {
     name: "Jatin Agarwal",
     role: "MERN Stack Developer",
-    image: "GITHUB PROFILE IMAGE LINK",
+    image: "https://github.com/JatinAgarwal-1.png",
     skills: ['js', 'react', 'node', 'react native' , 'MongoDB'],
     link: [
       "https://github.com/JatinAgarwal-1",
