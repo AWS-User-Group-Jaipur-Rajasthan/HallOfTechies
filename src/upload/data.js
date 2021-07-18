@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+    {
+    name: "Aditya Prasad Panigrahy",
+    role: "Frontend Developer",
+    image: "https://avatars.githubusercontent.com/u/57298109?v=4",
+    skills: ['html','css','js','react'],
+    link: [
+      "https://github.com/aditya687",
+      "https://www.linkedin.com/in/aditya-panigrahy-59bba8192/",
+      "https://twitter.com/AdityaP84700564",
+    ],
+  },
 ];
 
 export default data;
