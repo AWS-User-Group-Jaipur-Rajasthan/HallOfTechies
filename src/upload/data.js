@@ -33,6 +33,17 @@ const data = [
     ],
   },
   {
+    name: "Aditya Prasad PAnigrahy",
+    role: "Frontend Developer",
+    image: "https://avatars.githubusercontent.com/u/57298109?v=4",
+    skills: ['html', 'css', 'js', 'react'],
+    link: [
+      "https://github.com/aditya687",
+      "https://www.linkedin.com/in/aditya-panigrahy-59bba8192/",
+      "https://twitter.com/AdityaP84700564",
+    ],
+  },
+  {
     name: "Palash Burad",
     role: "Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/36355091?v=4",
