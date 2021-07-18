@@ -65,6 +65,19 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Priyanshu Saini",
+    role: "Ai&Ds Undergraduate",
+    image: "https://avatars.githubusercontent.com/u/87232292?v=4",
+    skills: ['C/C++', 'HTML', 'CSS', 'JavaScript', 'Python'],
+    link: [
+      "https://github.com/CapNik2002",
+      "https://linkedin.com/in/priyanshu-saini-6030a51bb",
+      "https://twitter.com/",
+    ],
+  }
+
+
 ];
 
 export default data;
