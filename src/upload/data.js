@@ -65,6 +65,27 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+
+    name: "Chandra Mohan",
+
+    role: "CS Undergrad | Fullstack Web Developer",
+
+    image: ""https://avatars.githubusercontent.com/u/77689644?v=4,
+
+    skills: ['java', 'javascript', 'nodejs', 'react native'],
+
+    link: [
+
+      "https://github.com/chandramohan0",
+
+      "https://linkedin.com/in/chandramohan01/",
+
+      "https://twitter.com/chandra92017426",
+
+    ],
+
+  }
 ];
 
 export default data;
