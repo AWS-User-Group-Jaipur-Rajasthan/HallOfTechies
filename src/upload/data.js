@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
-];
+  {
+    name: "Aashay Soni",
+    role: "Diploma IT Student",
+    image: "https://avatars.githubusercontent.com/u/66527024?v=4",
+    skills: ['HTML', 'Git', 'CSS','Python','ShellScript','Bash'],
+    link: [
+      "https://github.com/Aashay-Soni",
+      "https://linkedin.com/in/aashay-soni-683a94213",
+      "https://twitter.com/SoniAashay3",
+    ],
+  },
+  {
 
 export default data;
