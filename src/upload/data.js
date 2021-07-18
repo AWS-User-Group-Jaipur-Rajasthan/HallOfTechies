@@ -71,7 +71,7 @@ const data = [
     image: "https://github.com/JatinAgarwal-1.png",
     skills: ['js', 'react', 'node', 'react native' , 'MongoDB'],
     link: [
-      "https://github.com/JatinAgarwal-1",
+      "https://avatars.githubusercontent.com/u/55610764?v=4",
       "https://linkedin.com/in/jatinagarwal-aj",
       "https://twitter.com/_jatin_agarwal",
     ],
