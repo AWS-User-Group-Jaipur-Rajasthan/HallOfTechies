@@ -76,8 +76,6 @@ const data = [
       "https://twitter.com/mahimagoyalx",
     ],
   }
-
-
 ];
 
 export default data;
