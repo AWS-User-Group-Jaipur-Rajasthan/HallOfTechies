@@ -43,6 +43,17 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+  {
+    name: "Ajay Bairwa",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/43534798?v=4",
+    skills: ['HTML', 'CSS', 'Python'],
+    link: [
+      "https://github.com/bairwa25",
+      "https://linkedin.com/in/ajay-bairwa/",
+      "https://twitter.com/bairwaa25",
+    ],
+  },
 ];
 
 export default data;
