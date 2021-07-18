@@ -65,6 +65,19 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Ankit Ranjan",
+    role: "SDE",
+    image: "https://avatars.githubusercontent.com/u/64700993?v=4",
+    skills: ['Python', 'Data Structure', 'AWS', 'GCP'],
+    link: [
+      "https://github.com/ankitranjan9",
+      "https://www.linkedin.com/in/ankitranjann/",
+      "https://twitter.com/ankitranjan9",
+    ],
+  }
+
 ];
+
 
 export default data;
