@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Sangy K",
+    role: "MERN Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/3327904?v=4",
+    skills: ['js','react','node','html5','css3','mongodb'],
+    link: [
+      "https://github.com/sansk",
+      "https://www.linkedin.com/in/sangeetha-kumarasamy/",
+      "https://twitter.com/sangyk_dev",
+    ],
+  },
 ];
 
 export default data;
