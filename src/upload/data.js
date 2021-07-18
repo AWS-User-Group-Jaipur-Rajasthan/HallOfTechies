@@ -53,7 +53,29 @@ const data = [
       "https://www.linkedin.com/in/priyanka-banerjee-3005/E",
       "https://twitter.com/lambda_py",
     ],
-  }
+  },
+  {
+    name: "Nishant Rajput",
+    role: "Technical Content Writer | Linux Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/37553710?v=4",
+    skills: ['Bash', 'Python', 'Docker', 'JS', 'React','API'],
+    link: [
+      "https://github.com/nishant-rajput",
+      "https://www.linkedin.com/in/nishant-rajput",
+      "https://twitter.com/nishant_uwu",
+    ],
+  },
+  {
+    name: "Muhammad Sami Khanday",
+    role: "CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/61789670?v=4",
+    skills: ['devops','ml','mlops','fullstack'],
+    link: [
+      "https://github.com/m-samik",
+      "https://www.linkedin.com/in/m-samik/",
+      "https://twitter.com/msamik7",
+    ],
+  },
 ];
 
 export default data;
