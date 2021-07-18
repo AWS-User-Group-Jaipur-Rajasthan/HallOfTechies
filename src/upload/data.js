@@ -43,6 +43,17 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+  {
+    name: "Nishant Rajput",
+    role: "Technical Content Writer | Linux Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/37553710?v=4",
+    skills: ['Bash', 'Python', 'Docker', 'JS', 'React','API'],
+    link: [
+      "https://github.com/nishant-rajput",
+      "https://www.linkedin.com/in/nishant-rajput",
+      "https://twitter.com/nishant_uwu",
+    ],
+  },
 ];
 
 export default data;
