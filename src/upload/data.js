@@ -44,14 +44,14 @@ const data = [
     ],
   },
   {
-    name: "YOUR NAME",
-    role: "YOUR ROLE",
-    image: "GITHUB PROFILE IMAGE LINK",
-    skills: ['js', 'react', 'node', 'react native'],
+    name: "Vishal Sharma",
+    role: "Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/60502786?v=4",
+    skills: ['JS', 'Angular', 'node', 'BootStrap'],
     link: [
-      "https://github.com/GITHUB_USERNAME",
-      "https://linkedin.com/in/LINKEDIN_USERNAME",
-      "https://twitter.com/TWITTER_USERNAME",
+      "https://github.com/visharma14",
+      "https://www.linkedin.com/in/visharma14/",
+      "https://twitter.com/",
     ],
   },
 ];
