@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Santanu kumar",
+    role: "EXTC undergrad",
+    image: "https://avatars.githubusercontent.com/u/60546202?v=4",
+    skills: ['js', 'react', 'ml', 'python','docker'],
+    link: [
+      "https://github.com/santanukumar666",
+      "https://linkedin.com/in/santanu-kumar-vjti",
+      "https://twitter.com/notsantanuk",
+    ],
+  }
 ];
 
 export default data;
