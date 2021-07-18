@@ -65,6 +65,19 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Jatin Agarwal",
+    role: "MERN Stack Developer",
+    image: "GITHUB PROFILE IMAGE LINK",
+    skills: ['js', 'react', 'node', 'react native' , 'MongoDB'],
+    link: [
+      "https://github.com/JatinAgarwal-1",
+      "https://linkedin.com/in/jatinagarwal-aj",
+      "https://twitter.com/_jatin_agarwal",
+    ],
+  }
+
+
 ];
 
 export default data;
