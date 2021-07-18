@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Milan Rawat",
+    role: "Student | MERN Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/75739793?v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/Milan-rawat",
+      "https://www.linkedin.com/in/milan-rawat",
+      "https://twitter.com/milan8rawat",
+    ],
+  }
 ];
 
 export default data;
