@@ -76,6 +76,5 @@ const data = [
       "https://twitter.com/SoniAashay3",
     ],
   },
-  {
 
 export default data;
