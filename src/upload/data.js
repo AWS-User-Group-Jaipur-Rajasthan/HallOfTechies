@@ -68,7 +68,7 @@ const data = [
     {
     name: "Areti Pavan",
     role: "CS Undergrad",
-    image: "https://github.com/pavan-areti.png",
+    image: "https://avatars.githubusercontent.com/u/62766354?v=4",
     skills: ['competetive programming','web-development'],
     link: [
       "https://github.com/pavan-areti",
