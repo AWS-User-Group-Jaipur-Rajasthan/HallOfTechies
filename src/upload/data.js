@@ -55,6 +55,17 @@ const data = [
     ],
   },
   {
+    name: "Varghese Jose",
+    role: "Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/87559397?v=4",
+    skills: ['HTML', 'Js', 'CSS', 'react native'],
+    link: [
+      "https://github.com/varhacks",
+      "https://linkedin.com/in/LINKEDIN_USERNAME",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  },
+  {
     name: "Varshil Shah",
     role: "Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/22892867?v=4",
@@ -65,6 +76,7 @@ const data = [
       "https://twitter.com/varshil39",
     ],
   },
+  {
     name: "Phanindra Kumar",
     role: "Full Stack Web Developer",
     image: "https://github.com/phanindra-max.png",
