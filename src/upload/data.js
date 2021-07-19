@@ -69,7 +69,7 @@ const data = [
 {
     name: "Nishith Patel",
     role: "Student",
-    image: "https://github.com/account",
+    image: "https://avatars.githubusercontent.com/u/58653204?v=4",
     skills: ['js', 'react', 'ml', 'data sciece'],
     link: [
       "https://github.com/Nishith6",
