@@ -75,6 +75,6 @@ const data = [
       "https://www.linkedin.com/in/nishith-patel-0b2463166/",
       "https://twitter.com/Nishith62665915",
     ],
-  }
+  },
   ];
 export default data;
