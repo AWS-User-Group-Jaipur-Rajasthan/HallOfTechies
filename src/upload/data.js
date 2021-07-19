@@ -257,6 +257,17 @@ const data = [
     ],
   },
   {
+    name: "Milan Rawat",
+    role: "Student | MERN Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/75739793?v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/Milan-rawat",
+      "https://www.linkedin.com/in/milan-rawat",
+      "https://twitter.com/milan8rawat",
+    ],
+  },
+  {
     name: "Priyanshu Saini",
     role: "Ai&Ds Undergraduate",
     image: "https://avatars.githubusercontent.com/u/87232292?v=4",
@@ -266,21 +277,20 @@ const data = [
       "https://linkedin.com/in/priyanshu-saini-6030a51bb",
       "https://twitter.com/",
     ],
-  }
-
-
-];
-{
-  name: "Ankit Mahajan",
+  },
+  {
+    name: "Ankit Mahajan",
     role: "Student",
-      image: "https://avatars.githubusercontent.com/u/69541646?v=4",
-        skills: ['AWS', 'Docker', 'DBMS', 'Hadoop', 'C-Programming', 'Python'],
-          link: [
-            "https://github.com/Ankit851",
-            "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
-            "https://twitter.com/AnkitMa72507083",
-          ],
+    image: "https://avatars.githubusercontent.com/u/69541646?v=4",
+    skills: ['AWS', 'Docker', 'DBMS', 'Hadoop', 'C-Programming', 'Python'],
+    link: [
+      "https://github.com/Ankit851",
+      "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
+      "https://twitter.com/AnkitMa72507083",
+    ],
   }
+];
+
 
 
 
