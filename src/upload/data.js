@@ -130,6 +130,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Manish Kumar Barnwal",
+    role: "Web Developer",
+    image: "https://avatars.githubusercontent.com/u/46371923?v=4",
+    skills: ['HTML','CSS','js','Python'],
+    link: [
+      "https://github.com/imanishbarnwal",
+      "https://www.linkedin.com/in/imanishbarnwal",
+      "https://twitter.com/imanishbarnwal",
+    ],
+  },
 ];
 
 export default data;
