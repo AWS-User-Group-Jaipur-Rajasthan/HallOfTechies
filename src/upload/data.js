@@ -130,6 +130,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Ajit Fawade",
+    role: "MERN Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/16475300?v=4",
+    skills: ['js', 'react', 'node'],
+    link: [
+      "https://github.com/ajitfawade",
+      "https://www.linkedin.com/in/ajitfawade/",
+      "https://twitter.com/ajitfawade",
+    ],
+  },
 ];
 
 export default data;
