@@ -25,7 +25,7 @@ const data = [
     name: "Priyanka Prasad",
     role: "Postman Student Expert | Developer",
     image: "https://avatars.githubusercontent.com/u/59612128?s=400&u=508b3cb2b19845ebf3a38aec415d0e455922a816&v=4",
-    skills: ['html', 'css', 'js', 'docker','api'],
+    skills: ['html', 'css', 'js', 'docker', 'api'],
     link: [
       "https://github.com/P-riyanka-prasad",
       "https://www.linkedin.com/in/priyanka677/",
@@ -47,7 +47,7 @@ const data = [
     name: "Nishant Rajput",
     role: "Technical Content Writer | Linux Enthusiast",
     image: "https://avatars.githubusercontent.com/u/37553710?v=4",
-    skills: ['Bash', 'Python', 'Docker', 'JS', 'React','API'],
+    skills: ['Bash', 'Python', 'Docker', 'JS', 'React', 'API'],
     link: [
       "https://github.com/nishant-rajput",
       "https://www.linkedin.com/in/nishant-rajput",
@@ -58,13 +58,24 @@ const data = [
     name: "Muhammad Sami Khanday",
     role: "CS Undergrad",
     image: "https://avatars.githubusercontent.com/u/61789670?v=4",
-    skills: ['devops','ml','mlops','fullstack'],
+    skills: ['devops', 'ml', 'mlops', 'fullstack'],
     link: [
       "https://github.com/m-samik",
       "https://www.linkedin.com/in/m-samik/",
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Prathamesh Borse",
+    role: "Exploring Frontend Development, Technical Content Writer",
+    image: "https://avatars.githubusercontent.com/u/66899360?v=4",
+    skills: ['html', 'css', 'java', 'Python', 'c++'],
+    link: [
+      "https://github.com/prathamesh-borse",
+      "https://linkedin.com/in/prathamesh-borse",
+      "https://twitter.com/Dev_Prathamtwt",
+    ],
+  }
 ];
 
 export default data;
