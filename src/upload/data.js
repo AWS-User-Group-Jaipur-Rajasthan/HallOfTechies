@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Jainish Shah",
+    role: "Google cloud enthusiast|CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/47889375?v=4",
+    skills: ['Python', 'Java', 'ML', 'API','Frontend'],
+    link: [
+      "https://github.com/Jainish-shah",
+      "https://www.linkedin.com/in/jainish-shah25/",
+      "https://twitter.com/Jainish_25",
+    ],
+  },
 ];
 
 export default data;
