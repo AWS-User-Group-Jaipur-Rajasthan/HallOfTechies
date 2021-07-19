@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Palak Singhania",
+    role: "Developer | Cloud Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/67850145?v=4",
+    skills: ['AWS', 'Flutter', 'Java', 'React Native', 'HTML', 'CSS', 'JS'],
+    link: [
+      "https://github.com/palaksinghania05",
+      "https://linkedin.com/in/palak-s-837b1519b/",
+      "https://twitter.com/ThisIs_Palak",
+    ],
+  }
 ];
 
 export default data;
