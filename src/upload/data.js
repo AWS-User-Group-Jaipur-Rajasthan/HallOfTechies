@@ -68,7 +68,7 @@ const data = [
   {
     name: "DEEPAK KUMAR SAH",
     role: "APPS DEVELOPER",
-    image: "GITHUB PROFILE IMAGE LINK",
+    image: "https://avatars.githubusercontent.com/u/87613102?v=4",
     skills: ['js', 'react', 'node', 'react native'],
     link: [
       "https://github.com/GITHUB_USERNAME",
