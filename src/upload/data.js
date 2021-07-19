@@ -32,7 +32,6 @@ const data = [
       "https://twitter.com/Priyank43692137",
     ],
   },
-  
   {
     name: "Varshil Shah",
     role: "Full Stack Developer",
@@ -75,7 +74,7 @@ const data = [
       "https://linkedin.com/in/phanindra-kumar-kalaga",
       "https://twitter.com/Phanind52024538",
     ],
-  }
+  },
   {
     name: "Nitesh Thapliyal",
     role: "Technical Content Writer | Full Stack Developer",
