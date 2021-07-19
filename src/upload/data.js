@@ -76,7 +76,7 @@ const data = [
       "https://linkedin.com/in/akshat-lakhara-355064201",
       "https://twitter.com/lakhara-akshat",
     ],
-  }
+  },
 
 
 
