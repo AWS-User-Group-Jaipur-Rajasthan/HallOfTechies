@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Ankit Banerjee",
+    role: "Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/63962369?v=4",
+    skills: ['js', 'react', 'HTML', 'CSS', 'NodeJS'],
+    link: [
+      "https://github.com/ankitbanerjee0211",
+      "https://www.linkedin.com/in/ankit-banerjee-0211/",
+      "https://twitter.com/AnkitBan0211",
+    ],
+  },
 ];
 
 export default data;
