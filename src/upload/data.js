@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Mayonk Kumar Behera",
+    role: "Web Developer | React mobile app developer",
+    image: "https://avatars.githubusercontent.com/u/54724381?v=4",
+    skills: ['js', 'react', 'react native', 'flask'],
+    link: [
+      "https://github.com/mayonk-kumar-git",
+      "https://www.linkedin.com/in/mayonk-kumar/",
+      "https://twitter.com/_mayank_kumar__",
+    ],
+  },
 ];
 
 export default data;
