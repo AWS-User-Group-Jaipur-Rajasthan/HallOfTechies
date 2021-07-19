@@ -65,6 +65,18 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Archit Garg",
+    role: "Web Developer",
+    image: "https://avatars.githubusercontent.com/u/57831888?v=4",
+    skills: ['Javascript', 'React', 'Node', 'Redux', 'Express'],
+    link: [
+      "https://github.com/architgarg603",
+      "https://www.linkedin.com/in/architgarg603/",
+      "",
+    ],
+  }
+
 ];
 
 export default data;
