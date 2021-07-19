@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Shashank",
+    role: "ECE Undergrad",
+    image: "https://avatars.githubusercontent.com/u/79925129?v=4",
+    skills: ['HTML5','CSS','Python','Django'],
+    link: [
+      "https://github.com/Shashankkrj",
+      "https://www.linkedin.com/in/shashank-a12a851a0/",
+      "https://twitter.com/SHASHAN99905454",
+    ],
+  },
 ];
 
 export default data;
