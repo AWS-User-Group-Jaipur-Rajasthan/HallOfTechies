@@ -268,6 +268,12 @@ const data = [
     ],
   }
 
-
+{
+  name: "Himanshu Verma",
+  role: "Student",
+  image: "https://avatars.githubusercontent.com/u/72593058?v=4",
+  skills: ['Full-Stack Developer','C++'],
+  link: ["https://github.com/hv65616","https://www.linkedin.com/in/himanshu-verma-94a1a41b8/","https://twitter.com/beWho_U_R"],
+},
 
 export default data;
