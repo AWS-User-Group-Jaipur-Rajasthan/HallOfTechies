@@ -66,5 +66,15 @@ const data = [
     ],
   },
 ];
-
+{
+    name: "Nishith Patel",
+    role: "Student",
+    image: "https://github.com/account",
+    skills: ['js', 'react', 'ml', 'data sciece'],
+    link: [
+      "https://github.com/Nishith6",
+      "https://www.linkedin.com/in/nishith-patel-0b2463166/",
+      "https://twitter.com/Nishith62665915",
+    ],
+  }
 export default data;
