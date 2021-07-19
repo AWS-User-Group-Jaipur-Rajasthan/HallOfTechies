@@ -9,6 +9,17 @@ const data = [
       "https://linkedin.com",
       "https://twitter.com",
     ],
+  }, 
+  {
+    name: "Mohtasham Sayeed Mohiuddin",
+    role: "Full Stack Developer/ Cloud Developer",
+    image: "https://avatars.githubusercontent.com/u/77109645?v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/mohtasham9",
+      "https://www.linkedin.com/in/mohtasham-sayeed-mohiuddin-a844311a0",
+      "https://twitter.com/Mohtasham7862",
+    ],
   },
   {
     name: "Ankit Chaudhari",
