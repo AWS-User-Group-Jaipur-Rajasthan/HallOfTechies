@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Balasubramanian T K",
+    role: "IT Undergraduate | Software development enthusiast",
+    image: "https://avatars.githubusercontent.com/u/47392334?v=4",
+    skills: ['C/CPP, Py3, ES8, React.JS, Firebase, AWS'],
+    link: [
+      "https://github.com/btkcodedev".
+      "https://www.linkedin.com/in/b-t-k/",
+      "https://twitter.com/ibala_tk",
+    ],
+  },
 ];
 
 export default data;
