@@ -121,6 +121,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Anupam Haldkar",
+    role:"Tech Dev",
+    image: "https://avatars.githubusercontent.com/u/48323127?v=4",
+    skills: ['Spring','MongoDB','js','flask'],
+    link: [
+      "https://github.com/anupamhaldkar",
+      "https://www.linkedin.com/in/ahaldkar/",
+      "https://twitter.com/AnupamHaldkar",
+    ],
+  }   
 ];
 
 export default data;
