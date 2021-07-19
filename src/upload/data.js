@@ -65,8 +65,7 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
-];
-{
+  {
     name: "Nishith Patel",
     role: "Student",
     image: "https://avatars.githubusercontent.com/u/58653204?v=4",
@@ -77,4 +76,5 @@ const data = [
       "https://twitter.com/Nishith62665915",
     ],
   }
+  ];
 export default data;
