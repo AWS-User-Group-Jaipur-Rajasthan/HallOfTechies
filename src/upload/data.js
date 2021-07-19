@@ -190,6 +190,17 @@ const data = [
   },
 
   {
+    image: "GITHUB PROFILE IMAGE LINK",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/GITHUB_USERNAME",
+      "https://linkedin.com/in/LINKEDIN_USERNAME",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  }
+
+
+  {
     name: "Varshil Shah",
     role: "Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/22892867?v=4",
@@ -312,6 +323,22 @@ const data = [
     ],
   }
 ];
+
+
+   {
+    name: "Shruti Agrawal",
+    role: "Microsoft student Ambassador",
+    image: "https://avatars.githubusercontent.com/u/67502500?v=4",
+    skills: ['tsql', 'python', 'DBMS', 'C++'],
+    link: [
+      "https://github.com/shru2408",
+      "https://www.linkedin.com/in/shruti-agrawal-2001/",
+      "https://twitter.com/ShruAg",
+    ],
+  }
+
+
+
 
 
 
