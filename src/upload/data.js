@@ -219,6 +219,19 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  
+  {
+    name: "Navjyot Bhele",
+    role: "IT Undergraduate",
+    image: "https://avatars.githubusercontent.com/u/67120782?v=4",
+    skills: ['js', 'react', 'node', 'java'],
+    link: [
+      "https://github.com/navjyot18",
+      "https://linkedin.com/in/navjyot-bhele-902452191/",
+    ],
+  }
+
+
 ];
 
 export default data;
