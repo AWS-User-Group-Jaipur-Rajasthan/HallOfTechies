@@ -78,6 +78,18 @@ const data = [
     ],
   },
   {
+
+    name: "Ayush Parikh",
+    role: "Full Stack Devloper | Content Writer ",
+    image: "https://avatars.githubusercontent.com/u/60268067?v=4",
+    skills: ['js', 'react', 'node', 'gcp', 'aws', 'python'],
+    link: [
+      "https://github.com/Ayushparikh-code",
+      "https://www.linkedin.com/in/ayush-parikh332/",
+      "https://twitter.com/ayushparikh5",
+    ],
+  },
+  {
     name: "Rohan Kumar",
     role: "FrontEnd Developer",
     image: "https://avatars.githubusercontent.com/u/71714344?v=4",
@@ -86,8 +98,8 @@ const data = [
       "https://github.com/starrohan999",
       "https://linkedin.com/in/starrohan999",
       "https://twitter.com/RohanKu93825159",
-      ],
-     },
+    ],
+  },
   {
     name: "Debarshi Mondal",
     role: "Full Stack Developer",
