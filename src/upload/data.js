@@ -310,7 +310,19 @@ const data = [
       "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
       "https://twitter.com/AnkitMa72507083",
     ],
+  },
+  {
+    name: "Nayan Kamal Verma",
+    role: "cs undergraduate",
+    image: "https://avatars.githubusercontent.com/u/65735338?v=4",
+    skills: ['c/c++', 'python', 'google_cloud', 'Azure','DBMS'],
+    link: [
+      "https://github.com/nayankamalverma",
+      "https://www.linkedin.com/in/nayan-verma-a4b9771b5/",
+    ],
   }
+
+
 ];
 
 
