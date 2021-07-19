@@ -310,7 +310,18 @@ const data = [
       "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
       "https://twitter.com/AnkitMa72507083",
     ],
-  }
+  },
+  {
+    name: "Vimal M",
+    role: "CSE sophomore | DevOps enthusiast",
+    image: "https://avatars.githubusercontent.com/u/76787061?v=4",
+    skills: ['Python', 'React', 'Docker', 'Kubernetes', 'cloud'],
+    link: [
+      "https://github.com/vimalprogrammer",
+      "https://www.linkedin.com/in/vimalprogrammer/",
+      "https://twitter.com/Vimal46701132",
+    ],
+  },
 ];
 
 
