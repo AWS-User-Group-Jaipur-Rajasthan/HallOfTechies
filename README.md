@@ -13,8 +13,8 @@ Link to the [website](https://awsugjaipur-halloftechies.web.app/).
 
 ```
 {
-    name: "NAME",
-    role: "YOUR ROLE",
+    name: "Nishith Patel",
+    role: "Student",
     image: "GITHUB PROFILE IMAGE LINK",
     skills: ['js', 'react', 'node', 'react native'],
     link: [
