@@ -65,6 +65,22 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+ 
+  {
+    name: "Akshat Lakhara",
+    role: "Electrical undergrad",
+    image: "https://avatars.githubusercontent.com/u/85992585?v=4",
+    skills: ['js', 'css', 'html', 'cpp'],
+    link: [
+      "https://github.com/Akshatlakhara",
+      "https://linkedin.com/in/akshat-lakhara-355064201",
+      "https://twitter.com/lakhara-akshat",
+    ],
+  }
+
+
+
+
 ];
 
 export default data;
