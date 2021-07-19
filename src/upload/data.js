@@ -65,6 +65,18 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "koushik Mondal",
+    role: "BCA Student",
+    image: "https://avatars.githubusercontent.com/u/84120351?v=4",
+    skills: ['C', 'C++', 'Python', 'DBMS'],
+    link: [
+      "https://github.com/koushikm8926",
+      "https://linkedin.com/in/koushik-mondal-091102207/",
+      "https://twitter.com/koushik47515934",
+    ],
+  }
+
 ];
 
 export default data;
