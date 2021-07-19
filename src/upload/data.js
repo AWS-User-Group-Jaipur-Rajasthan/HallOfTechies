@@ -65,6 +65,16 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "B Harshit",
+    role: "IT Undergrad",
+    image:
+    skills:['ml','cloud computing','python'],
+    link:[
+      "https://twitter.com/Be_Harshdwaj",
+      "https://www.linkedin.com/in/b-harshit-593089187/",
+      ],
+  },   
 ];
 
 export default data;
