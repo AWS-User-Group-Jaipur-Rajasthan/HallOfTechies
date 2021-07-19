@@ -77,6 +77,17 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+  {
+    name: "Vishal Sharma",
+    role: "Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/60502786?v=4",
+    skills: ['JS', 'Angular', 'node', 'BootStrap'],
+    link: [
+      "https://github.com/visharma14",
+      "https://www.linkedin.com/in/visharma14/",
+      "https://twitter.com/",
+    ],
+  },
 
   {
     name: "Priyanka Banerjee",
