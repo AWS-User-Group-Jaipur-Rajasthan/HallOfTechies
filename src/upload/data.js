@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Sai Bhargav R",
+    role: "Chatbot Developer",
+    image: "https://avatars.githubusercontent.com/u/37236514?s=400&v=4",
+    skills: ['Node JS','API','Python'],
+    link: [
+      "https://github.com/RsBhargav",
+      "https://www.linkedin.com/in/sai-bhargav-rallapalli-39110891/",
+      "https://twitter.com/rs_bhargav",
+    ],
+  },
 ];
 
 export default data;
