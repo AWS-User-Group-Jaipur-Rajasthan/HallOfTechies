@@ -54,6 +54,61 @@ const data = [
       "https://twitter.com/Phanind52024538",
     ],
   }
+  {
+    name: "Nitesh Thapliyal",
+    role: "Technical Content Writer | Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/53345517?v=4",
+    skills: ['DevOps', 'Cloud', 'Machine Learning', 'Deep Learning'],
+    link: [
+      "https://github.com/Nitesh-thapliyal",
+      "https://linkedin.com/in/nitesh-thapliyal",
+      "https://twitter.com/Bauddhik_Geek",
+    ],
+  },
+  {
+    name: "Hemanth Raj Naganaboyina",
+    role: "Application Developer",
+    image: "https://avatars.githubusercontent.com/u/24850890?v=4",
+    skills: ['aws','java','js', 'react', 'node'],
+    link: [
+      "https://github.com/hemanthnaganaboyina",
+      "https://linkedin.com/in/hemanth-r-naganaboyina-2a1383128",
+      "https://twitter.com/@RajNaganaboyina",
+    ],
+  },
+  {
+    name: "Harshit Pandey",
+    role: "MERN Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/69616901?s=60&v=4",
+    skills: ['html', 'css', 'js', 'ReactJS', 'NodeJS', 'MongoDB'],
+    link: [
+      "https://github.com/HarshitPandey251",
+      "https://www.linkedin.com/in/harshit-pandey-7ab915176/",
+      "https://twitter.com/Harshit69219433",
+    ],
+  },
+  {
+    name: "Nishant Rajput",
+    role: "Technical Content Writer | Linux Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/37553710?v=4",
+    skills: ['Bash', 'Python', 'Docker', 'JS', 'React','API'],
+    link: [
+      "https://github.com/nishant-rajput",
+      "https://www.linkedin.com/in/nishant-rajput",
+      "https://twitter.com/nishant_uwu",
+    ],
+  },
+  {
+    name: "Muhammad Sami Khanday",
+    role: "CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/61789670?v=4",
+    skills: ['devops','ml','mlops','fullstack'],
+    link: [
+      "https://github.com/m-samik",
+      "https://www.linkedin.com/in/m-samik/",
+      "https://twitter.com/msamik7",
+    ],
+  },
 ];
 
 export default data;
