@@ -79,6 +79,17 @@ const data = [
   },
   {
 
+    name: "Yash Jaiswal",
+    role: "Computer Engineering Student",
+    image: "https://avatars.githubusercontent.com/u/67980466?v=4",
+    skills: ['linux', 'networking', 'java', 'python', 'c++'],
+    link: [
+      "https://github.com/bitorsic",
+      "https://linkedin.com/in/bitorsic",
+      "https://twitter.com/bitorsic",
+    ],
+  },
+  {
     name: "Ayush Parikh",
     role: "Full Stack Devloper | Content Writer ",
     image: "https://avatars.githubusercontent.com/u/60268067?v=4",
