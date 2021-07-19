@@ -78,7 +78,16 @@ const data = [
     ],
   },
   {
-
+    name: "Viral Mamniya",
+    role: "Software Developer | Future Data Scientist",
+    image: "https://avatars.githubusercontent.com/u/64903130",
+    skills: ['php(laravel)','js', 'docker', 'kubernetes', 'python', 'api', 'machine learning', 'deep learning'],
+    link: [
+      "https://github.com/VRL2403",
+      "https://www.linkedin.com/in/viral-mamniya",
+    ],
+  },
+  {
     name: "Yash Jaiswal",
     role: "Computer Engineering Student",
     image: "https://avatars.githubusercontent.com/u/67980466?v=4",
