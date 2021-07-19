@@ -44,6 +44,18 @@ const data = [
     ],
   },
   {
+
+    name: "Harshit Pandey",
+    role: "MERN Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/69616901?s=60&v=4",
+    skills: ['html', 'css', 'js', 'ReactJS', 'NodeJS', 'MongoDB'],
+    link: [
+      "https://github.com/HarshitPandey251",
+      "https://www.linkedin.com/in/harshit-pandey-7ab915176/",
+      "https://twitter.com/Harshit69219433",
+    ],
+  },
+    {
     name: "Nishant Rajput",
     role: "Technical Content Writer | Linux Enthusiast",
     image: "https://avatars.githubusercontent.com/u/37553710?v=4",
@@ -63,6 +75,7 @@ const data = [
       "https://github.com/m-samik",
       "https://www.linkedin.com/in/m-samik/",
       "https://twitter.com/msamik7",
+
     ],
   },
 ];
