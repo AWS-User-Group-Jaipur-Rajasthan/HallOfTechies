@@ -44,6 +44,17 @@ const data = [
     ],
   },
   {
+    name: "Phanindra Kumar",
+    role: "Full Stack Web Developer",
+    image: "https://github.com/phanindra-max.png",
+    skills: ['js', 'react', 'node', 'SQL'],
+    link: [
+      "https://github.com/phanindra-max",
+      "https://linkedin.com/in/phanindra-kumar-kalaga",
+      "https://twitter.com/Phanind52024538",
+    ],
+  }
+  {
     name: "Nitesh Thapliyal",
     role: "Technical Content Writer | Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/53345517?v=4",
@@ -76,7 +87,7 @@ const data = [
       "https://twitter.com/Harshit69219433",
     ],
   },
-    {
+  {
     name: "Nishant Rajput",
     role: "Technical Content Writer | Linux Enthusiast",
     image: "https://avatars.githubusercontent.com/u/37553710?v=4",
