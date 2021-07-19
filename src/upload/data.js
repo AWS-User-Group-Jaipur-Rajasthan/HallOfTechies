@@ -77,6 +77,19 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+
+ {
+    name: "Priyanka Banerjee",
+    role: "Sr Data Scientist",
+    image: "https://avatars.githubusercontent.com/u/49121592?v=4",
+    skills: ['Python', 'R', 'Machine Learning', 'Data Analysis', 'AutoML'],
+    link: [
+      "https://github.com/Priktopic",
+      "https://www.linkedin.com/in/priyanka-banerjee-3005/E",
+      "https://twitter.com/lambda_py",
+     ],
+   },
+   
   {
     name: "Sayed Mohd Kazim Mehdi",
     role: "Mobile App Developer",
@@ -163,6 +176,7 @@ const data = [
       "https://twitter.com/TWITTER_USERNAME",
     ],
   },
+
   {
     name: "Varshil Shah",
     role: "Full Stack Developer",
@@ -216,6 +230,7 @@ const data = [
       "https://github.com/HarshitPandey251",
       "https://www.linkedin.com/in/harshit-pandey-7ab915176/",
       "https://twitter.com/Harshit69219433",
+
     ],
   },
   {
