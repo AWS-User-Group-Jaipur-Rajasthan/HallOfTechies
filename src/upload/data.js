@@ -78,6 +78,17 @@ const data = [
     ],
   },
   {
+    name: "Rohan Kumar",
+    role: "FrontEnd Developer",
+    image: "https://avatars.githubusercontent.com/u/71714344?v=4",
+    skills: ['HTML', 'Css', 'Python', 'Js'],
+    link: [
+      "https://github.com/starrohan999",
+      "https://linkedin.com/in/starrohan999",
+      "https://twitter.com/RohanKu93825159",
+      ],
+     },
+  {
     name: "Debarshi Mondal",
     role: "Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/52108126?v=4",
