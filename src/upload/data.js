@@ -66,5 +66,16 @@ const data = [
     ],
   },
 ];
-
+{
+    name: "Muthu Annamalai.V",
+    role: "CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/64524822?v=4",
+    skills: ['HTML', 'CSS', 'js'],
+    link: [
+      "https://github.com/muthuannamalai12",
+      "https://linkedin.com/in/muthu-annamalai",
+      "https://twitter.com/muthuannamalai_",
+    ],
+  },
+];
 export default data;
