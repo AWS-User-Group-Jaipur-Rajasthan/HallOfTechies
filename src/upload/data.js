@@ -33,6 +33,17 @@ const data = [
     ],
   },
   {
+    name: "Varshil Shah",
+    role: "Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/22892867?v=4",
+    skills: ['html', 'css', 'js', 'docker'],
+    link: [
+      "https://github.com/Varshil9",
+      "https://linkedin.com/in/varshilshah30/",
+      "https://twitter.com/varshil39",
+    ],
+  },
+  {
     name: "Palash Burad",
     role: "Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/36355091?v=4",
@@ -44,6 +55,8 @@ const data = [
     ],
   },
   {
+
+ {
     name: "Priyanka Banerjee",
     role: "Sr Data Scientist",
     image: "https://avatars.githubusercontent.com/u/49121592?v=4",
@@ -52,6 +65,62 @@ const data = [
       "https://github.com/Priktopic",
       "https://www.linkedin.com/in/priyanka-banerjee-3005/E",
       "https://twitter.com/lambda_py",
+     ],
+   },
+  {
+    name: "Varshil Shah",
+    role: "Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/22892867?v=4",
+    skills: ['html', 'css', 'js', 'docker'],
+    link: [
+      "https://github.com/Varshil9",
+      "https://linkedin.com/in/varshilshah30/",
+      "https://twitter.com/varshil39",
+    ],
+  },
+  {
+    name: "Phanindra Kumar",
+    role: "Full Stack Web Developer",
+    image: "https://github.com/phanindra-max.png",
+    skills: ['js', 'react', 'node', 'SQL'],
+    link: [
+      "https://github.com/phanindra-max",
+      "https://linkedin.com/in/phanindra-kumar-kalaga",
+      "https://twitter.com/Phanind52024538",
+    ],
+  },
+  {
+    name: "Nitesh Thapliyal",
+    role: "Technical Content Writer | Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/53345517?v=4",
+    skills: ['DevOps', 'Cloud', 'Machine Learning', 'Deep Learning'],
+    link: [
+      "https://github.com/Nitesh-thapliyal",
+      "https://linkedin.com/in/nitesh-thapliyal",
+      "https://twitter.com/Bauddhik_Geek",
+    ],
+  },
+  {
+    name: "Hemanth Raj Naganaboyina",
+    role: "Application Developer",
+    image: "https://avatars.githubusercontent.com/u/24850890?v=4",
+    skills: ['aws','java','js', 'react', 'node'],
+    link: [
+      "https://github.com/hemanthnaganaboyina",
+      "https://linkedin.com/in/hemanth-r-naganaboyina-2a1383128",
+      "https://twitter.com/@RajNaganaboyina",
+    ],
+  },
+  {
+    name: "Harshit Pandey",
+    role: "MERN Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/69616901?s=60&v=4",
+    skills: ['html', 'css', 'js', 'ReactJS', 'NodeJS', 'MongoDB'],
+    link: [
+      "https://github.com/HarshitPandey251",
+      "https://www.linkedin.com/in/harshit-pandey-7ab915176/",
+      "https://twitter.com/Harshit69219433",
+
     ],
   },
   {
