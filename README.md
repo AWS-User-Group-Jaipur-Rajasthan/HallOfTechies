@@ -15,12 +15,12 @@ Link to the [website](https://awsugjaipur-halloftechies.web.app/).
 {
     name: "Nishith Patel",
     role: "Student",
-    image: "GITHUB PROFILE IMAGE LINK",
+    image: "https://github.com/account",
     skills: ['js', 'react', 'node', 'react native'],
     link: [
-      "https://github.com/GITHUB_USERNAME",
-      "https://linkedin.com/in/LINKEDIN_USERNAME",
-      "https://twitter.com/TWITTER_USERNAME",
+      "https://github.com/Nishith6",
+      "https://www.linkedin.com/in/nishith-patel-0b2463166/",
+      "https://twitter.com/Nishith62665915",
     ],
   }
 
