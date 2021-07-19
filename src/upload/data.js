@@ -66,5 +66,18 @@ const data = [
     ],
   },
 ];
+{
+    name: "Tarun Upadhayay",
+    role: "Python,C++ Programmer",
+    image: "https://avatars.githubusercontent.com/u/65597321?v=4",
+    skills: ['Python', 'C++', 'MySQL'],
+    link: [
+      "https://github.com/tarunupadhayay",
+      "https://www.linkedin.com/in/tarun-upadhayay-9a2a601a5/",
+      "https://twitter.com/TarunUpadhaya14",
+    ],
+  }
+
+
 
 export default data;
