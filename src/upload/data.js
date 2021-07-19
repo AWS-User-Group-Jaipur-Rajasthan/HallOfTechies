@@ -78,7 +78,18 @@ const data = [
     ],
   },
   {
-    name: "Viral Mamniya",
+    name: "Aastha Saxena",
+    role: "Web Developer",
+    image: "https://avatars.githubusercontent.com/u/64476429?v=4",
+    skills: ['C++', 'HTML', 'CSS', 'JS'],
+    link: [
+      "https://github.com/aasthasaxena217",
+      "https://www.linkedin.com/in/aastha2/",
+      "https://twitter.com/_AasthaSaxena",
+      ]
+  },
+   {
+     name: "Viral Mamniya",
     role: "Software Developer | Future Data Scientist",
     image: "https://avatars.githubusercontent.com/u/64903130",
     skills: ['php(laravel)','js', 'docker', 'kubernetes', 'python', 'api', 'machine learning', 'deep learning'],
