@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+    {
+    name: "Kunal Virdi",
+    role: "CSE Undergraduate",
+    image: "https://avatars.githubusercontent.com/u/71556630?s=400&u=814017268defb949a610757aa6767b38bc211c98&v=4",
+    skills: ['ReactJs','C++','Java','Python'],
+    link: [
+      "https://github.com/mrkunal7",
+      "https://www.linkedin.com/in/kunal-virdi-b51a431b2/",
+      "https://twitter.com/KunalVirdi07",
+    ],
+  }
 ];
 
 export default data;
