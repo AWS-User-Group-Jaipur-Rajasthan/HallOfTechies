@@ -44,6 +44,18 @@ const data = [
     ],
   },
   {
+
+    name: "Mayur Parmar",
+    role: "CyberSecurity Researcher",
+    image: "https://avatars.githubusercontent.com/u/54601394?s=400&u=3b28f47ccba8411ad1284714e569e4c9a8227d93&v=4",
+    skills: ['python', 'penetration testing', 'digital forensics'],
+    link: [
+      "https://github.com/th3cyb3rc0p",
+      "https://www.linkedin.com/in/th3cyb3rc0p/",
+      "https://twitter.com/th3cyb3rc0p",
+    ]
+  },
+  {
     name: "Varshil Shah",
     role: "Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/22892867?v=4",
@@ -63,6 +75,40 @@ const data = [
       "https://github.com/palash9561",
       "https://www.linkedin.com/in/palashburad26/",
       "https://twitter.com/palashburad26",
+    ],
+  },
+  {
+
+    name: "Yash Jaiswal",
+    role: "Computer Engineering Student",
+    image: "https://avatars.githubusercontent.com/u/67980466?v=4",
+    skills: ['linux', 'networking', 'java', 'python', 'c++'],
+    link: [
+      "https://github.com/bitorsic",
+      "https://linkedin.com/in/bitorsic",
+      "https://twitter.com/bitorsic",
+    ],
+  },
+  {
+    name: "Ayush Parikh",
+    role: "Full Stack Devloper | Content Writer ",
+    image: "https://avatars.githubusercontent.com/u/60268067?v=4",
+    skills: ['js', 'react', 'node', 'gcp', 'aws', 'python'],
+    link: [
+      "https://github.com/Ayushparikh-code",
+      "https://www.linkedin.com/in/ayush-parikh332/",
+      "https://twitter.com/ayushparikh5",
+    ],
+  },
+  {
+    name: "Rohan Kumar",
+    role: "FrontEnd Developer",
+    image: "https://avatars.githubusercontent.com/u/71714344?v=4",
+    skills: ['HTML', 'Css', 'Python', 'Js'],
+    link: [
+      "https://github.com/starrohan999",
+      "https://linkedin.com/in/starrohan999",
+      "https://twitter.com/RohanKu93825159",
     ],
   },
   {
