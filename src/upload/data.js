@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Varad Patil",
+    role: "CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/47272906?v=4",
+    skills: ['python','c++','react','js','node', 'express', 'docker', 'java'],
+    link: [
+      "https://github.com/varadp2000",
+      "https://www.linkedin.com/in/varad-patil-0a3b4b169/",
+      "https://twitter.com/VaradPa49468565",
+    ],
+  },
 ];
 
 export default data;
