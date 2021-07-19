@@ -311,6 +311,19 @@ const data = [
       "https://twitter.com/AnkitMa72507083",
     ],
   }
+  {
+    name: "Aditya Srivastava",
+    role: "Student",
+    image: "https://github.com/zxabchttps://avatars.githubusercontent.com/u/72244050?v=4",
+    skills: [ 'css', 'html', 'python'],
+    link: [
+      "https://github.com/Zxabc",
+      "https://linkedin.com/",
+      "https://twitter.com/@Zxabc3",
+    ],
+  }
+
+
 ];
 
 
