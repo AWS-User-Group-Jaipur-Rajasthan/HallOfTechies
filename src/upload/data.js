@@ -44,6 +44,18 @@ const data = [
     ],
   },
   {
+
+    name: "Mayur Parmar",
+    role: "CyberSecurity Researcher",
+    image: "https://avatars.githubusercontent.com/u/54601394?s=400&u=3b28f47ccba8411ad1284714e569e4c9a8227d93&v=4",
+    skills: ['python', 'penetration testing', 'digital forensics'],
+    link: [
+      "https://github.com/th3cyb3rc0p",
+      "https://www.linkedin.com/in/th3cyb3rc0p/",
+      "https://twitter.com/th3cyb3rc0p",
+    ]
+  },
+  {
     name: "Varshil Shah",
     role: "Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/22892867?v=4",
