@@ -78,7 +78,7 @@ const data = [
     ],
   },
 
- {
+  {
     name: "Priyanka Banerjee",
     role: "Sr Data Scientist",
     image: "https://avatars.githubusercontent.com/u/49121592?v=4",
@@ -87,21 +87,22 @@ const data = [
       "https://github.com/Priktopic",
       "https://www.linkedin.com/in/priyanka-banerjee-3005/E",
       "https://twitter.com/lambda_py",
-     ],
-   },
-   
+    ],
+  },
+
   {
     name: "Sayed Mohd Kazim Mehdi",
     role: "Mobile App Developer",
     image: "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
-    skills: ['Android','Java','Kotlin','Python','CI/CD'],
+    skills: ['Android', 'Java', 'Kotlin', 'Python', 'CI/CD'],
     link: [
       "https://github.com/kazimsayed954",
       "https://www.linkedin.com/in/kazimsayed/",
       "https://twitter.com/kazimsayed954",
-]
+    ]
   },
-      name: "Aastha Saxena",
+  {
+    name: "Aastha Saxena",
     role: "Web Developer",
     image: "https://avatars.githubusercontent.com/u/64476429?v=4",
     skills: ['C++', 'HTML', 'CSS', 'JS'],
@@ -109,13 +110,13 @@ const data = [
       "https://github.com/aasthasaxena217",
       "https://www.linkedin.com/in/aastha2/",
       "https://twitter.com/_AasthaSaxena",
-      ]
+    ]
   },
-   {
-     name: "Viral Mamniya",
+  {
+    name: "Viral Mamniya",
     role: "Software Developer | Future Data Scientist",
     image: "https://avatars.githubusercontent.com/u/64903130",
-    skills: ['php(laravel)','js', 'docker', 'kubernetes', 'python', 'api', 'machine learning', 'deep learning'],
+    skills: ['php(laravel)', 'js', 'docker', 'kubernetes', 'python', 'api', 'machine learning', 'deep learning'],
     link: [
       "https://github.com/VRL2403",
       "https://www.linkedin.com/in/viral-mamniya",
@@ -257,15 +258,15 @@ const data = [
   },
 ];
 {
-    name: "Ankit Mahajan",
+  name: "Ankit Mahajan",
     role: "Student",
-    image: "https://avatars.githubusercontent.com/u/69541646?v=4",
-    skills: ['AWS', 'Docker', 'DBMS', 'Hadoop', 'C-Programming', 'Python'],
-    link: [
-      "https://github.com/Ankit851",
-      "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
-      "https://twitter.com/AnkitMa72507083",
-    ],
+      image: "https://avatars.githubusercontent.com/u/69541646?v=4",
+        skills: ['AWS', 'Docker', 'DBMS', 'Hadoop', 'C-Programming', 'Python'],
+          link: [
+            "https://github.com/Ankit851",
+            "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
+            "https://twitter.com/AnkitMa72507083",
+          ],
   }
 
 
