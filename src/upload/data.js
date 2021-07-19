@@ -256,5 +256,18 @@ const data = [
     ],
   },
 ];
+{
+    name: "Ankit Mahajan",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/69541646?v=4",
+    skills: ['AWS', 'Docker', 'DBMS', 'Hadoop', 'C-Programming', 'Python'],
+    link: [
+      "https://github.com/Ankit851",
+      "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
+      "https://twitter.com/AnkitMa72507083",
+    ],
+  }
+
+
 
 export default data;
