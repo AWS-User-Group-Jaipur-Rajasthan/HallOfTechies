@@ -45,6 +45,17 @@ const data = [
   },
   {
 
+    name: "Hemanth Raj Naganaboyina",
+    role: "Application Developer",
+    image: "https://avatars.githubusercontent.com/u/24850890?v=4",
+    skills: ['aws','java','js', 'react', 'node'],
+    link: [
+      "https://github.com/hemanthnaganaboyina",
+      "https://linkedin.com/in/hemanth-r-naganaboyina-2a1383128",
+      "https://twitter.com/@RajNaganaboyina",
+    ],
+  },
+  {
     name: "Harshit Pandey",
     role: "MERN Stack Developer",
     image: "https://avatars.githubusercontent.com/u/69616901?s=60&v=4",
