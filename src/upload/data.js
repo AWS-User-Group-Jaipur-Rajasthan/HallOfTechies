@@ -164,6 +164,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Nehal Jaisalmeria",
+    role: "Software Developer",
+    image: "https://avatars.githubusercontent.com/u/32421196?v=4",
+    skills: ['JavaScript', 'Angular', 'Node', 'Flutter', 'iOS'],
+    link: [
+      "https://github.com/nehal076",
+      "https://linkedin.com/in/nehal076",
+      "https://twitter.com/nehal076",
+    ],
+  }
 ];
 
 export default data;
