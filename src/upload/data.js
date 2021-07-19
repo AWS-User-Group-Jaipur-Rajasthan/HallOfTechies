@@ -69,13 +69,15 @@ const data = [
     name: "Aditya Prasad Panigrahy",
     role: "Frontend Developer",
     image: "https://avatars.githubusercontent.com/u/57298109?v=4",
-    skills: ['js', 'react', 'html', 'css'],
+    skills: ['html', 'css', 'nodejs', 'reactjs'],
     link: [
       "https://github.com/aditya687",
       "https://www.linkedin.com/in/aditya-panigrahy-59bba8192/",
       "https://twitter.com/AdityaP84700564",
     ],
-  }
+  },
 ];
+
+
 
 export default data;
