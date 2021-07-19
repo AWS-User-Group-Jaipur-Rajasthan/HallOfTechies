@@ -78,7 +78,17 @@ const data = [
     ],
   },
   {
-    name: "Aastha Saxena",
+    name: "Sayed Mohd Kazim Mehdi",
+    role: "Mobile App Developer",
+    image: "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
+    skills: ['Android','Java','Kotlin','Python','CI/CD'],
+    link: [
+      "https://github.com/kazimsayed954",
+      "https://www.linkedin.com/in/kazimsayed/",
+      "https://twitter.com/kazimsayed954",
+]
+  },
+      name: "Aastha Saxena",
     role: "Web Developer",
     image: "https://avatars.githubusercontent.com/u/64476429?v=4",
     skills: ['C++', 'HTML', 'CSS', 'JS'],
