@@ -13,7 +13,7 @@ Link to the [website](https://awsugjaipur-halloftechies.web.app/).
 
 ```
 {
-    name: "YOUR NAME",
+    name: "NAME",
     role: "YOUR ROLE",
     image: "GITHUB PROFILE IMAGE LINK",
     skills: ['js', 'react', 'node', 'react native'],
