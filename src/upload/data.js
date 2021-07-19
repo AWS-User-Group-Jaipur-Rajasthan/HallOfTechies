@@ -311,6 +311,19 @@ const data = [
       "https://twitter.com/AnkitMa72507083",
     ],
   }
+  {
+    name: "Shubham Gupta",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/15152368?v=4",
+    skills: ['js', 'react', 'node','aws','pyhton','java','git','github','jenkins','jira','oracle','mysql','android studio','GoLang', 'react native'],
+    link: [
+      "https://github.com/shubhamgupta083",
+      "https://www.linkedin.com/in/shubham-gupta-1028b3171/",
+      "https://twitter.com/Shubham32781475",
+    ],
+  }
+
+
 ];
 
 
