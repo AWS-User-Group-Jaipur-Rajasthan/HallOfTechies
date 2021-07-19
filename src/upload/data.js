@@ -131,7 +131,7 @@ const data = [
       "https://www.linkedin.com/in/ahaldkar/",
       "https://twitter.com/AnupamHaldkar",
     ],
-  }   
+  },   
 ];
 
 export default data;
