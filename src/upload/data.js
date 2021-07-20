@@ -310,7 +310,21 @@ const data = [
       "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
       "https://twitter.com/AnkitMa72507083",
     ],
+  },
+  
+  {
+    name: "Nitish Saini",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/39373956?v=4",
+    skills: ['js', 'react', 'node', 'Blockchain' , 'solidity' ,'C++','python','system administrator','Mariadb','mysql'],
+    link: [
+      "https://github.com/nitishsaini706",
+      "https://www.linkedin.com/in/nitish-saini-524315197/",
+      "https://twitter.com/nitishs41097565",
+    ],
   }
+
+
 ];
 
 
