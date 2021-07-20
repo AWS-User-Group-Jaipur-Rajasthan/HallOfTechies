@@ -82,7 +82,7 @@ const data = [
     name: "Vishal Sharma",
     role: "Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/60502786?v=4",
-    skills: ['JS', 'Angular', 'node', 'BootStrap'],
+    skills: ["JS", "Angular", "node", "BootStrap"],
     link: [
       "https://github.com/visharma14",
       "https://www.linkedin.com/in/visharma14/",
@@ -110,19 +110,15 @@ const data = [
       "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
     skills: ["Android", "Java", "Kotlin", "Python", "CI/CD"],
 
-    image: "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
-    skills: ['Android', 'Java', 'Kotlin', 'Python', 'CI/CD'],
+    image:
+      "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
+    skills: ["Android", "Java", "Kotlin", "Python", "CI/CD"],
 
     link: [
       "https://github.com/kazimsayed954",
       "https://www.linkedin.com/in/kazimsayed/",
       "https://twitter.com/kazimsayed954",
-
     ],
-  },
-
-
-    ]
   },
 
   {
@@ -135,10 +131,6 @@ const data = [
       "https://www.linkedin.com/in/aastha2/",
       "https://twitter.com/_AasthaSaxena",
     ],
-  },
-
-=======
-    ]
   },
 
   {
@@ -157,7 +149,16 @@ const data = [
       "deep learning",
     ],
 
-    skills: ['php(laravel)', 'js', 'docker', 'kubernetes', 'python', 'api', 'machine learning', 'deep learning'],
+    skills: [
+      "php(laravel)",
+      "js",
+      "docker",
+      "kubernetes",
+      "python",
+      "api",
+      "machine learning",
+      "deep learning",
+    ],
 
     link: [
       "https://github.com/VRL2403",
@@ -313,18 +314,19 @@ const data = [
     name: "Mahima Goyal",
     role: "CS Undergrad | Open Source Contributor",
     image: "https://avatars.githubusercontent.com/u/44669552?v=4",
-    skills: ['js', 'react', 'angular', 'flutter', 'asp.net'],
+    skills: ["js", "react", "angular", "flutter", "asp.net"],
     link: [
       "https://github.com/mahimagoyalx",
       "https://www.linkedin.com/in/mahimagoyal-/",
       "https://twitter.com/mahimagoyalx",
-      ]
+    ],
   },
-    {
+  {
     name: "Jahanvi Sharma",
     role: "Developer",
-    image: "https://avatars.githubusercontent.com/u/56484763?s=400&u=2b960213c7167ce8552af8c1a4da5ffb8ab9a53d&v=4",
-    skills: ['HTML', 'PYTHON', 'CSS', 'UI/UX'],
+    image:
+      "https://avatars.githubusercontent.com/u/56484763?s=400&u=2b960213c7167ce8552af8c1a4da5ffb8ab9a53d&v=4",
+    skills: ["HTML", "PYTHON", "CSS", "UI/UX"],
     link: [
       "https://github.com/jahanvisharma-dotcom",
       "https://www.linkedin.com/in/jahanvi-sharma-5333a8174/",
@@ -335,19 +337,21 @@ const data = [
   {
     name: "Ayush",
     role: "CSE UG Student",
-    image: "https://avatars.githubusercontent.com/u/71834130?s=400&u=23f6e38a9b578aed5c7a25250113bc37f971adc6&v=4",
-    skills: ['Java', 'Git', 'Android'],
+    image:
+      "https://avatars.githubusercontent.com/u/71834130?s=400&u=23f6e38a9b578aed5c7a25250113bc37f971adc6&v=4",
+    skills: ["Java", "Git", "Android"],
     link: [
       "https://github.com/AyusH1912",
       "https://linkedin.com/in/ayush19-",
       "https://twitter.com/iamayush_7",
-      ]
+    ],
   },
   {
     name: "Yogeshwari Bahiram",
     role: "Student",
-    image: "https://avatars.githubusercontent.com/u/56786259?s=400&u=4773021624ea7332fbd3e841a78642a34dca598b&v=4",
-    skills: ['js', 'react', 'node', 'django'],
+    image:
+      "https://avatars.githubusercontent.com/u/56786259?s=400&u=4773021624ea7332fbd3e841a78642a34dca598b&v=4",
+    skills: ["js", "react", "node", "django"],
     link: [
       "https://github.com/yogeshwari-20000609",
       "https://linkedin.com/in/yogeshwari-bahiram/",
@@ -358,7 +362,7 @@ const data = [
     name: "Areti Pavan",
     role: "CS Undergrad",
     image: "https://avatars.githubusercontent.com/u/62766354?v=4",
-    skills: ['competetive programming','web-development'],
+    skills: ["competetive programming", "web-development"],
     link: [
       "https://github.com/pavan-areti",
       "https://www.linkedin.com/in/pavan-areti-8907131aa/",
@@ -368,18 +372,24 @@ const data = [
     name: "Bhavik Jikadara",
     role: "Python Developer",
     image: "https://avatars.githubusercontent.com/u/66177876?v=4",
-    skills: ['Python', 'Data Structure in Python', 'Machine Learning', 'Deep Learning', 'Data Science'],
+    skills: [
+      "Python",
+      "Data Structure in Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Science",
+    ],
     link: [
       "https://github.com/Bhavik-Jikadara",
       "https://www.linkedin.com/in/bhavik-jikadara-612643190",
       "https://twitter.com/BhavikJikadara1?s=09",
-      ]
+    ],
   },
   {
     name: "Sangy K",
     role: "MERN Stack Developer",
     image: "https://avatars.githubusercontent.com/u/3327904?v=4",
-    skills: ['js','react','node','html5','css3','mongodb'],
+    skills: ["js", "react", "node", "html5", "css3", "mongodb"],
     link: [
       "https://github.com/sansk",
       "https://www.linkedin.com/in/sangeetha-kumarasamy/",
@@ -390,7 +400,7 @@ const data = [
     name: "Milan Rawat",
     role: "Student | MERN Stack Developer",
     image: "https://avatars.githubusercontent.com/u/75739793?v=4",
-    skills: ['js', 'react', 'node', 'react native'],
+    skills: ["js", "react", "node", "react native"],
     link: [
       "https://github.com/Milan-rawat",
       "https://www.linkedin.com/in/milan-rawat",
@@ -401,7 +411,7 @@ const data = [
     name: "Priyanshu Saini",
     role: "Ai&Ds Undergraduate",
     image: "https://avatars.githubusercontent.com/u/87232292?v=4",
-    skills: ['C/C++', 'HTML', 'CSS', 'JavaScript', 'Python'],
+    skills: ["C/C++", "HTML", "CSS", "JavaScript", "Python"],
     link: [
       "https://github.com/CapNik2002",
       "https://linkedin.com/in/priyanshu-saini-6030a51bb",
@@ -419,14 +429,7 @@ const data = [
       "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
       "https://twitter.com/AnkitMa72507083",
     ],
-
   },
-  }
-];
-
-
-
-
   {
     name: "Himanshu Verma",
     role: "Student",
@@ -439,4 +442,5 @@ const data = [
     ],
   },
 ];
+
 export default data;
