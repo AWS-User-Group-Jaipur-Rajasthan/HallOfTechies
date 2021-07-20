@@ -724,6 +724,17 @@ const data = [
       "https://www.linkedin.com/in/divya-jainn/",
       " https://twitter.com/Divya82248572?s=08",
     ],
+  },
+   {
+    name: "Kunal Gosavi",
+    role: "CSE UG Student",
+    image: "https://avatars.githubusercontent.com/u/73009249?v=4",
+    skills: ['java', 'AWS','js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/kunalgosavi",
+      "www.linkedin.com/in/kunal-gosavi1999",
+      "https://twitter.com/KUNAL_GOSAVI_?s=09",
+    ],
   }
 
 ];
