@@ -672,6 +672,19 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+  {
+    name: "Bhumi Rana",
+    role: "btech CSE student",
+    image: "https://avatars.githubusercontent.com/u/87715249?v=4",
+    skills: ['CSS', 'C', 'node', 'html'],
+    link: [
+      "https://github.com/bhumirana15",
+      "https://linkedin.com/in/LINKEDIN_USERNAME",
+      "https://twitter.com/bhumirana14",
+    ],
+  }
+
+
 ];
 
 export default data;
