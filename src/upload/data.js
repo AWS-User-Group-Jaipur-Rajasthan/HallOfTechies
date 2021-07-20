@@ -656,7 +656,7 @@ const data = [
     image: "https://avatars.githubusercontent.com/u/47392334?v=4",
     skills: ['C/CPP, Py3, ES8, React.JS, Firebase, AWS'],
     link: [
-      "https://github.com/btkcodedev".
+      "https://github.com/btkcodedev",
       "https://www.linkedin.com/in/b-t-k/",
       "https://twitter.com/ibala_tk",
     ],
@@ -672,6 +672,16 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+{
+  name: "Hemant Kumar Singh",
+  role: "Web Developer | React mobile app developer",
+  image: "https://avatars.githubusercontent.com/u/73472506?s=400&u=a270e3b7ebdb3a2596bebb19011cd87d05990913&v=4",
+  skills: ['c', 'c++', 'python', 'java script'],
+  link: [
+    "https://github.com/hemant11ks",
+    "https://www.linkedin.com/in/hemant-kumar-singh-singh-15216204/",
+    "https://twitter.com/HemantK01618866",
+  ],
+}
 ];
-
 export default data;
