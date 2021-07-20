@@ -321,6 +321,20 @@ const data = [
       "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
       "https://twitter.com/AnkitMa72507083",
     ],
+<<<<<<< Updated upstream
+=======
+  },
+  {
+    name: "Jainish Shah",
+    role: "Python Developer|Google cloud enthusiast|CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/47889375?v=4",
+    skils: ['Python', 'Java', 'ML', 'API','Frontend','OpenCV','Data Science'],
+    links: [
+      "https://github.com/Jainish-shah",
+      "https://www.linkedin.com/in/jainish-shah25/",
+      "https://twitter.com/Jainish_25",
+    ],
+>>>>>>> Stashed changes
   }
 ];
 
