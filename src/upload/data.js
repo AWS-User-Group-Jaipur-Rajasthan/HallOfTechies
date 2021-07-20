@@ -657,6 +657,27 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+  {
+
+    name: "Chandu Vadde",
+
+    role: "Computer Science Engineering Student",
+
+    image: "https://avatars.githubusercontent.com/u/62535597?v=4",
+
+    skills: ['html', 'css', 'js', 'ml','python'],
+
+    link: [
+
+      "https://github.com/Chandu2000",
+
+      "https://www.linkedin.com/in/chandu-vadde-065019193",
+
+      "https://twitter.com/ChanduVadde4?s=09",
+
+    ],
+
+  },
 ];
 
 export default data;
