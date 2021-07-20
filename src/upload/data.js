@@ -323,6 +323,19 @@ const data = [
     ],
   }
 ];
+{
+    name: "Ankit Raj",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/60232414?v=4",
+    skills: ['AWS', 'react', 'node', 'react native','python','java','HTML','CSS'],
+    link: [
+      "https://github.com/MONTOX123",
+      "https://linkedin.com/in/ankit-raj-01aa751a0",
+      "https://twitter.com/@AnkitRa42015278",
+    ],
+  }
+
+
 
 
 
