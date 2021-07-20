@@ -304,6 +304,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Harekrishna Rai",
+    role: "Cybersecurity Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/63994966?s=400&u=2066915121ace8b6a8cd363f56f62d18381add21&v=4",
+    skills: ['aws', 'k8s', 'docker', 'linux'],
+    link: [
+      "https://github.com/harekrishnarai",
+      "https://linkedin.com/in/harekrishnarai",
+      "https://twitter.com/harekrishna_rai",
+    ],
+  },
 
   {
     name: "Samarth Agarwal",
