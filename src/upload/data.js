@@ -672,6 +672,19 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+  {
+    name: "Shubham Kumar Singh",
+    role: "Developer",
+    image: "https://avatars.githubusercontent.com/u/61842432?s=400&u=727b4b64607a3613cda001b45521ba90ee5fced6&v=4",
+    skills: ['HTML', 'JAVA', 'CSS', 'UI/UX'],
+    link: [
+      "https://github.com/NightWalker110",
+      "https://www.linkedin.com/in/-shubham-kumar-singh/",
+      "https://twitter.com/ShubhamkSingh77",
+    ],
+  }
+
+
 ];
 
 export default data;
