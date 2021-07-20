@@ -310,6 +310,17 @@ const data = [
     ],
   },
   {
+    name: "Jaskeerat Singh",
+    role: "IT Undergrad | MERN Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/64856348?v=4",
+    skills: ['mern stack','java','cpp','python','open-source','cloud-native'],
+    link: [
+      "https://github.com/Jassi10000",
+      "https://www.linkedin.com/in/jaskeerat-singh-5438531a6/",
+      "https://twitter.com/Jaskeer56002158",
+      ]
+  },
+  {
     name: "Chandra Mohan",
 
     role: "CS Undergrad | Fullstack Web Developer",
@@ -458,9 +469,7 @@ const data = [
       "https://twitter.com/beWho_U_R",
     ],
   },
-];
-
-{
+  {
     name: "YOGESH JHA",
     role: "STUDENT",
     image: "GITHUB PROFILE IMAGE LINK",
@@ -471,5 +480,8 @@ const data = [
       "https://twitter.com/77_hound",
     ],
   }
+];
+
+
 
 export default data;
