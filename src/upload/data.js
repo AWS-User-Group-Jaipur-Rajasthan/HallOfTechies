@@ -672,6 +672,17 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+  {
+    name: "V.Chandra Shekhar",
+    role: "Full Stack Developer|Cloud Enthusiast|AI-ML Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/13059783?v=4",
+    skills: ['js','Python','SQL','Excel','C#','Core Java'],
+    link: [
+      "https://github.com/vcs200831",
+      "https://www.linkedin.com/in/v-chandra-shekhar-4a233140/",
+      "https://twitter.com/vchandrashekhar",
+    ],
+  },
 ];
 
 export default data;
