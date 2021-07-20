@@ -582,6 +582,17 @@ const data = [
     ],
   },
   {
+    name: "Archit Garg",
+    role: "Web Developer",
+    image: "https://avatars.githubusercontent.com/u/57831888?v=4",
+    skills: ['Javascript', 'React', 'Node', 'Redux', 'Express'],
+    link: [
+      "https://github.com/architgarg603",
+      "https://www.linkedin.com/in/architgarg603/",
+      "",
+    ],
+  },
+  {
     name: 'Himanshu Verma',
     role: 'Student',
     image: 'https://avatars.githubusercontent.com/u/72593058?v=4',
@@ -613,8 +624,6 @@ const data = [
       "https://www.linkedin.com/in/ayush-mishra-7137051b4/",
     ],
   },
-
-
 ];
 
 export default data;
