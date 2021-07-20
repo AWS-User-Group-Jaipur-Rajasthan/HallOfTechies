@@ -685,6 +685,17 @@ const data = [
       "https://twitter.com/lord-haji",
     ],
   },
+  {
+    name: "Siddhant Pradhan",
+    role: "Working Professional at TCS",
+    image: "https://avatars.githubusercontent.com/u/48193075?v=4",
+    skills: ['js', 'Django', 'Cloud Computing', 'python', 'Data Science & Business Analytics', 'Digital Marketing'],
+    link: [
+      "https://github.com/siddhant2202",
+      "https://www.linkedin.com/in/siddhant-pradhan-613a141a5/",
+      "https://twitter.com/Siddhan24486358",
+    ],
+  },
 ];
 
 export default data;
