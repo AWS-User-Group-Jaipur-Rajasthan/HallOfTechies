@@ -478,6 +478,17 @@ const data = [
       "https://twitter.com/77_hound",
     ],
   },
+  {
+    name: "Siva Sankar Chandu",
+    role: "Fresher | AWS Intern",
+    image: "https://avatars.githubusercontent.com/u/57555760?v=4",
+    skills: ['AWS', 'Python', 'Git', 'Packer', 'Linux'],
+    link: [
+      "https://github.com/SivaSankarChandu",
+      "https://www.linkedin.com/in/chandusivasankar/",
+      "https://twitter.com/sivasankarchand/",
+    ],
+  },
 ];
 
 
