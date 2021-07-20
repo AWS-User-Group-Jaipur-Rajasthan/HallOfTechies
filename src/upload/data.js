@@ -672,6 +672,18 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+  {
+    name: "Akshay Vishwakarma",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/47742322?v=4",
+    skills: ["Angular", "Python", "C++", "Arduino"],
+    link: [
+      "https://github.com/SalientAuthor",
+      "https://www.linkedin.com/in/akshay-vishwakarma-a29694196",
+      "https://twitter.com/Akshay32648002",
+    ],
+  }
+
 ];
 
 export default data;
