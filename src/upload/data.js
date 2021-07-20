@@ -706,7 +706,19 @@ const data = [
       "https://www.linkedin.com/in/divya-jainn/",
       " https://twitter.com/Divya82248572?s=08",
     ],
+  },
+{
+    name: "Shashvat Gupta",
+    role: "Cloud Automation Engineer",
+    image: "https://avatars.githubusercontent.com/u/31903587?v=4",
+    skills: ['Jenkins', 'Azure Infrastructure', 'c # MVC Dot Net', 'PostgreSQL', 'SQLServer'],
+    link: [
+      "https://github.com/imshashvatgupta",
+      "https://linkedin.com/in/imshashvatgupta",
+      "https://twitter.com/imshashvatgupta",
+    ],
   }
+
 
 ];
 
