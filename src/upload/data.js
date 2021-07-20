@@ -656,7 +656,7 @@ const data = [
     image: "https://avatars.githubusercontent.com/u/47392334?v=4",
     skills: ['C/CPP, Py3, ES8, React.JS, Firebase, AWS'],
     link: [
-      "https://github.com/btkcodedev".
+      "https://github.com/btkcodedev",
       "https://www.linkedin.com/in/b-t-k/",
       "https://twitter.com/ibala_tk",
     ],
@@ -672,6 +672,17 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+    {
+    name: "Kunal Virdi",
+    role: "Web Developer | CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/71556630?v=4",
+    skills: ['ReactJS','Java','Python','DSA'],
+    link: [
+      "https://github.com/mrkunal7",
+      "https://www.linkedin.com/in/kunal-virdi-b51a431b2/",
+      "https://twitter.com/KunalVirdi07",
+    ],
+  }
 ];
 
 export default data;
