@@ -1,5 +1,26 @@
 const data = [
   {
+
+    name: "V SREENIVAS",
+
+    role: "Devops",
+
+    image: "GITHUB PROFILE IMAGE LINK",
+
+    skills: ['js', 'react', 'node', 'react native','kubernetes'],
+
+    link: [
+
+      "https://github.com/cnu1812",
+
+      "https://www.linkedin.com/in/v-sreenivas-985088203",
+
+      "https://twitter.com/seenuv96520797?s=09",
+
+    ],
+
+  }
+  {
     name: 'Akash Khandelwal',
     role: 'MERN Stack Developer',
     image: 'https://avatars.githubusercontent.com/u/56211500?v=4',
