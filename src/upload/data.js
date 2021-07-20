@@ -268,6 +268,17 @@ const data = [
     ],
   },
   {
+    name: "Bhavik Jikadara",
+    role: "Python Developer",
+    image: "https://avatars.githubusercontent.com/u/66177876?v=4",
+    skills: ['Python', 'Data Structure in Python', 'Machine Learning', 'Deep Learning', 'Data Science'],
+    link: [
+      "https://github.com/Bhavik-Jikadara",
+      "https://www.linkedin.com/in/bhavik-jikadara-612643190",
+      "https://twitter.com/BhavikJikadara1?s=09",
+      ]
+  },
+  {
     name: "Sangy K",
     role: "MERN Stack Developer",
     image: "https://avatars.githubusercontent.com/u/3327904?v=4",
