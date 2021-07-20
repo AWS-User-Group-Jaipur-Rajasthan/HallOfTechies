@@ -310,6 +310,17 @@ const data = [
     ],
   },
   {
+    name: "Aashay Soni",
+    role: "Diploma IT Student",
+    image: "https://avatars.githubusercontent.com/u/66527024?v=4",
+    skills: ['HTML', 'Git', 'CSS','Python','ShellScript','Bash'],
+    link: [
+      "https://github.com/Aashay-Soni",
+      "https://linkedin.com/in/aashay-soni-683a94213",
+      "https://twitter.com/SoniAashay3",
+    ],
+  },
+  {
     name: "Jaskeerat Singh",
     role: "IT Undergrad | MERN Stack Developer",
     image: "https://avatars.githubusercontent.com/u/64856348?v=4",
