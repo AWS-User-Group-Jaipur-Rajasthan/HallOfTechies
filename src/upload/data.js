@@ -672,6 +672,17 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+  {
+    name: "Yudhajit Sinha",
+    role: "CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/17973367?v=4",
+    skills: ['js','angular','react','electron','.NET'],
+    link: [
+      "https://github.com/lord-haji",
+      "https://www.linkedin.com/in/yudhajit-sinha-a6729a211/",
+      "https://twitter.com/lord-haji",
+    ],
+  },
 ];
 
 export default data;
