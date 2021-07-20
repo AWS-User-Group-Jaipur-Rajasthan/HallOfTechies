@@ -616,7 +616,7 @@ const data = [
   },
   {
     name: "Ayush Mishra",
-    role: "B.Tech CSE Student at Dronacharya Ggroup of Institutions",
+    role: "B.Tech CSE Student at Dronacharya Group of Institutions",
     image: "https://avatars.githubusercontent.com/u/84743134?v=4",
     skills: ['js', 'react', 'node', 'react native'],
     link: [
