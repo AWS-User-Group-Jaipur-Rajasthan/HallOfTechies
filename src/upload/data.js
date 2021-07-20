@@ -603,6 +603,18 @@ const data = [
       'https://twitter.com/77_hound',
     ],
   },
+  {
+    name: "Ayush Mishra",
+    role: "B.Tech CSE Student at Dronacharya Ggroup of Institutions",
+    image: "https://avatars.githubusercontent.com/u/84743134?v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/ayuush13",
+      "https://www.linkedin.com/in/ayush-mishra-7137051b4/",
+    ],
+  },
+
+
 ];
 
 export default data;
