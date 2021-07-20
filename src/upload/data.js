@@ -672,6 +672,17 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+  {
+    name: "Tanjim Shah Kabir",
+    role: "Ethical Hacker",
+    image: "https://avatars.githubusercontent.com/u/87455494?s=400&u=1ea2194010240c055eddbe4f21318dc6ca247139&v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/trinob2006",
+      "https://www.linkedin.com/in/tanjim-shah-kabir-trinob-8a040820b/",
+       "https://www.instagram.com/trinob_shah/",
+    ],
+  }
 ];
 
 export default data;
