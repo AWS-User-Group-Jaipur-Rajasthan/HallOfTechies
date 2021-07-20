@@ -33,6 +33,19 @@ const data = [
     ],
   },
   {
+    name: "NIDHI CHAURASIA",
+    role: "CONTENT WRITER || DEVELOPER || COMPETITIVE CODER",
+    image: "https://avatars.githubusercontent.com/u/77978770?v=4",
+    skills: ['my sql', 'docker', 'node', 'google cloud'],
+    link: [
+      "https://github.com/NidhiChaurasia",
+      "https://linkedin.com/in/nidhi-chaurasia-62b0781bb/",
+      "https://twitter.com/TweedyCharm",
+    ],
+  },
+
+
+  {
     name: "Priyanka Prasad",
     role: "Postman Student Expert | Developer",
     image: "https://avatars.githubusercontent.com/u/59612128?s=400&u=508b3cb2b19845ebf3a38aec415d0e455922a816&v=4",
