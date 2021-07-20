@@ -105,8 +105,10 @@ const data = [
   {
     name: "Sayed Mohd Kazim Mehdi",
     role: "Mobile App Developer",
-    image: "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
+    image:
+      "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
     skills: ["Android", "Java", "Kotlin", "Python", "CI/CD"],
+
     link: [
       "https://github.com/kazimsayed954",
       "https://www.linkedin.com/in/kazimsayed/",
@@ -125,10 +127,12 @@ const data = [
       "https://twitter.com/_AasthaSaxena",
     ],
   },
+
   {
     name: "Viral Mamniya",
     role: "Software Developer | Future Data Scientist",
     image: "https://avatars.githubusercontent.com/u/64903130",
+
     skills: [
       "php(laravel)",
       "js",
@@ -139,6 +143,7 @@ const data = [
       "machine learning",
       "deep learning",
     ],
+
     link: [
       "https://github.com/VRL2403",
       "https://www.linkedin.com/in/viral-mamniya",
@@ -288,22 +293,33 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
-  {
-    name: "Santanu kumar",
-    role: "EXTC undergrad",
-    image: "https://avatars.githubusercontent.com/u/60546202?v=4",
-    skills: ['js', 'react', 'ml', 'python','docker'],
+    {
+    name: "Anisha Shukla",
+    role: "Undergrad Student",
+    image: "https://avatars.githubusercontent.com/u/66470180?s=400&v=4",
+    skills: ['cloud computing', 'cyber security', 'django', 'gcp'],
     link: [
-      "https://github.com/santanukumar666",
-      "https://linkedin.com/in/santanu-kumar-vjti",
-      "https://twitter.com/notsantanuk",
+      "https://github.com/AnishaShukla",
+      "https://linkedin.com/in/anisha-shukla",
+      "https://twitter.com/Anisha_Shukla_",
+    ],
+  },
+  {
+    name: "Jatin Agarwal",
+    role: "MERN Stack Developer",
+    image: "https://github.com/JatinAgarwal-1.png",
+    skills: ['js', 'react', 'node', 'react native' , 'MongoDB'],
+    link: [
+      "https://avatars.githubusercontent.com/u/55610764?v=4",
+      "https://linkedin.com/in/jatinagarwal-aj",
+      "https://twitter.com/_jatin_agarwal",
     ],
   },
   {
     name: "Aashay Soni",
     role: "Diploma IT Student",
     image: "https://avatars.githubusercontent.com/u/66527024?v=4",
-    skills: ['HTML', 'Git', 'CSS','Python','ShellScript','Bash'],
+    skills: ["HTML", "Git", "CSS", "Python", "ShellScript", "Bash"],
     link: [
       "https://github.com/Aashay-Soni",
       "https://linkedin.com/in/aashay-soni-683a94213",
@@ -314,12 +330,19 @@ const data = [
     name: "Jaskeerat Singh",
     role: "IT Undergrad | MERN Stack Developer",
     image: "https://avatars.githubusercontent.com/u/64856348?v=4",
-    skills: ['mern stack','java','cpp','python','open-source','cloud-native'],
+    skills: [
+      "mern stack",
+      "java",
+      "cpp",
+      "python",
+      "open-source",
+      "cloud-native",
+    ],
     link: [
       "https://github.com/Jassi10000",
       "https://www.linkedin.com/in/jaskeerat-singh-5438531a6/",
       "https://twitter.com/Jaskeer56002158",
-      ],
+    ],
   },
   {
     name: "Chandra Mohan",
@@ -338,6 +361,7 @@ const data = [
       "https://twitter.com/chandra92017426",
     ],
   },
+
   {
     name: "Mahima Goyal",
     role: "CS Undergrad | Open Source Contributor",
@@ -361,6 +385,7 @@ const data = [
       "https://twitter.com/jahanvisharma77",
     ],
   },
+
   {
     name: "Ayush",
     role: "CSE UG Student",
@@ -445,6 +470,7 @@ const data = [
       "https://twitter.com/",
     ],
   },
+
   {
     name: "Ankit Mahajan",
     role: "Student",
@@ -456,6 +482,7 @@ const data = [
       "https://twitter.com/AnkitMa72507083",
     ],
   },
+  
   {
     name: "Akshay Vishwakarma",
     role: "Student",
@@ -483,7 +510,7 @@ const data = [
     name: "YOGESH JHA",
     role: "STUDENT",
     image: "GITHUB PROFILE IMAGE LINK",
-    skills: ['js', 'EXPRESS', 'node', 'CSS'],
+    skills: ["js", "EXPRESS", "node", "CSS"],
     link: [
       "https://github.com/hound77",
       "https://www.linkedin.com/in/yogesh-jha-8b5160170/",
@@ -491,3 +518,6 @@ const data = [
     ],
   },
 ];
+
+export default data;
+
