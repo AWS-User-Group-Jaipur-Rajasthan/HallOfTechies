@@ -305,6 +305,18 @@ const data = [
       "https://twitter.com/AnkitBan0211",
       ],
   },
+
+  {
+    name: "Mayank Kumar Chaudhari",
+    role: "Front End Engineer",
+    image: "https://avatars.githubusercontent.com/u/25501269?v=4",
+    skills: ['js', 'vue.js', 'nuxt.js', 'react', 'Next.js', 'node', 'react native', 'Java', 'Android', 'kubernetes', 'AWS', 'Azure', 'GCP', 'Lambda', 'Lex', 'AWS Connect', 'S3'],
+    link: [
+      "https://github.com/mayank1513",
+      "https://linkedin.com/in/mayank-chaudhari",
+    ],
+  },
+
   {
     name: "Anisha Shukla",
     role: "Undergrad Student",
