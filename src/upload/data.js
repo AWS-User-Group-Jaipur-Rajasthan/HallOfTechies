@@ -295,6 +295,18 @@ const data = [
   },
 
   {
+    name: "Samarth Agarwal",
+    role: "Software Developer",
+    image: "https://avatars.githubusercontent.com/u/44058680?v=4",
+    skills: ['Java','Python','Cloud Technologies','RestAPIs'],
+    link: [
+      "https://github.com/Thecapable",
+      "https://www.linkedin.com/in/samarth-agarwal-6b9204171/",
+      "https://twitter.com/The_Capable1",
+    ],
+  },
+  
+  {
     name: "Ankit Ranjan",
     role: "SDE",
     image: "https://avatars.githubusercontent.com/u/64700993?v=4",
@@ -528,6 +540,7 @@ const data = [
       "https://twitter.com/77_hound",
     ],
   },
+
 ];
 
 
