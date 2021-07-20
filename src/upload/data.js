@@ -698,5 +698,17 @@ const data = [
   }
 
 ];
+{
+    name: "Divya Jain",
+    role: "Cse Undergrad",
+    image: "https://avatars.githubusercontent.com/u/60807380?s=400&u=48ada6cf586b802ac17d90054689ebe8f3664f09&v=4K",
+    skills: ['Python', 'Mlops', 'ML', 'DevOps'],
+    link: [
+      "https://github.com/Divya-2001",
+      "https://www.linkedin.com/in/divya-jainn/",
+      " https://twitter.com/Divya82248572?s=08",
+    ],
+  }
+
 
 export default data;
