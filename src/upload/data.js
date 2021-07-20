@@ -105,15 +105,8 @@ const data = [
   {
     name: "Sayed Mohd Kazim Mehdi",
     role: "Mobile App Developer",
-
-    image:
-      "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
+    image: "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
     skills: ["Android", "Java", "Kotlin", "Python", "CI/CD"],
-
-    image:
-      "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
-    skills: ["Android", "Java", "Kotlin", "Python", "CI/CD"],
-
     link: [
       "https://github.com/kazimsayed954",
       "https://www.linkedin.com/in/kazimsayed/",
@@ -132,12 +125,10 @@ const data = [
       "https://twitter.com/_AasthaSaxena",
     ],
   },
-
   {
     name: "Viral Mamniya",
     role: "Software Developer | Future Data Scientist",
     image: "https://avatars.githubusercontent.com/u/64903130",
-
     skills: [
       "php(laravel)",
       "js",
@@ -148,18 +139,6 @@ const data = [
       "machine learning",
       "deep learning",
     ],
-
-    skills: [
-      "php(laravel)",
-      "js",
-      "docker",
-      "kubernetes",
-      "python",
-      "api",
-      "machine learning",
-      "deep learning",
-    ],
-
     link: [
       "https://github.com/VRL2403",
       "https://www.linkedin.com/in/viral-mamniya",
@@ -310,6 +289,17 @@ const data = [
     ],
   },
   {
+    name: "Santanu kumar",
+    role: "EXTC undergrad",
+    image: "https://avatars.githubusercontent.com/u/60546202?v=4",
+    skills: ['js', 'react', 'ml', 'python','docker'],
+    link: [
+      "https://github.com/santanukumar666",
+      "https://linkedin.com/in/santanu-kumar-vjti",
+      "https://twitter.com/notsantanuk",
+    ],
+  },
+  {
     name: "Aashay Soni",
     role: "Diploma IT Student",
     image: "https://avatars.githubusercontent.com/u/66527024?v=4",
@@ -329,7 +319,7 @@ const data = [
       "https://github.com/Jassi10000",
       "https://www.linkedin.com/in/jaskeerat-singh-5438531a6/",
       "https://twitter.com/Jaskeer56002158",
-      ]
+      ],
   },
   {
     name: "Chandra Mohan",
@@ -348,7 +338,6 @@ const data = [
       "https://twitter.com/chandra92017426",
     ],
   },
-
   {
     name: "Mahima Goyal",
     role: "CS Undergrad | Open Source Contributor",
@@ -372,7 +361,6 @@ const data = [
       "https://twitter.com/jahanvisharma77",
     ],
   },
-
   {
     name: "Ayush",
     role: "CSE UG Student",
@@ -457,7 +445,6 @@ const data = [
       "https://twitter.com/",
     ],
   },
-
   {
     name: "Ankit Mahajan",
     role: "Student",
@@ -490,7 +477,7 @@ const data = [
       "https://www.linkedin.com/in/yogesh-jha-8b5160170/",
       "https://twitter.com/77_hound",
     ],
-  }
+  },
 ];
 
 
