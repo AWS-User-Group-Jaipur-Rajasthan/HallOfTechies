@@ -695,10 +695,8 @@ const data = [
       "https://linkedin.com/in/koushik-mondal-091102207/",
       "https://twitter.com/koushik47515934",
     ],
-  }
-
-];
-{
+  },
+  {
     name: "Divya Jain",
     role: "Cse Undergrad",
     image: "https://avatars.githubusercontent.com/u/60807380?s=400&u=48ada6cf586b802ac17d90054689ebe8f3664f09&v=4K",
@@ -709,6 +707,9 @@ const data = [
       " https://twitter.com/Divya82248572?s=08",
     ],
   }
+
+];
+
 
 
 export default data;
