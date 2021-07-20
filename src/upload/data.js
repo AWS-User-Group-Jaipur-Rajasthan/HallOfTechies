@@ -295,6 +295,18 @@ const data = [
   },
 
   {
+    name: "Ankit Ranjan",
+    role: "SDE",
+    image: "https://avatars.githubusercontent.com/u/64700993?v=4",
+    skills: ['Python', 'Data Structure', 'AWS', 'GCP'],
+    link: [
+      "https://github.com/ankitranjan9",
+      "https://www.linkedin.com/in/ankitranjann/",
+      "https://twitter.com/ankitranjan9",
+    ],
+  },
+
+  {
     name: "Mayank Kumar Chaudhari",
     role: "Front End Engineer",
     image: "https://avatars.githubusercontent.com/u/25501269?v=4",
@@ -517,5 +529,6 @@ const data = [
     ],
   },
 ];
+
 
 export default data;
