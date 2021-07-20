@@ -144,17 +144,6 @@ const data = [
       "deep learning",
     ],
 
-    skills: [
-      "php(laravel)",
-      "js",
-      "docker",
-      "kubernetes",
-      "python",
-      "api",
-      "machine learning",
-      "deep learning",
-    ],
-
     link: [
       "https://github.com/VRL2403",
       "https://www.linkedin.com/in/viral-mamniya",
