@@ -268,6 +268,17 @@ const data = [
     ],
   },
   {
+    name: "Ayush",
+    role: "CSE UG Student",
+    image: "https://avatars.githubusercontent.com/u/71834130?s=400&u=23f6e38a9b578aed5c7a25250113bc37f971adc6&v=4",
+    skills: ['Java', 'Git', 'Android'],
+    link: [
+      "https://github.com/AyusH1912",
+      "https://linkedin.com/in/ayush19-",
+      "https://twitter.com/iamayush_7",
+      ]
+  },
+  {
     name: "Yogeshwari Bahiram",
     role: "Student",
     image: "https://avatars.githubusercontent.com/u/56786259?s=400&u=4773021624ea7332fbd3e841a78642a34dca598b&v=4",
