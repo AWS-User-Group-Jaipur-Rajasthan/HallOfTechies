@@ -322,6 +322,19 @@ const data = [
       "https://twitter.com/AnkitMa72507083",
     ],
   }
+  {
+    name: "suman shah",
+    role: "student",
+    image: "https://avatars.githubusercontent.com/u/61034696?v=4",
+    skills: ['python', 'c', 'c++', 'html'],
+    link: [
+      "https://github.com/suman-shah",
+      "https://linkedin.com/in/suman-shah/",
+      "https://twitter.com/shoppingevl",
+    ],
+  }
+
+
 ];
 
 
