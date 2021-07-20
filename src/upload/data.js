@@ -342,7 +342,19 @@ const data = [
       "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
       "https://twitter.com/AnkitMa72507083",
     ],
+  },
+  {
+    name: "Mohit Agarwal",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/48441450?v=4",
+    skills: ['Js', 'ReactJs', 'NodeJs', 'Php', 'Flutter', 'C++', 'HTML/CSS'],
+    link: [
+      "https://github.com/mohitagarwal1432",
+      "https://linkedin.com/in/mohitagarwal1432",
+      "https://twitter.com/_mohit_agarwal",
+    ],
   }
+
 ];
 
 
