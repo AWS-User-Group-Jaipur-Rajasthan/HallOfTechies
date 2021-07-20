@@ -672,6 +672,17 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+  {
+    name: "Amit Kumar",
+    role: "Web Developer",
+    image: "https://avatars.githubusercontent.com/u/54941979?v=4",
+    skills: ['c', 'python', 'react', 'git'],
+    link: [
+      "https://github.com/amitkrraj",
+      "https://linkedin.com/in/amitkrraj",
+      "https://twitter.com/amitkrraj",
+    ],
+  }
 ];
 
 export default data;
