@@ -322,6 +322,19 @@ const data = [
       "https://twitter.com/AnkitMa72507083",
     ],
   }
+  {
+    name: "Anjali Kundliya",
+    role: "CS Student",
+    image: "https://avatars.githubusercontent.com/u/80624328?v=4",
+    skills: ['C++', 'Python', 'AI', 'Data Science'],
+    link: [
+      "https://github.com/anjali-kundliya05/",
+      "https://www.linkedin.com/in/anjali-kundliya/",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  }
+
+
 ];
 
 
