@@ -321,6 +321,17 @@ const data = [
       "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
       "https://twitter.com/AnkitMa72507083",
     ],
+  },
+  {
+    name: "Ashish Soyetra",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/53328534?v=4",
+    skills: ['GCP', 'React', 'Node', 'JavaScript', 'C/C++', 'HTML', 'CSS', 'MySQL'],
+    link: [
+      "https://github.com/ashishsoyetra30",
+      "https://www.linkedin.com/in/soyetra-ashish/",
+      "https://twitter.com/SoyetraAshish",
+    ],
   }
 ];
 
