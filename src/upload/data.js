@@ -672,6 +672,17 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+   {
+    name: "Deepak Kumar",
+    role: "CSE 2nd Year Student",
+    image: "https://avatars.githubusercontent.com/u/78249949?v=4",
+    skills: ['html', 'css', 'js'],
+    link: [
+    "https://github.com/DK85690",
+    "https://www.linkedin.com/in/deepak-kumar-aba987217/",
+    "https://twitter.com/DeepakK12286986",
+    ],
+    },
 ];
 
 export default data;
