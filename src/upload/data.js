@@ -487,7 +487,7 @@ const data = [
     name: "Akshay Vishwakarma",
     role: "Student",
     image: "https://avatars.githubusercontent.com/u/47742322?v=4",
-    skills: ['Angularjs', 'Python', 'C++', 'Arduino'],
+    skills: ["Angularjs", "Python", "C++", "Arduino"],
     link: [
       "https://github.com/SalientAuthor",
       "https://www.linkedin.com/in/akshay-vishwakarma-a29694196/",
