@@ -105,11 +105,6 @@ const data = [
   {
     name: "Sayed Mohd Kazim Mehdi",
     role: "Mobile App Developer",
-
-    image:
-      "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
-    skills: ["Android", "Java", "Kotlin", "Python", "CI/CD"],
-
     image:
       "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
     skills: ["Android", "Java", "Kotlin", "Python", "CI/CD"],
