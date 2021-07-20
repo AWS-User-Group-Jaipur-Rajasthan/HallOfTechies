@@ -294,6 +294,17 @@ const data = [
     ],
   },
   {
+    name: "Jatin Agarwal",
+    role: "MERN Stack Developer",
+    image: "https://github.com/JatinAgarwal-1.png",
+    skills: ['js', 'react', 'node', 'react native' , 'MongoDB'],
+    link: [
+      "https://avatars.githubusercontent.com/u/55610764?v=4",
+      "https://linkedin.com/in/jatinagarwal-aj",
+      "https://twitter.com/_jatin_agarwal",
+    ],
+  },
+  {
     name: "Aashay Soni",
     role: "Diploma IT Student",
     image: "https://avatars.githubusercontent.com/u/66527024?v=4",
