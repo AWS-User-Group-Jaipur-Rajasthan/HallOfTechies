@@ -672,6 +672,19 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+  {
+    name: "Aritra Sen",
+    role: "CSE Undergraduate at Government College of Engineering and Leather Technology | Web Developer | ML enthusiast",
+    image: "https://avatars.githubusercontent.com/u/71816694?v=4",
+    skills: ['python', 'html', 'css', 'java', 'c++', 'c', 'bootstrap', 'express', 'mongodb', 'sql', 'opencv', 'numpy', 'pandas', 'js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/aritrasen12345",
+      "https://www.linkedin.com/in/aritra-sen-0b8464202/",
+      "https://twitter.com/AritraS81007757",
+    ],
+  }
+
+
 ];
 
 export default data;
