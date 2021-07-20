@@ -322,6 +322,17 @@ const data = [
       "https://twitter.com/AnkitMa72507083",
     ],
   }
+  {
+    name: "Srijith",
+    role: "student",
+    image: "https://avatars.githubusercontent.com/u/63923819?v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/GITHUB_Srijith",
+      "https://linkedin.com/in/LINKEDIN_Srijith",
+      "https://twitter.com/TWITTER_Srijith",
+    ],
+  }
 ];
 
 
