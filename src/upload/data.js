@@ -1,7 +1,7 @@
 const data = [
   {
     name: "DHRUVA BHATTACHARYA",
-    role: "Full Stack Web Developer",
+    role: "Full Stack Web Developer/MERN",
     image: "https://avatars.githubusercontent.com/u/71749153?v=4",
     skills: ['C','C++', 'Java', 'Python', 'js', 'react', 'node', 'react native'],
     link: [
