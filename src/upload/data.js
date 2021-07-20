@@ -541,6 +541,18 @@ const data = [
     ],
   },
   {
+    name: "Vimal M",
+    role: "CSE sophomore | DevOps enthusiast",
+    image: "https://avatars.githubusercontent.com/u/76787061?v=4",
+    skills: ['Python', 'React', 'Docker', 'Kubernetes', 'cloud'],
+    link: [
+      "https://github.com/vimalprogrammer",
+      "https://www.linkedin.com/in/vimalprogrammer/",
+      "https://twitter.com/Vimal46701132",
+    ],
+  },
+  {
+
     name: "Himanshu Verma",
     role: "Student",
     image: "https://avatars.githubusercontent.com/u/72593058?v=4",
@@ -562,6 +574,7 @@ const data = [
       "https://twitter.com/77_hound",
     ],
   },
+
 
 ];
 
