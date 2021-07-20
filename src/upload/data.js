@@ -321,7 +321,18 @@ const data = [
       "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
       "https://twitter.com/AnkitMa72507083",
     ],
-  }
+  },
+  {
+    name: "Deepak Kumar",
+    role: "CSE Student",
+    image: "https://avatars.githubusercontent.com/u/78249949?v=4",
+    skills: ['html', 'css', 'js'],
+    link: [
+    "https://github.com/DK85690",
+    "https://www.linkedin.com/in/deepak-kumar-aba987217/",
+    "https://twitter.com/DeepakK12286986",
+    ],
+    },
 ];
 
 
