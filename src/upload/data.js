@@ -268,6 +268,16 @@ const data = [
     ],
   },
   {
+    name: "Areti Pavan",
+    role: "CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/62766354?v=4",
+    skills: ['competetive programming','web-development'],
+    link: [
+      "https://github.com/pavan-areti",
+      "https://www.linkedin.com/in/pavan-areti-8907131aa/",
+    ],
+  },
+  {
     name: "Bhavik Jikadara",
     role: "Python Developer",
     image: "https://avatars.githubusercontent.com/u/66177876?v=4",
