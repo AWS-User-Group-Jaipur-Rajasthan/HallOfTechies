@@ -490,6 +490,17 @@ const data = [
       "https://www.linkedin.com/in/yogesh-jha-8b5160170/",
       "https://twitter.com/77_hound",
     ],
+  },
+  {
+    name: "koushik mondal",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/84120351?v=4",
+    skills: ["c++", "DBMS", "Python"],
+    link: [
+      "https://github.com/koushikm8926",
+      "https://linkedin.com/in/koushik-mondal-091102207/",
+      "https://twitter.com/koushik47515934",
+    ],
   }
 ];
 
