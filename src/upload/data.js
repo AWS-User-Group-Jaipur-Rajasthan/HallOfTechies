@@ -78,6 +78,17 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+  {
+    name: "Vishal Sharma",
+    role: "Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/60502786?v=4",
+    skills: ['JS', 'Angular', 'node', 'BootStrap'],
+    link: [
+      "https://github.com/visharma14",
+      "https://www.linkedin.com/in/visharma14/",
+      "https://twitter.com/",
+    ],
+  },
 
   {
     name: "Priyanka Banerjee",
@@ -94,14 +105,24 @@ const data = [
   {
     name: "Sayed Mohd Kazim Mehdi",
     role: "Mobile App Developer",
+
     image:
       "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
     skills: ["Android", "Java", "Kotlin", "Python", "CI/CD"],
+
+    image: "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
+    skills: ['Android', 'Java', 'Kotlin', 'Python', 'CI/CD'],
+
     link: [
       "https://github.com/kazimsayed954",
       "https://www.linkedin.com/in/kazimsayed/",
       "https://twitter.com/kazimsayed954",
+
     ],
+  },
+
+
+    ]
   },
 
   {
@@ -116,10 +137,15 @@ const data = [
     ],
   },
 
+=======
+    ]
+  },
+
   {
     name: "Viral Mamniya",
     role: "Software Developer | Future Data Scientist",
     image: "https://avatars.githubusercontent.com/u/64903130",
+
     skills: [
       "php(laravel)",
       "js",
@@ -130,6 +156,9 @@ const data = [
       "machine learning",
       "deep learning",
     ],
+
+    skills: ['php(laravel)', 'js', 'docker', 'kubernetes', 'python', 'api', 'machine learning', 'deep learning'],
+
     link: [
       "https://github.com/VRL2403",
       "https://www.linkedin.com/in/viral-mamniya",
@@ -281,6 +310,51 @@ const data = [
   },
 
   {
+    name: "Bhavik Jikadara",
+    role: "Python Developer",
+    image: "https://avatars.githubusercontent.com/u/66177876?v=4",
+    skills: ['Python', 'Data Structure in Python', 'Machine Learning', 'Deep Learning', 'Data Science'],
+    link: [
+      "https://github.com/Bhavik-Jikadara",
+      "https://www.linkedin.com/in/bhavik-jikadara-612643190",
+      "https://twitter.com/BhavikJikadara1?s=09",
+      ]
+  },
+  {
+    name: "Sangy K",
+    role: "MERN Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/3327904?v=4",
+    skills: ['js','react','node','html5','css3','mongodb'],
+    link: [
+      "https://github.com/sansk",
+      "https://www.linkedin.com/in/sangeetha-kumarasamy/",
+      "https://twitter.com/sangyk_dev",
+    ],
+  },
+  {
+    name: "Milan Rawat",
+    role: "Student | MERN Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/75739793?v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/Milan-rawat",
+      "https://www.linkedin.com/in/milan-rawat",
+      "https://twitter.com/milan8rawat",
+    ],
+  },
+  {
+    name: "Priyanshu Saini",
+    role: "Ai&Ds Undergraduate",
+    image: "https://avatars.githubusercontent.com/u/87232292?v=4",
+    skills: ['C/C++', 'HTML', 'CSS', 'JavaScript', 'Python'],
+    link: [
+      "https://github.com/CapNik2002",
+      "https://linkedin.com/in/priyanshu-saini-6030a51bb",
+      "https://twitter.com/",
+    ],
+  },
+
+  {
     name: "Ankit Mahajan",
     role: "Student",
     image: "https://avatars.githubusercontent.com/u/69541646?v=4",
@@ -290,7 +364,13 @@ const data = [
       "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
       "https://twitter.com/AnkitMa72507083",
     ],
+
   },
+  }
+];
+
+
+
 
   {
     name: "Himanshu Verma",
