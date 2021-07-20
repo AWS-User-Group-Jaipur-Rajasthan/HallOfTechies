@@ -460,4 +460,16 @@ const data = [
   },
 ];
 
+{
+    name: "YOGESH JHA",
+    role: "STUDENT",
+    image: "GITHUB PROFILE IMAGE LINK",
+    skills: ['js', 'EXPRESS', 'node', 'CSS'],
+    link: [
+      "https://github.com/hound77",
+      "https://www.linkedin.com/in/yogesh-jha-8b5160170/",
+      "https://twitter.com/77_hound",
+    ],
+  }
+
 export default data;
