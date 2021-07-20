@@ -466,6 +466,8 @@ const data = [
     role: "Python Developer",
     image: "https://avatars.githubusercontent.com/u/66177876?v=4",
     skills: ['Python', 'Data Structure in Python', 'Machine Learning', 'Deep Learning', 'Data Science'],
+  },
+  {
     name: 'Jahanvi Sharma',
     role: 'Developer',
     image:
