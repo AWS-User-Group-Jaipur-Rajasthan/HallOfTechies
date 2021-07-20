@@ -1,5 +1,16 @@
 const data = [
   {
+    name: "DHRUVA BHATTACHARYA",
+    role: "Full Stack Web Developer",
+    image: "https://avatars.githubusercontent.com/u/71749153?v=4",
+    skills: ['C','C++', 'Java', 'Python', 'js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/dhruvaop",
+      "https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/",
+      "https://twitter.com/DhruvaBhattach2",
+    ],
+  }
+  {
     name: 'Akash Khandelwal',
     role: 'MERN Stack Developer',
     image: 'https://avatars.githubusercontent.com/u/56211500?v=4',
