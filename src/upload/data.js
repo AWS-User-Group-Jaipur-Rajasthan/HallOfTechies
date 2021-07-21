@@ -304,6 +304,18 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+ 
+  {
+    name: "Akshat Lakhara",
+    role: "Electrical undergrad",
+    image: "https://avatars.githubusercontent.com/u/85992585?v=4",
+    skills: ['js', 'css', 'html', 'cpp'],
+    link: [
+      "https://github.com/Akshatlakhara",
+      "https://linkedin.com/in/akshat-lakhara-355064201",
+      "https://twitter.com/lakhara-akshat",
+    ],
+},
   {
     name: "Aditya Prasad Panigrahy",
     role: "Frontend Developer",
@@ -622,7 +634,8 @@ const data = [
       "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
       "https://twitter.com/AnkitMa72507083",
     ],
-  },
+  }
+
   {
     name: "Srijith",
     role: "student",
