@@ -798,6 +798,18 @@ const data = [
     ],
   },
   {
+
+    name: "Anshumaan Kumar Prasad",
+    role: "Junior at Information Technology & Services",
+    image: "https://avatars.githubusercontent.com/u/75872316?v=4",
+    skills: ['DevOps', 'Open Source', 'Java', 'Spring Boot', 'JS', 'HTML', 'Python', 'Service Mesh', 'Kubernetes', 'Go', 'CI', 'Docker', 'MERN'],
+    link: [
+      "https://github.com/amino19",
+      "https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino",
+      "https://twitter.com/aminostwt",
+     ],
+  },
+  {
     name: "Sai Bhargav R",
     role: "Chatbot Developer",
     image: "https://avatars.githubusercontent.com/u/37236514?s=400&v=4",
