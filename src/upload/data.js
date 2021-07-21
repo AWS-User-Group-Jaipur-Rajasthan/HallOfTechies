@@ -749,6 +749,24 @@ const data = [
       " https://twitter.com/Divya82248572?s=08",
     ],
   }
+  
+  {
+    name: "Shashwat Singh",
+    role: "DevOps Intern | CSE Undergrad",
+    image: "https://avatars.githubusercontent.com/u/55051478?v=4",
+    skills: [
+  'DevOps-Tools',
+  'AWS-Cloud',
+  'MLOPS', 
+  'CCNA-Networking',
+  'Flutter'
+],
+    link: [
+      "https://github.com/Shashwatsingh22",
+      "https://linkedin.com/in/shashwatsing/",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  }
 
 ];
 
