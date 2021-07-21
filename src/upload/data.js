@@ -759,7 +759,22 @@ const data = [
       "https://www.linkedin.com/in/divya-jainn/",
       " https://twitter.com/Divya82248572?s=08",
     ],
+  },
+  {
+    name: "Jones Zachariah Noel N",
+    role: "Cloud Architect - Serverless",
+    image: "https://avatars.githubusercontent.com/u/12515425?v=4",
+    skills: ['js', 'VueJS', 'NodeJS', 'AWS', 'ReactJS', 'Serverless', 'Web Application Development'],
+    link: [
+      "https://github.com/zachjonesnoel",
+      "https://www.linkedin.com/in/jones-zachariah-noel-n",
+      "https://twitter.com/ZachjNOEL",
+      "https://dev.to/zachjonesnoel",
+      "https://zachjonesnoel.com"
+    ],
   }
+
+
 
 ];
 
