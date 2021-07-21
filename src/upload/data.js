@@ -715,6 +715,19 @@ const data = [
     ],
   },
   {
+    name: "Shreyansh Parashar",
+    role: "Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/62754950?v=4",
+    skills: ['js', 'react', 'Docker', 'Firebase'],
+    link: [
+      "https://github.com/shreyanshparashar",
+      "https://www.linkedin.com/in/shreyanshparashar/",
+      "https://twitter.com/shreyanshz",
+    ],
+  },
+  {
+
+
     name: "Divya Jain",
     role: "Cse Undergrad",
     image: "https://avatars.githubusercontent.com/u/60807380?s=400&u=48ada6cf586b802ac17d90054689ebe8f3664f09&v=4K",
