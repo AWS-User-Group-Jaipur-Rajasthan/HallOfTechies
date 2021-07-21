@@ -820,6 +820,18 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "Riya Gupta",
+    role: "",
+    image: "",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/GITHUB_USERNAME",
+      "https://linkedin.com/in/LINKEDIN_USERNAME",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  }
+
 ];
 
 
