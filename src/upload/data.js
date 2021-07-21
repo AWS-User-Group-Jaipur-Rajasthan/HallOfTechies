@@ -304,6 +304,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Rajshree Nupur",
+    role: "Frontend Web development",
+    image: "https://avatars.githubusercontent.com/u/63921042?s=400&u=fea3baa23362b134a8e891d1a4eafb48a243b480&v=4",
+    skills: ['html', 'css', 'js', 'sql'],
+    link: [
+      "https://github.com/Rajshreenupur",
+      "https://www.linkedin.com/in/rajshree-nupur-910087183/",
+      "https://mobile.twitter.com/RajshreeNupur",
+      ],
+  },
  
   {
     name: "Akshat Lakhara",
