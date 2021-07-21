@@ -32,6 +32,19 @@ const data = [
       'https://twitter.com/Ankit15_',
     ],
   },
+ {
+    name: "jaya",
+    role: "Tester",
+    image: "https://avatars.githubusercontent.com/u/69999030?v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/jayalakshmi7599",
+      "https://www.linkedin.com/in/jaya-lakshmi-697087159/",
+      "https://twitter.com/Jayalak54621465",
+    ],
+  }
+
+
   {
     name: 'Priyanka Prasad',
     role: 'Postman Student Expert | Developer',
