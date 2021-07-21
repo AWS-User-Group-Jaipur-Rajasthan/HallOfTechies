@@ -748,8 +748,6 @@ const data = [
     ],
   },
   {
-
-
     name: "Divya Jain",
     role: "Cse Undergrad",
     image: "https://avatars.githubusercontent.com/u/60807380?s=400&u=48ada6cf586b802ac17d90054689ebe8f3664f09&v=4K",
@@ -759,8 +757,18 @@ const data = [
       "https://www.linkedin.com/in/divya-jainn/",
       " https://twitter.com/Divya82248572?s=08",
     ],
-  }
-
+  },
+  {
+    name: "Anshumaan Kumar Prasad",
+    role: "Junior at Information Technology & Services",
+    image: "https://avatars.githubusercontent.com/u/75872316?v=4",
+    skills: ['DevOps', 'Open Source', 'Java', 'Spring Boot', 'JS', 'HTML', 'Python', 'Service Mesh', 'Kubernetes', 'Go', 'CI', 'Docker', 'MERN'],
+    link: [
+      "https://github.com/amino19",
+      "https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino",
+      "https://twitter.com/aminostwt",
+    ],
+  },
 ];
 
 
