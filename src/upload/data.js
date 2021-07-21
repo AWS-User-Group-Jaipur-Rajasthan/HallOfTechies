@@ -750,6 +750,19 @@ const data = [
     ],
   }
 
+  {
+    name: "Chitresh Sharma",
+    role: "Consulting Enginner",
+    image: "https://avatars.githubusercontent.com/u/87748109?v=4",
+    skills: ['docker', 'cloud', 'node', 'react native', 'kubernetes'],
+    link: [
+      "https://github.com/chitresh1986",
+      "https://www.linkedin.com/in/chitresh-sharma-18899431/",
+      "https://twitter.com/e026edeba618458",
+    ],
+  }
+
+
 ];
 
 
