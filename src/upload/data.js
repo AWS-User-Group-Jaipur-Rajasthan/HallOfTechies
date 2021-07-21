@@ -855,6 +855,17 @@ const data = [
       "https://twitter.com/muthuannamalai_",
     ],
   },
+  {
+    name: "Lokesh Singh",
+    role: "Java full stack Developer|CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/77314004?s=400&u=d4c56996920e56674e223ed33dbf246f0f91281b&v=4",
+    skills: ['JAVA', 'HTML', 'CSS', 'JS','SQL'],
+    link: [
+      "https://github.com/LokeshXs",
+      "https://www.linkedin.com/in/lokesh-singh-426a901b6/",
+      "https://twitter.com/LOKESHS66317127",
+    ],
+  },
 ];
 
 export default data;
