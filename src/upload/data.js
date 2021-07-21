@@ -820,6 +820,17 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "Sandra Mariyam Jacob",
+    role: "CSE Undergrad | Front-end developer",
+    image: "https://avatars.githubusercontent.com/u/66560251?v=4",
+    skills: ['html', 'css', 'js', 'react'],
+    link: [
+      "https://github.com/sandra9711",
+      "https://linkedin.com/in/sandra-mariyam-jacob",
+      "https://twitter.com/sandra_mariyam",
+    ],
+  },
 ];
 
 
