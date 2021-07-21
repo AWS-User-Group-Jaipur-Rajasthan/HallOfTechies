@@ -855,6 +855,17 @@ const data = [
       "https://twitter.com/muthuannamalai_",
     ],
   },
+  {
+    name: "Chirag Soni",
+    role: "Linux System Admin",
+    image: "https://avatars.githubusercontent.com/u/87776625?v=4",
+    skills: ['Cloud Computing', 'NetWork', 'Script', 'Linux'],
+    link: [
+      "https://github.com/chirag1999",
+      "https://www.linkedin.com/in/chirag-soni-615987179/",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  }
 ];
 
 export default data;
