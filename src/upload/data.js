@@ -670,6 +670,17 @@ const data = [
       "https://twitter.com/VaradPa49468565",
     ],
   },
+   {
+    name: "Samyak Singh",
+    role: "CS Undergrad | Android Developer",
+    image: "https://avatars.githubusercontent.com/u/54956876?v=4",
+    skills: ['Android','Flutter','Kotlin','C++','Java'],
+    link: [
+      "https://github.com/SAMYAK99",
+      "https://www.linkedin.com/in/samyak-singh-007abc/",
+      "https://twitter.com/SamyakSingh18",
+    ],
+  },
   {
     name: "Palak Singhania",
     role: "Developer | Cloud Enthusiast",
