@@ -833,6 +833,19 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "Parul Sahoo",
+    role: "CSE undergraduate",
+    image: "https://avatars.githubusercontent.com/u/60248260?s=60&v=4",
+    skills: ['js', 'MERN', 'Java', 'Docker', 'Kubernetes', 'Sanity Studio', 'GraphQL'],
+    link: [
+      "https://github.com/parul5sahoo",
+      "https://www.linkedin.com/in/parul-sahoo-4bb8301a0/",
+      "https://twitter.com/ParulSahoo",
+    ],
+  }
+
+
 ];
 
 
