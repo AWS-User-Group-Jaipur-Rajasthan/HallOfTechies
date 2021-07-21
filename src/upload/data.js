@@ -855,6 +855,17 @@ const data = [
       "https://twitter.com/muthuannamalai_",
     ],
   },
+  {
+    name: "Yashashwini Dixit",
+    role: "CSE Undergraduate/Full Stack Developer/Data Analyst",
+    image: "https://avatars.githubusercontent.com/u/64366760?v=4",
+    skills: ['react.js', 'node.js', 'HTML', 'CSS', 'AI/ML', 'Python','Javascript', 'Java', 'AWS Cloud'],
+    link: [
+      "https://github.com/YashashwiniDixit",
+      "https://www.linkedin.com/in/yashashwini-dixit-072016191/",
+      "https://twitter.com/YashashwiniDix1",
+    ],
+  },
 ];
 
 export default data;
