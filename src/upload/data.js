@@ -11,6 +11,17 @@ const data = [
     ],
   },
   {
+    name: "Aditya Sawant",
+    role: "Front-End Developer",
+    image: "https://avatars.githubusercontent.com/u/60505090?s=400&v=4",
+    skills: ['Java', 'C++', 'Python','js', 'react'],
+    link: [
+      "https://github.com/AdityaSawant21",
+      "https://www.linkedin.com/in/aditya-a-sawant/",
+      "https://twitter.com/AdityaASawant1",
+    ],
+  },
+  {
     name: "Mohtasham Sayeed Mohiuddin",
     role: "Full Stack Developer/ Cloud Developer",
     image: "https://avatars.githubusercontent.com/u/77109645?v=4",
