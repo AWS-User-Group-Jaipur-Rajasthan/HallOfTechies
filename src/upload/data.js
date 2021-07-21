@@ -855,6 +855,17 @@ const data = [
       "https://twitter.com/muthuannamalai_",
     ],
   },
+  {
+    name: "Meghan Jain H S",
+    role: "FrontEnd Developer",
+    image: " ",
+    skills: ["HTML", "CSS", "JS", "Java"],
+    link: [
+      "https://github.com/meghanjain23",
+      "https://www.linkedin.com/in/meghan-jain-h-s-926117200/",
+      "https://twitter.com/meghanjain23",
+    ],
+  },
 ];
 
 export default data;
