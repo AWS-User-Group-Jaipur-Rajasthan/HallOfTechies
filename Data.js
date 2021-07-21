@@ -2,9 +2,9 @@
     name: "Neelam Upadhyay",
     role: "Fullstack Developer , AWs Cloud, IT Security ",
     image: "https://github.com/nlmupdy01.png ",
-    skills: ['HTML', 'css', 'js', 'python', 'cloud'],
+    skills: ['HTML', 'css', 'js', 'python', 'cloud', 'cyber security'],
     link: [
-      "https://github.com/nlmupdy",
+      "https://github.com/nlmupdy01",
       "https://linkedin.com/in/neelam-upadhyay-8736a3115",
       "https://twitter.com/nlmupdy",
     ],
