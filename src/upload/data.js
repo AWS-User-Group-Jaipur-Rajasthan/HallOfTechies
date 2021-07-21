@@ -855,6 +855,17 @@ const data = [
       "https://twitter.com/muthuannamalai_",
     ],
   },
+  {
+    name: "Subhayu Kumar Bala",                                                 
+    role: "Student",                                                            
+    image: "https://github.com/subhayu99.png",                                  
+    skills: ['Linux System Administration', 'DevOps', 'Web Development', 'Data Science'],
+    link: [
+      "https://github.com/subhayu99",
+      "https://linkedin.com/in/subhayu-kumar-bala",
+      "https://twitter.com/subhayu99",
+    ],
+  },
 ];
 
 export default data;
