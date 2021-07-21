@@ -749,6 +749,18 @@ const data = [
       " https://twitter.com/Divya82248572?s=08",
     ],
   }
+  {
+    name: "Sudeeksha Nayak",
+    role: "Web developer",
+    image: "https://avatars.githubusercontent.com/u/65765077?v=4",
+    skills: ['js', 'react', 'node', 'python','html/css','mongodb','java','c'],
+    link: [
+      "https://github.com/sudeeksha19",
+      "https://www.linkedin.com/in/sudeekshanayak19/",
+      "https://twitter.com/SudeekshaNayak",
+    ],
+  }
+
 
 ];
 
