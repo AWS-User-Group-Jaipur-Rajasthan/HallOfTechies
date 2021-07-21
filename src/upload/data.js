@@ -820,6 +820,17 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "Prakash Agarwal",
+    role: "Student B.Tech(CSE)",
+    image: "https://avatars.githubusercontent.com/u/36405534?v=4",
+    skills: ['js', 'pyhton', 'AWS', 'GCP', 'Docker', 'Kubernetes', 'Jenkins', 'Terraform', 'Machine Learning'],
+    link: [
+      "https://github.com/kruzes1",
+      "https://linkedin.com/in/prakashag/",
+      "https://twitter.com/Kruzes_",
+    ],
+  }
 ];
 
 
