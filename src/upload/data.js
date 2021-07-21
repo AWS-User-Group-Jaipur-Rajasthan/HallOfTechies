@@ -725,6 +725,17 @@ const data = [
       " https://twitter.com/Divya82248572?s=08",
     ],
   }
+  {
+    name: "Abhiroop Basak",
+    role: "IT Undergrad",
+    image: "https://avatars.githubusercontent.com/u/63965017?v=4",
+    skills: ['python', 'machine learning', 'image processing', 'django'],
+    link: [
+      "https://github.com/abhiroopbasak",
+      "https://www.linkedin.com/in/abhiroopbasak/",
+      "https://twitter.com/abhiroop_basak",
+    ],
+  }
 
 ];
 
