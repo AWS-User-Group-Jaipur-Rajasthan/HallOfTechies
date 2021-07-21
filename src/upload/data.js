@@ -822,8 +822,8 @@ const data = [
   },
   {
     name: "Riya Gupta",
-    role: "",
-    image: "",
+    role: "Frontend Developer",
+    image: "https://avatars.githubusercontent.com/u/72425181?s=400&u=9e732e1c9ecf6f4b0a0c4ddad76984d506963f60&v=4",
     skills: ['js', 'react', 'node', 'react native'],
     link: [
       "https://github.com/GITHUB_USERNAME",
