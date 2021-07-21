@@ -671,6 +671,17 @@ const data = [
     ],
   },
   {
+    name: "Palak Singhania",
+    role: "Developer | Cloud Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/67850145?v=4",
+    skills: ['AWS', 'Flutter', 'Java', 'React Native', 'HTML', 'CSS', 'JS'],
+    link: [
+      "https://github.com/palaksinghania05",
+      "https://linkedin.com/in/palak-s-837b1519b/",
+      "https://twitter.com/ThisIs_Palak",
+    ],
+  },
+  {
     name: "Balasubramanian T K",
     role: "IT Undergraduate | Software development enthusiast",
     image: "https://avatars.githubusercontent.com/u/47392334?v=4",
