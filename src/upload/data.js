@@ -724,7 +724,20 @@ const data = [
       "https://www.linkedin.com/in/divya-jainn/",
       " https://twitter.com/Divya82248572?s=08",
     ],
+  },
+  {
+    name: "Vyshak Puthusseri",
+    role: "Developer",
+    image: "https://avatars.githubusercontent.com/u/33171828?v=4",
+    skills: ['python', 'flask', 'deep learning', 'react', 'node'],
+    link: [
+      "https://github.com/puthusseri/",
+      "https://www.linkedin.com/in/vyshakputhusseri/",
+      "https://twitter.com/puthusseris",
+    ],
   }
+
+
 
 ];
 
