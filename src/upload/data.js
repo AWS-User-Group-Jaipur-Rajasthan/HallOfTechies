@@ -634,7 +634,7 @@ const data = [
       "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
       "https://twitter.com/AnkitMa72507083",
     ],
-  }
+  },
 
   {
     name: "Srijith",
