@@ -855,6 +855,17 @@ const data = [
       "https://twitter.com/muthuannamalai_",
     ],
   },
+  {
+    name: "Gaurav Agrawal",
+    role: "Software Engineer",
+    image: "https://avatars.githubusercontent.com/u/46554034?v=4",
+    skills: ['HTML/CSS/JS', 'React', 'C#', 'Python', 'Azure', 'SQL'],
+    link: [
+      "https://github.com/gauravagrwal",
+      "https://linkedin.com/in/--gauravagrawal",
+      "https://twitter.com/__gauravagrwal",
+    ],
+  },
 ];
 
 export default data;
