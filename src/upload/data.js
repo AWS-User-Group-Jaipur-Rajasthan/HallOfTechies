@@ -833,6 +833,17 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "SHAIFALI YADAV",
+    role: "COMPUTER SCIENCE STUDENT",
+    image: "GITHUB PROFILE IMAGE LINK",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/shaifaliyadav0306",
+      "https://linkedin.com/in/shaifali-yadav-409358188",
+      "https://twitter.com/shaifaliyadav____",
+    ],
+  }
 ];
 
 
