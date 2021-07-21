@@ -41,4 +41,4 @@ https://github.com/seema1711.png
 
 ### Resources
 
-Pagination have been sourced from [Material UI](https://material-ui.com/)
+Pagination and Icons have been sourced from [Material UI](https://material-ui.com/)
