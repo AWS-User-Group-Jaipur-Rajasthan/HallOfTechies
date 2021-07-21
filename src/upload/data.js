@@ -68,6 +68,18 @@ const data = [
     ],
   },
   {
+    name: 'Smit Sakariya',
+    role: 'Blockchain Developer',
+    image:
+      'https://avatars.githubusercontent.com/u/68073132?s=400&u=46977cdd438d6a903d822ca7db2353c640968148&v=4',
+    skills: ['solidity', 'ethereum', 'web-development'],
+    link: [
+      'https://github.com/smit-1923',
+      'https://www.linkedin.com/in/smitsakariya/',
+      'https://twitter.com/SmitSakariya',
+    ],
+  },
+  {
     name: 'Varshil Shah',
     role: 'Full Stack Developer',
     image: 'https://avatars.githubusercontent.com/u/22892867?v=4',
