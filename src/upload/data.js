@@ -808,6 +808,17 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "Swarnadeep Ghosh",
+    role: "Front End Developer (Angular)",
+    image: "https://avatars.githubusercontent.com/u/60822964?v=4",
+    skills: ['Angular', 'Java', 'Python', 'Git', 'AWS', 'Google Cloud'],
+    link: [
+      "https://github.com/SwarnadeepGhosh",
+      "https://linkedin.com/in/swarnadeepghosh",
+      "https://twitter.com/swarnadeep_97",
+    ],
+  },
 ];
 
 
