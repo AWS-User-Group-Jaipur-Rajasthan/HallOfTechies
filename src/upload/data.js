@@ -748,7 +748,24 @@ const data = [
       "https://www.linkedin.com/in/divya-jainn/",
       " https://twitter.com/Divya82248572?s=08",
     ],
-  }
+    
+    
+    {
+    name: "Saurav kumar",
+    role: "B.Tech CSE Student at Lovely professional university",
+    image: "https://avatars.githubusercontent.com/u/87579538?v=4",
+    skills: ['C', 'C++', 'Python'],
+    link: [
+      "https://github.com/saurav9283",
+      "https://www.linkedin.com/feed/",
+      "https://twitter.com/home?lang=en",
+    ],
+    }
+
+
+  
+  
+  
 
 ];
 
