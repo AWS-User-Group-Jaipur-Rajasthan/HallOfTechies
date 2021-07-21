@@ -1,5 +1,16 @@
 const data = [
   {
+    name: "Harsh Bartariya",
+    role: "Programming enthusiast | Cs student",
+    image: "https://avatars.githubusercontent.com/u/59999317?v=4",
+    skills: ['js', 'node', 'angular', 'python', 'java', 'Artificial intelligence', 'Arduino',],
+    link: [
+      "https://github.com/Harsh-bartariya",
+      "https://linkedin.com/in/harsh-viha786",
+      "https://twitter.com/@HBartariya",
+    ],
+  }
+{
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
     image: "https://avatars.githubusercontent.com/u/56211500?v=4",
