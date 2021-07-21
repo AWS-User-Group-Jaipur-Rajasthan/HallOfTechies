@@ -843,9 +843,7 @@ const data = [
       "https://www.linkedin.com/in/parul-sahoo-4bb8301a0/",
       "https://twitter.com/ParulSahoo",
     ],
-  }
-
-
+  },
 ];
 
 
