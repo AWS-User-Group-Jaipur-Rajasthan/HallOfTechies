@@ -820,6 +820,18 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "Shivam Vishwakarma",
+    role: "Cloud Engineer",
+    image: "https://avatars.githubusercontent.com/u/64523022?v=4",
+    skills: ['linux', 'unix', 'cloud', 'aws', 'java', 'python', 'cloud engineering'],
+    link: [
+      "https://github.com/svshiva",
+      "https://www.linkedin.com/in/shivamvishwakarma/",
+      "https://twitter.com/ShivamV97500840",
+    ],
+  },
+  
 ];
 
 
