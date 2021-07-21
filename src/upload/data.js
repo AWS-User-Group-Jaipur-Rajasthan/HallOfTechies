@@ -750,7 +750,7 @@ const data = [
     ],
   }
 {
-    name: "Ujjwal Srivastava",
+    name: "Ujjwal Srivastav",
     role: "CS Undergraud",
     image: "https://avatars.githubusercontent.com/u/87747687?v=4",
     skills: ['js', 'Html', 'C', 'Python'],
