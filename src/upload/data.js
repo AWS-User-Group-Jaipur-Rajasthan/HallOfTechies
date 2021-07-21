@@ -6,8 +6,8 @@ const data = [
     skills: ["js", "react", "node", "react native"],
     link: [
       "https://github.com/aksh-22",
-      "https://linkedin.com",
-      "https://twitter.com",
+      "https://www.linkedin.com/in/ak2298/",
+      "https://twitter.com/aksh__22",
     ],
   },
   {
