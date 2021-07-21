@@ -855,6 +855,17 @@ const data = [
       "https://twitter.com/muthuannamalai_",
     ],
   },
+  {
+  name: "Aditya Kumar",
+  role: "Engineering Student",
+  image: "https://avatars.githubusercontent.com/u/80571997?v=4",
+  skills: ['HTML', 'CSS', 'js', 'react', 'python', 'C++', 'API', 'ML', 'Flask' ],
+  link: [
+    "https://github.com/AdityaStark7",
+    "https://www.linkedin.com/in/aditya-kumar-b53a41203",
+    "https://twitter.com/aditya_stark07",
+   ],
+  },
 ];
 
 export default data;
