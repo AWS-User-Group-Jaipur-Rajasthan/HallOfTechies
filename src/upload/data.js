@@ -304,18 +304,6 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
- 
-  {
-    name: "Akshat Lakhara",
-    role: "Electrical undergrad",
-    image: "https://avatars.githubusercontent.com/u/85992585?v=4",
-    skills: ['js', 'css', 'html', 'cpp'],
-    link: [
-      "https://github.com/Akshatlakhara",
-      "https://linkedin.com/in/akshat-lakhara-355064201",
-      "https://twitter.com/lakhara-akshat",
-    ],
-},
   {
     name: "Aditya Prasad Panigrahy",
     role: "Frontend Developer",
@@ -635,7 +623,6 @@ const data = [
       "https://twitter.com/AnkitMa72507083",
     ],
   },
-
   {
     name: "Srijith",
     role: "student",
@@ -831,6 +818,16 @@ const data = [
       "https://github.com/RsBhargav",
       "https://www.linkedin.com/in/sai-bhargav-rallapalli-39110891/",
       "https://twitter.com/rs_bhargav",
+    ],
+  },
+  {
+    name: "Vaibhav Meena",
+    role: "Mobile App Developer | Flutter Developer",
+    image: "https://avatars.githubusercontent.com/u/85748557?v=4",
+    skills: ["Flutter","Dart","C++","C","Python","Git"],
+    link: [
+      "https://github.com/meena103",
+      "https://www.linkedin.com/in/vaibhav-meena-41b1961a0/",
     ],
   },
 ];
