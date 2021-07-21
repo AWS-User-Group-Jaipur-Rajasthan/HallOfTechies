@@ -820,6 +820,19 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "Komal Gupta",
+    role: "SE-AIML Undergraduate",
+    image: "https://avatars.githubusercontent.com/u/74819092?s=400&v=4",
+    skills: ['Python', 'C', 'Java', 'HTML','CSS'],
+    link: [
+      "https://github.com/Komal-99",
+      "https://www.linkedin.com/in/komal-gupta-1795b4181/",
+      "https://mobile.twitter.com/gkomal_0209",
+    ],
+  }
+
+
 ];
 
 
