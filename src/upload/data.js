@@ -833,6 +833,17 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "Sushant Gaurav",
+    role: "CSE Undergrad",
+    image: "https://avatars.githubusercontent.com/u/68695162?v=4",
+    skills: ['C/C++', 'Python', 'Data Structures and Algorithms', 'HTML','CSS','JavaScript','LINUX','DataBases'],
+    link: [
+      "https://github.com/imsushant12",
+      "https://linkedin.com/in/sushant-gaurav",
+      "https://twitter.com/_im_sushant",
+    ],
+  },
 ];
 
 
