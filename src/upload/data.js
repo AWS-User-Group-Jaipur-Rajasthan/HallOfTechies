@@ -48,7 +48,7 @@ const data = [
     name: "Aayush Pandey",
     role: "CS Undergrad & ML Enthusiast",
     image: "https://avatars.githubusercontent.com/u/72926955?s=400&v=4",
-    skills: ['Python','C','java','ML','js', 'node',],
+    skills: ["Python","C","java","ML","js","node","html"],
     link: [
       "https://github.com/aayushai",
       "https://www.linkedin.com/in/aayushpandey/",
