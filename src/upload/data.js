@@ -833,6 +833,19 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "KANAGA SIVESH K S",
+    role: "ECE STUDENT",
+    image: "",
+    skills: ['PYTHON', 'SQL', 'C', 'R', 'C++'],
+    link: [
+      "https://github.com/kanagasivesh",
+      "https://www.linkedin.com/in/kanaga-sivesh-k-s-41242720a",
+      "https://twitter.com/SiveshSk",
+    ],
+  }
+
+
 ];
 
 
