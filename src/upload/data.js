@@ -855,6 +855,18 @@ const data = [
       "https://twitter.com/muthuannamalai_",
     ],
   },
+  
+  {
+    name: "Rohit Das",
+    role: "Computer Applications Student",
+    image: "https://avatars.githubusercontent.com/u/87780528?v=4",
+    skills: ['javascript', 'java', 'php.net', 'c#', 'html & css'],
+    link: [
+      "https://github.com/rohitdas2k",
+      "https://www.linkedin.com/in/rohit-das-901ab4217/",
+      "https://twitter.com/RohitDa57102243",
+    ],
+  }
 ];
 
 export default data;
