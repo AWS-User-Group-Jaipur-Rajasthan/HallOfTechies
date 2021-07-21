@@ -1,4 +1,16 @@
 const data = [
+  
+   {
+    name: "Prajjwal Sharma",
+    role: "Frontend developer",
+    image: "https://avatars.githubusercontent.com/u/59313731?v=4",
+    skills: ['js', 'react', 'node'],
+    link: [
+      "https://github.com/prajjwal-24",
+      "https://linkedin.com/in/prajjwals24",
+      "https://twitter.com/prajjwalsharma_",
+    ],
+  },
   {
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
