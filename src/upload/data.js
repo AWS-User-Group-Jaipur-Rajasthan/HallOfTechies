@@ -737,7 +737,20 @@ const data = [
       "https://www.linkedin.com/in/divya-jainn/",
       " https://twitter.com/Divya82248572?s=08",
     ],
+  },
+  {
+    name: "Aastha Awasthi",
+    role: "B.Tech Information Technology Student ",
+    image: "https://avatars.githubusercontent.com/u/71832274?v=4",
+    skills: ['Python', 'DBMS', 'DSA', 'CPP'],
+    link: [
+      "https://github.com/Aasthaawasthi0807",
+      "https://linkedin.com/in/aastha-awasthi-62b9021aa",
+      "https://twitter.com/Aastha Awasthi",
+    ],
   }
+
+
 
 ];
 
