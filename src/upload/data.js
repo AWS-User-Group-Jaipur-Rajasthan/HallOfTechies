@@ -23,6 +23,18 @@ const data = [
     ],
   },
   {
+    name: "R Ashwin",
+    role: "Python Programmer",
+    image: "https://avatars.githubusercontent.com/u/73417773?v=4",
+    skills: ['Python', 'MySQL', 'GCP', 'Microsoft Azure'],
+    link: [
+      "https://github.com/ashwin3082002",
+      "https://linkedin.com/in/ashwin3082002",
+      "https://twitter.com/ashwin3082002",
+    ],
+  },
+  {
+
 
     name: "Mohtasham Sayeed Mohiuddin",
     role: "Full Stack Developer/ Cloud Developer",
