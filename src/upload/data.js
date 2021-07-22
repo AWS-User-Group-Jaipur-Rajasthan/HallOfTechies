@@ -2145,5 +2145,16 @@ const data = [
       "https://twitter.com/@HBartariya",
     ],
   },
+  {
+    name: "Sarvesh Agrawal",
+    role: "Data Scientist",
+    image: "https://avatars.githubusercontent.com/u/36103211?v=4",
+    skills: ["Python", "JavaScript", "Machine Learning", "Deep Learning", "Tensorflow", "MongoDB", "MySQL"],
+    link: [
+      "https://github.com/Sarvesh1523",
+      "https://www.linkedin.com/in/sarvesh1523/",
+      "https://twitter.com/@Sarvesh65900833",
+    ],
+  }
 ];
 export default data;
