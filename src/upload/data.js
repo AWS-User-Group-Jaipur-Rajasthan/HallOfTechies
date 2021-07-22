@@ -701,6 +701,17 @@ const data = [
     ],
   },
   {
+    name: "Akashdeep Gupta",
+    role: "Information Technology Student | Cloud Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/61601588?v=4",
+    skills: ['AWS', 'Docker', 'Kubernetes', 'My-Sql', 'Python', 'HTML', 'CSS', 'JS', 'Bash', 'Linux'],
+    link: [
+      "https://github.com/Akashdeep-47",
+      "https://linkedin.com/in/akashdeep-47",
+      "https://twitter.com/akashdeep_47",
+    ],
+  },
+  {
     name: "Shubham Gupta",
     role: "Student",
     image: "https://avatars.githubusercontent.com/u/15152368?v=4",
@@ -1001,6 +1012,7 @@ const data = [
     ],
   },
 ];
+
 
 
 
