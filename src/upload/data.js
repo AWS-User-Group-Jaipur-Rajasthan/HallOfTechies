@@ -1764,6 +1764,19 @@ const data = [
     ],
   },
   {
+    name: "LOKESH V",
+    role: "AI RESEARCHER",
+    image: "https://avatars.githubusercontent.com/u/43855211?s=400&v=4",
+    skills: ['js', 'react', 'node', 'react native', 'python', 'java', 'react', 'R'],
+    link: [
+      "https://github.com/lokeshvenkatesan",
+      "https://linkedin.com/in/lokeshvenk",
+      "https://twitter.com/Supreme10014",
+    ],
+  },
+
+
+  {
     name: "Muthu Annamalai.V",
     role: "CS Undergrad",
     image: "https://avatars.githubusercontent.com/u/64524822?v=4",
@@ -1772,6 +1785,28 @@ const data = [
       "https://github.com/muthuannamalai12",
       "https://linkedin.com/in/muthu-annamalai",
       "https://twitter.com/muthuannamalai_",
+    ],
+  },
+  {
+    name: "Meghan Jain H S",
+    role: "FrontEnd Developer",
+    image: " ",
+    skills: ["HTML", "CSS", "JS", "Java"],
+    link: [
+      "https://github.com/meghanjain23",
+      "https://www.linkedin.com/in/meghan-jain-h-s-926117200/",
+      "https://twitter.com/meghanjain23",
+    ],
+  },
+  {
+    name: "Yashashwini Dixit",
+    role: "CSE Undergraduate/Full Stack Developer/Data Analyst",
+    image: "https://avatars.githubusercontent.com/u/64366760?v=4",
+    skills: ['react.js', 'node.js', 'HTML', 'CSS', 'AI/ML', 'Python','Javascript', 'Java', 'AWS Cloud'],
+    link: [
+      "https://github.com/YashashwiniDixit",
+      "https://www.linkedin.com/in/yashashwini-dixit-072016191/",
+      "https://twitter.com/YashashwiniDix1",
     ],
   },
   {
