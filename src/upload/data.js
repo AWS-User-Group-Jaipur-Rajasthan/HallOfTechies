@@ -1603,6 +1603,17 @@ const data = [
     ],
   },
   {
+    name: "Parul Sahoo",
+    role: "CSE undergraduate",
+    image: "https://avatars.githubusercontent.com/u/60248260?s=60&v=4",
+    skills: ['js', 'MERN', 'Java', 'Docker', 'Kubernetes', 'Sanity Studio', 'GraphQL'],
+    link: [
+      "https://github.com/parul5sahoo",
+      "https://www.linkedin.com/in/parul-sahoo-4bb8301a0/",
+      "https://twitter.com/ParulSahoo",
+    ],
+  },
+  {
     name: "Ankit Sangwan",
     role: "Flutter Developer",
     image: "https://avatars.githubusercontent.com/u/42967322?v=4",
@@ -1820,7 +1831,6 @@ const data = [
     link: [
 
       "https://github.com/cnu1812",
-
       "https://www.linkedin.com/in/v-sreenivas-985088203",
 
       "https://twitter.com/seenuv96520797?s=09",
