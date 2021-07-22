@@ -701,6 +701,18 @@ const data = [
     ],
   },
   {
+    name: "Aditya Srivastava",
+    role: "Student",
+    image: "https://github.com/zxabchttps://avatars.githubusercontent.com/u/72244050?v=4",
+    skills: [ 'css', 'html', 'python'],
+    link: [
+      "https://github.com/Zxabc",
+      "https://linkedin.com/",
+      "https://twitter.com/@Zxabc3",
+    ],
+  },
+
+  {
     name: "Ajit Fawade",
     role: "MERN Stack Developer",
     image: "https://avatars.githubusercontent.com/u/16475300?v=4",
