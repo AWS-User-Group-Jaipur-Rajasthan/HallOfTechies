@@ -305,6 +305,17 @@ const data = [
     ],
   },
   {
+    name: "Manish Kumar Barnwal",
+    role: "Web Developer",
+    image: "https://avatars.githubusercontent.com/u/46371923?v=4",
+    skills: ['HTML','CSS','js','Python'],
+    link: [
+      "https://github.com/imanishbarnwal",
+      "https://www.linkedin.com/in/imanishbarnwal",
+      "https://twitter.com/imanishbarnwal",
+      ]
+  },
+  {
     name: "Anupam Haldkar",
     role:"Tech Dev",
     image: "https://avatars.githubusercontent.com/u/48323127?v=4",
