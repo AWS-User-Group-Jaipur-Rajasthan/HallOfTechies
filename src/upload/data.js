@@ -1315,6 +1315,20 @@ const data = [
     ],
   },
   {
+    name: "Vyshak Puthusseri",
+    role: "Developer",
+    image: "https://avatars.githubusercontent.com/u/33171828?v=4",
+    skills: ['python', 'flask', 'deep learning', 'react', 'node'],
+    link: [
+      "https://github.com/puthusseri/",
+      "https://www.linkedin.com/in/vyshakputhusseri/",
+      "https://twitter.com/puthusseris",
+    ],
+  },
+  {
+
+
+
     name: "Abhiroop Basak",
     role: "IT Undergrad",
     image: "https://avatars.githubusercontent.com/u/63965017?v=4",
