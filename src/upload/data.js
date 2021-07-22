@@ -743,6 +743,17 @@ const data = [
       "https://twitter.com/AnkitMa72507083",
     ],
   },
+    {
+    name: "Anand Natarajan",
+    role: "Full-Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/6303094?v=4",
+    skills: ['AWS', 'HTML', 'CSS', 'JavaScript','Angular'],
+    link: [
+      "https://github.com/anandnat",
+      "https://www.linkedin.com/in/anandhnat/",
+      "https://twitter.com/anandnat",
+    ],
+  },
   {
     name: "suman shah",
     role: "student",
