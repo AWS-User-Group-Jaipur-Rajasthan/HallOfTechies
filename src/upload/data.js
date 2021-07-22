@@ -1592,6 +1592,17 @@ const data = [
     ],
   },
   {
+    name: "Ankit Sangwan",
+    role: "Flutter Developer",
+    image: "https://avatars.githubusercontent.com/u/42967322?v=4",
+    skills: ['Dart', 'Python', 'Java', ''],
+    link: [
+      "https://github.com/Sangwan5688",
+      "https://linkedin.com/in/ankit-sangwan-5789931a3/",
+      "https://twitter.com/sangwan5688",
+    ],
+  },
+  {
     name: "KANAGA SIVESH K S",
     role: "ECE STUDENT",
     image: "https://avatars.githubusercontent.com/u/72315540?v=4",
