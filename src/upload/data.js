@@ -1785,6 +1785,17 @@ const data = [
     ],
   },
   {
+    name: "Meghan Jain H S",
+    role: "FrontEnd Developer",
+    image: " ",
+    skills: ["HTML", "CSS", "JS", "Java"],
+    link: [
+      "https://github.com/meghanjain23",
+      "https://www.linkedin.com/in/meghan-jain-h-s-926117200/",
+      "https://twitter.com/meghanjain23",
+    ],
+  },
+  {
     name: "Yashashwini Dixit",
     role: "CSE Undergraduate/Full Stack Developer/Data Analyst",
     image: "https://avatars.githubusercontent.com/u/64366760?v=4",
