@@ -13,6 +13,18 @@ const data = [
     ],
   },
   {
+    name: "Aditya Sawant",
+    role: "Front-End Developer",
+    image: "https://avatars.githubusercontent.com/u/60505090?s=400&v=4",
+    skills: ['Java', 'C++', 'Python','js', 'react'],
+    link: [
+      "https://github.com/AdityaSawant21",
+      "https://www.linkedin.com/in/aditya-a-sawant/",
+      "https://twitter.com/AdityaASawant1",
+    ],
+  },
+  {
+ 
     name: 'Yashi Agarwal',
     role: 'Backend Developer',
     image: 'https://avatars.githubusercontent.com/u/46988943?v=4',
@@ -94,6 +106,19 @@ const data = [
     ],
   },
   {
+    name: 'Smit Sakariya',
+    role: 'Blockchain Developer',
+    image:
+      'https://avatars.githubusercontent.com/u/68073132?s=400&u=46977cdd438d6a903d822ca7db2353c640968148&v=4',
+    skills: ['solidity', 'ethereum', 'web-development'],
+    link: [
+      'https://github.com/smit-1923',
+      'https://www.linkedin.com/in/smitsakariya/',
+      'https://twitter.com/SmitSakariya',
+    ],
+  },
+  {
+ 
     name: "Varshil Shah",
     role: "Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/22892867?v=4",
@@ -1337,6 +1362,54 @@ const data = [
       " https://twitter.com/Divya82248572?s=08",
     ],
   },
+
+{
+    name: "Ujjwal Srivastav",
+    role: "CS Undergraud",
+    image: "https://avatars.githubusercontent.com/u/87747687?v=4",
+    skills: ['js', 'Html', 'C', 'Python'],
+    link: [
+      "https://github.com/ujjwalsrivastav",
+      "https://www.linkedin.com/in/ujjwal-srivastava-456204206/",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  },
+  {
+    name: "Ashish Patwal",
+    role: "Opensource Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/63491234?v=4",
+    skills: ['Python', 'C++', 'JavaScript/Typescript', 'DevOps', 'Web Development','shell', 'Linux'],
+    link: [
+      "https://github.com/ashish-patwal",
+      "https://www.linkedin.com/in/ashish-patwal-6bb671190",
+    ],
+  },
+    
+    {
+    name: "Saurav kumar",
+    role: "B.Tech CSE Student at Lovely professional university",
+    image: "https://avatars.githubusercontent.com/u/87579538?v=4",
+    skills: ['C', 'C++', 'Python'],
+    link: [
+      "https://github.com/saurav9283",
+      "https://www.linkedin.com/feed/",
+      "https://twitter.com/home?lang=en",
+    ],
+  
+  
+  },
+  {
+    name: "Sudeeksha Nayak",
+    role: "Web developer",
+    image: "https://avatars.githubusercontent.com/u/65765077?v=4",
+    skills: ['js', 'react', 'node', 'python','html/css','mongodb','java','c'],
+    link: [
+      "https://github.com/sudeeksha19",
+      "https://www.linkedin.com/in/sudeekshanayak19/",
+      "https://twitter.com/SudeekshaNayak",
+    ],
+  },
+
   {
     name: "Shubham Kumar Singh",
     role: "Developer",
@@ -1486,6 +1559,88 @@ const data = [
     ],
   },
   {
+    name: "Komal Gupta",
+    role: "SE-AIML Undergraduate",
+    image: "https://avatars.githubusercontent.com/u/74819092?s=400&v=4",
+    skills: ['Python', 'C', 'Java', 'HTML','CSS'],
+    link: [
+      "https://github.com/Komal-99",
+      "https://www.linkedin.com/in/komal-gupta-1795b4181/",
+      "https://mobile.twitter.com/gkomal_0209",
+    ],
+  },
+  {
+
+
+    name: "Riya Gupta",
+    role: "Frontend Developer",
+    image: "https://avatars.githubusercontent.com/u/72425181?s=400&u=9e732e1c9ecf6f4b0a0c4ddad76984d506963f60&v=4",
+    skills: ['HTML5', 'CSS3', 'JS', 'React', 'NodeJS', 'ExpressJS', 'MongoDB', 'Mongoose', 'C++'],
+    link: [
+      "https://github.com/RiyaGupta89",
+      "https://www.linkedin.com/in/riyaaa",
+      "https://twitter.com/Riya54791008",
+    ],
+  },
+  {
+
+    name: "Prakash Agarwal",
+    role: "Student B.Tech(CSE)",
+    image: "https://avatars.githubusercontent.com/u/36405534?v=4",
+    skills: ['js', 'pyhton', 'AWS', 'GCP', 'Docker', 'Kubernetes', 'Jenkins', 'Terraform', 'Machine Learning'],
+    link: [
+      "https://github.com/kruzes1",
+      "https://linkedin.com/in/prakashag/",
+      "https://twitter.com/Kruzes_",
+    ],
+  },
+  {
+    name: "Shivam Vishwakarma",
+    role: "Cloud Engineer",
+    image: "https://avatars.githubusercontent.com/u/64523022?v=4",
+    skills: ['linux', 'unix', 'cloud', 'aws', 'java', 'python', 'cloud engineering'],
+    link: [
+      "https://github.com/svshiva",
+      "https://www.linkedin.com/in/shivamvishwakarma/",
+      "https://twitter.com/ShivamV97500840",
+    ],
+  },
+  
+{
+    name: "Priyal Jain",
+    role: "Frontend Developer",
+    image: "https://avatars.githubusercontent.com/u/61619493?v=4",
+    skills: ['html', 'css', 'js', 'react'],
+    link: [
+      "https://github.com/Priyal056",
+      "https://www.linkedin.com/in/priyal-jain-6bb225173/",
+      "https://twitter.com/PriyalJ97784324",
+    ],
+
+  },
+  {
+    name: "Sandra Mariyam Jacob",
+    role: "CSE Undergrad | Front-end developer",
+    image: "https://avatars.githubusercontent.com/u/66560251?v=4",
+    skills: ['html', 'css', 'js', 'react'],
+    link: [
+      "https://github.com/sandra9711",
+      "https://linkedin.com/in/sandra-mariyam-jacob",
+      "https://twitter.com/sandra_mariyam",
+    ],
+  },
+  {
+    name: "Swarnadeep Ghosh",
+    role: "Front End Developer (Angular)",
+    image: "https://avatars.githubusercontent.com/u/60822964?v=4",
+    skills: ['Angular', 'Java', 'Python', 'Git', 'AWS', 'Google Cloud'],
+    link: [
+      "https://github.com/SwarnadeepGhosh",
+      "https://linkedin.com/in/swarnadeepghosh",
+      "https://twitter.com/swarnadeep_97",
+    ],
+  },
+  {
     name: "Sathwik Thaduru",
     role: "CS UG student",
     image: "https://avatars.githubusercontent.com/u/65865881?v=4",
@@ -1609,7 +1764,6 @@ const data = [
     ],
   },
   {
-
 
     name: "Mohtasham Sayeed Mohiuddin",
     role: "Full Stack Developer/ Cloud Developer",
