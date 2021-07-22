@@ -1034,6 +1034,17 @@ const data = [
       "https://twitter.com/77_hound",
     ],
   },
+  {
+    name: "LOKESH GAWANDE",
+    role: "STUDENT",
+    image: "https://avatars.githubusercontent.com/u/83236804?v=4",
+    skills: ['C++', 'HTML', 'CSS', 'JavaScript','Python'],
+    link: [
+      "https://github.com/lokesh21012002",
+      "https://www.linkedin.com/in/lokesh-gawande-92692a1b2/",
+      "https://mobile.twitter.com/Lokeshgawande7",
+    ],
+  },
     {
     name: "koushik mondal",
     role: "Student",
