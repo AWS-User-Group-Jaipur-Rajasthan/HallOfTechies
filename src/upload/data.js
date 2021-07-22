@@ -1035,6 +1035,17 @@ const data = [
     ],
   },
   {
+    name: "Digant Prajapati",
+    role: "Security Reseacher",
+    image: "https://avatars.githubusercontent.com/u/58943360?v=4",
+    skills: ['Linux', 'VAPT', 'JAVA', 'Python' , 'HTML'],
+    link: [
+      "https://github.com/invincible-9",
+      "https://linkedin.com/in/digant-prajapati",
+      "https://twitter.com/_invincible9",
+    ],
+  },
+  {
     name: "ASTITVA BINDAL",
     role: "STUDENT",
     image: "https://avatars.githubusercontent.com/u/62743134?v=4",
