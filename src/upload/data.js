@@ -281,6 +281,21 @@ const data = [
     ],
   },
 
+
+  {
+    name: "Rohit Sen",
+    role: "Front-end developer",
+    image: "https://avatars.githubusercontent.com/u/85751739?s=400&u=b59a37f71b3df1a3a5e790b83c9cb4c716ca136d&v=4.png",
+    skills: ['HTML', 'CSS', 'JavaScript', 'Python'],
+    link: [
+      "https://github.com/rohitsen223",
+      "https://www.linkedin.com/in/rohit-sen-30381820b",
+      "https://twitter.com/RohitSe36744853",
+    ],
+  }
+
+   
+
   {
     name: "Nishant Rajput",
     role: "Technical Content Writer | Linux Enthusiast",
