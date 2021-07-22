@@ -1546,6 +1546,17 @@ const data = [
     ],
   },
   {
+    name: "Swarnadeep Ghosh",
+    role: "Front End Developer (Angular)",
+    image: "https://avatars.githubusercontent.com/u/60822964?v=4",
+    skills: ['Angular', 'Java', 'Python', 'Git', 'AWS', 'Google Cloud'],
+    link: [
+      "https://github.com/SwarnadeepGhosh",
+      "https://linkedin.com/in/swarnadeepghosh",
+      "https://twitter.com/swarnadeep_97",
+    ],
+  },
+  {
     name: "Sathwik Thaduru",
     role: "CS UG student",
     image: "https://avatars.githubusercontent.com/u/65865881?v=4",
@@ -1669,7 +1680,6 @@ const data = [
     ],
   },
   {
-
 
     name: "Mohtasham Sayeed Mohiuddin",
     role: "Full Stack Developer/ Cloud Developer",
