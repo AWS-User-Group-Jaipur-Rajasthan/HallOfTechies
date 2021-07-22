@@ -1,17 +1,6 @@
 const data = [
-
   
-  {
-    name: "Harsh Bartariya",
-    role: "Programming enthusiast | Cs student",
-    image: "https://avatars.githubusercontent.com/u/59999317?v=4",
-    skills: ["js", "node", "angular", "python", "java", "Artificial intelligence", "Arduino"],
-    link: [
-      "https://github.com/Harsh-bartariya",
-      "https://linkedin.com/in/harsh-viha786",
-      "https://twitter.com/@HBartariya",
-    ],
-  },
+  
 {
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
@@ -1960,7 +1949,29 @@ const data = [
       "https://www.linkedin.com/in/akshay-vishwakarma-a29694196",
       "https://twitter.com/Akshay32648002",
     ],
-  }
+  },
+   {
+    name: "Prajjwal Sharma",
+    role: "Frontend developer",
+    image: "https://avatars.githubusercontent.com/u/59313731?v=4",
+    skills: ['js', 'react', 'node'],
+    link: [
+      "https://github.com/prajjwal-24",
+      "https://linkedin.com/in/prajjwals24",
+      "https://twitter.com/prajjwalsharma_",
+    ],
+  },
+  {
+    name: "Harsh Bartariya",
+    role: "Programming enthusiast | Cs student",
+    image: "https://avatars.githubusercontent.com/u/59999317?v=4",
+    skills: ["js", "node", "angular", "python", "java", "Artificial intelligence", "Arduino"],
+    link: [
+      "https://github.com/Harsh-bartariya",
+      "https://linkedin.com/in/harsh-viha786",
+      "https://twitter.com/@HBartariya",
+    ],
+  },
 
 ];
 export default data;
