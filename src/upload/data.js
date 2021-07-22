@@ -1589,6 +1589,7 @@ const data = [
       "https://www.linkedin.com/in/priyal-jain-6bb225173/",
       "https://twitter.com/PriyalJ97784324",
     ],
+
   },
   {
     name: "Sandra Mariyam Jacob",
