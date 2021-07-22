@@ -905,9 +905,20 @@ const data = [
     image: "https://avatars.githubusercontent.com/u/37236514?s=400&v=4",
     skills: ["Node JS", "API", "Python"],
     link: [
-      "https://github.com/RsBhargav",
+      "https://github.com/RsBhttps://twitter.com/SathwikThadhargav",
       "https://www.linkedin.com/in/sai-bhargav-rallapalli-39110891/",
-      "https://twitter.com/rs_bhargav",
+      "https://twitter.com/rshttps://www.linkedin.com/in/sathwik-reddy-thaduru-1310261b2/_bhargav",
+    ],
+  },
+  {
+    name: "Sathwik Thaduru",
+    role: "CS UG student",
+    image: "https://avatars.githubusercontent.com/u/65865881?v=4",
+    skills: ['js', 'ML', 'java', 'python'],
+    link: [
+      "https://github.com/sathwikreddythaduru",
+      "https://www.linkedin.com/in/sathwik-reddy-thaduru-1310261b2/",
+      "https://twitter.com/SathwikThad",
     ],
   },
   {
