@@ -1810,6 +1810,17 @@ const data = [
       "https://twitter.com/muthuannamalai_",
     ],
   },
+{
+    name: "Mihir Jainendra Khandelwal",
+    role: "Data Scientist Training",
+    image: "https://avatars.githubusercontent.com/mihir-khandelwal",
+    skills: ['js', 'reactjs', 'python', 'azure-ai','web-development','ML','AI'],
+    link: [
+      "https://github.com/Mihir-Khandelwal",
+      "https://www.linkedin.com/in/mihirkhandelwal/",
+      "https://twitter.com/JainendraMihir",
+    ],
+  },
   {
     name: "Risav Sarkar",
     role: "CSE Undergrad",
