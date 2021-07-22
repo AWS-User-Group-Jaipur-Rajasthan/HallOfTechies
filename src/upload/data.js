@@ -700,7 +700,19 @@ const data = [
       "https://twitter.com/AnkitMa72507083",
     ],
   },
-  {
+  
+{
+    name: "DEEPAK KUMAR SAH",
+    role: "APPS DEVELOPER",
+    image: "https://avatars.githubusercontent.com/u/87613102?v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/GITHUB_USERNAME",
+      "https://linkedin.com/in/deepakkumarsah",
+      "https://twitter.com/mrdeepakkrsah",
+    ],
+  },
+   {
     name: "Nayan Kamal Verma",
     role: "cs undergraduate",
     image: "https://avatars.githubusercontent.com/u/65735338?v=4",
@@ -976,7 +988,7 @@ const data = [
       "https://mobile.twitter.com/RahulKu52549520",
     ],
   },
-
 ];
+
 
 export default data;
