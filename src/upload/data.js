@@ -744,6 +744,17 @@ const data = [
     ],
   },
   {
+    name: "Shubham Savdekar",
+    role: "System Administrator",
+    image: "https://avatars.githubusercontent.com/u/35762637?v=4",
+    skills: ['AWS', 'IIS', 'Sophos Firewall', 'CentOS', 'Windows Server'],
+    link: [
+      "https://github.com/ShubhamSavdekar",
+      "https://www.linkedin.com/in/shubhamsavdekar/",
+      "https://twitter.com/SavdekarShubham",
+    ],
+  },
+  {
     name: "Neha Suryawanshi",
     role: "Software Developer | Python Developer | Data Science & Analytics",
     image: "https://avatars.githubusercontent.com/u/70685834?v=4",
@@ -754,7 +765,6 @@ const data = [
       "https://twitter.com/NehaSur00209269",
     ],
   },
-
   {
     name: "Ankit Raj",
     role: "Student",
