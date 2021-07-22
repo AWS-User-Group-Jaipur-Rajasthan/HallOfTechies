@@ -305,6 +305,17 @@ const data = [
     ],
   },
   {
+    name: "Ankur Dey",
+    role: "CSE Undergraduate",
+    image: "https://avatars.githubusercontent.com/u/80063726?v=4",
+    skills: ['html', 'css', 'js', 'java', 'c++', 'python', 'bash'],
+    link: [
+      "https://github.com/AnkurDey20",
+      "https://www.linkedin.com/in/ankurdey20/",
+      "https://twitter.com/the_dottish_boi",
+    ],
+  },
+  {
     name: "Rajshree Nupur",
     role: "Frontend Web development",
     image: "https://avatars.githubusercontent.com/u/63921042?s=400&u=fea3baa23362b134a8e891d1a4eafb48a243b480&v=4",
