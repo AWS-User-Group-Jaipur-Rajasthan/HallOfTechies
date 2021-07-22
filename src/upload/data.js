@@ -1,5 +1,6 @@
 const data = [
 
+  
   {
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
@@ -9,6 +10,17 @@ const data = [
       "https://github.com/aksh-22",
       "https://www.linkedin.com/in/ak2298/",
       "https://twitter.com/aksh__22",
+    ],
+  },
+  {
+    name: 'Yashi Agarwal',
+    role: 'Backend Developer',
+    image: 'https://avatars.githubusercontent.com/u/46988943?v=4',
+    skills: ['MongoDb','node', 'js', 'express', 'AWS'],
+    link: [
+      'https://github.com/yashi12',
+      'https://www.linkedin.com/in/yashi-agarwal-0459b2191/',
+      'https://twitter.com/YashiAg09717844',
     ],
   },
  
