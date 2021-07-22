@@ -1181,6 +1181,17 @@ const data = [
     ],
   },
   {
+    name: "Amit Kumar",
+    role: "Web Developer",
+    image: "https://avatars.githubusercontent.com/u/54941979?v=4",
+    skills: ['c', 'python', 'react', 'git'],
+    link: [
+      "https://github.com/amitkrraj",
+      "https://linkedin.com/in/amitkrraj",
+      "https://twitter.com/amitkrraj",
+    ],
+  },
+  {
     name: "Aritra Sen",
     role: "CSE Undergraduate at Government College of Engineering and Leather Technology | Web Developer | ML enthusiast",
     image: "https://avatars.githubusercontent.com/u/71816694?v=4",
