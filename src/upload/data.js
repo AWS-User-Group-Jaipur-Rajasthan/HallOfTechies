@@ -976,6 +976,18 @@ const data = [
       "https://mobile.twitter.com/RahulKu52549520",
     ],
   },
+  {
+name: "Tarun Upadhayay",
+role: "Software developer",
+image: "https://avatars.githubusercontent.com/u/65597321?s=400&u=1068e468cef406fed9be6f303d63a56799e36aaf&v=4",
+skills: [‘HTML’,'Python', 'C++','MySQL'],
+link: [
+"https://github.com/tarunupadhayay",
+"https://www.linkedin.com/in/tarun-upadhayay-9a2a601a5/",
+"https://twitter.com/TarunUpadhaya14",
+],
+},
+
 
 ];
 
