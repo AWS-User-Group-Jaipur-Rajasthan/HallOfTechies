@@ -744,6 +744,17 @@ const data = [
     ],
   },
   {
+    name: "suman shah",
+    role: "student",
+    image: "https://avatars.githubusercontent.com/u/61034696?v=4",
+    skills: ['python', 'c', 'c++', 'html'],
+    link: [
+      "https://github.com/suman-shah",
+      "https://linkedin.com/in/suman-shah/",
+      "https://twitter.com/shoppingevl",
+    ],
+  },
+  {
     name: "Ashish Soyetra",
     role: "Student",
     image: "https://avatars.githubusercontent.com/u/53328534?v=4",
