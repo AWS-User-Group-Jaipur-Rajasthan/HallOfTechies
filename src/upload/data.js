@@ -1984,6 +1984,17 @@ const data = [
       "https://github.com/shru2408",
       "https://www.linkedin.com/in/shruti-agrawal-2001/",
       "https://twitter.com/ShruAg",
+    ]
+  },
+    {
+      name: "Prajwal Tikhe",
+    role: "Web Developer",
+    image: "https://avatars.githubusercontent.com/u/72973991?v=4",
+    skills: ['c++', 'python', 'html', 'css' , 'js'],
+    link: [
+      "https://github.com/PrajwalTikhe1",
+      "https://linkedin.com/in/prajwaltikhe",
+      "https://twitter.com/PrajwalTikhe10",
     ],
   },
   {
