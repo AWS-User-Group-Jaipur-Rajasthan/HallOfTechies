@@ -303,6 +303,17 @@ const data = [
     ],
   },
   {
+    name: "DEEPAK KUMAR SAH",
+    role: "APPS DEVELOPER",
+    image: "https://avatars.githubusercontent.com/u/87613102?v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/GITHUB_USERNAME",
+      "https://linkedin.com/in/deepakkumarsah",
+      "https://twitter.com/mrdeepakkrsah",
+      ]
+  },
+  {
     name: "Nehal Jaisalmeria",
     role: "Software Developer",
     image: "https://avatars.githubusercontent.com/u/32421196?v=4",
