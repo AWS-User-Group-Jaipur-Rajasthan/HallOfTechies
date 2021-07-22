@@ -1161,6 +1161,17 @@ const data = [
     ],
   },
   {
+    name: "Tanjim Shah Kabir",
+    role: "Ethical Hacker",
+    image: "https://avatars.githubusercontent.com/u/87455494?s=400&u=1ea2194010240c055eddbe4f21318dc6ca247139&v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/trinob2006",
+      "https://www.linkedin.com/in/tanjim-shah-kabir-trinob-8a040820b/",
+       "https://www.instagram.com/trinob_shah/",
+    ],
+  },
+  {
     name: "V.Chandra Shekhar",
     role: "Full Stack Developer|Cloud Enthusiast|AI-ML Enthusiast",
     image: "https://avatars.githubusercontent.com/u/13059783?v=4",
