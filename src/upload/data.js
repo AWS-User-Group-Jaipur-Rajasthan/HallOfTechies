@@ -843,7 +843,7 @@ const data = [
       "https://www.linkedin.com/in/abhijeet-modak/",
       "https://twitter.com/abhijeetmodak96",
     ],
-  }
+  },
 ];
 
 
