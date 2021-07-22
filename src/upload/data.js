@@ -11,41 +11,7 @@ const data = [
       "https://twitter.com/aksh__22",
     ],
   },
-  {
-    name: "Ankit Banerjee",
-    role: "Full Stack Developer",
-    image: "https://avatars.githubusercontent.com/u/63962369?v=4",
-    skills: ['js', 'react', 'HTML', 'CSS', 'NodeJS'],
-    link: [
-      "https://github.com/ankitbanerjee0211",
-      "https://www.linkedin.com/in/ankit-banerjee-0211/",
-      "https://twitter.com/AnkitBan0211",
-    ],
-  },
-  {
-    name: "R Ashwin",
-    role: "Python Programmer",
-    image: "https://avatars.githubusercontent.com/u/73417773?v=4",
-    skills: ['Python', 'MySQL', 'GCP', 'Microsoft Azure'],
-    link: [
-      "https://github.com/ashwin3082002",
-      "https://linkedin.com/in/ashwin3082002",
-      "https://twitter.com/ashwin3082002",
-    ],
-  },
-  {
-
-
-    name: "Mohtasham Sayeed Mohiuddin",
-    role: "Full Stack Developer/ Cloud Developer",
-    image: "https://avatars.githubusercontent.com/u/77109645?v=4",
-    skills: ["js", "react", "node", "react native"],
-    link: [
-      "https://github.com/mohtasham9",
-      "https://www.linkedin.com/in/mohtasham-sayeed-mohiuddin-a844311a0",
-      "https://twitter.com/Mohtasham7862",
-    ],
-  },
+ 
   {
     name: "Ankit Chaudhari",
     role: "Full Stack Developer",
@@ -1436,6 +1402,53 @@ const data = [
       "https://github.com/veeresh745",
       "https://www.linkedin.com/in/veeresh-soni/",
       "https://twitter.com/veereshsoni3",
+    ],
+  },
+   {
+    name: "DHRUVA BHATTACHARYA",
+    role: "Full Stack Web Developer/MERN",
+    image: "https://avatars.githubusercontent.com/u/71749153?v=4",
+    skills: ['C','C++', 'Java', 'Python', 'js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/dhruvaop",
+      "https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/",
+      "https://twitter.com/DhruvaBhattach2",
+    ],
+  },
+  {
+ 
+    name: "Ankit Banerjee",
+    role: "Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/63962369?v=4",
+    skills: ['js', 'react', 'HTML', 'CSS', 'NodeJS'],
+    link: [
+      "https://github.com/ankitbanerjee0211",
+      "https://www.linkedin.com/in/ankit-banerjee-0211/",
+      "https://twitter.com/AnkitBan0211",
+    ],
+  },
+  {
+    name: "R Ashwin",
+    role: "Python Programmer",
+    image: "https://avatars.githubusercontent.com/u/73417773?v=4",
+    skills: ['Python', 'MySQL', 'GCP', 'Microsoft Azure'],
+    link: [
+      "https://github.com/ashwin3082002",
+      "https://linkedin.com/in/ashwin3082002",
+      "https://twitter.com/ashwin3082002",
+    ],
+  },
+  {
+
+
+    name: "Mohtasham Sayeed Mohiuddin",
+    role: "Full Stack Developer/ Cloud Developer",
+    image: "https://avatars.githubusercontent.com/u/77109645?v=4",
+    skills: ["js", "react", "node", "react native"],
+    link: [
+      "https://github.com/mohtasham9",
+      "https://www.linkedin.com/in/mohtasham-sayeed-mohiuddin-a844311a0",
+      "https://twitter.com/Mohtasham7862",
     ],
   },
 
