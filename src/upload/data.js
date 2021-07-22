@@ -1556,6 +1556,17 @@ const data = [
       "https://twitter.com/rshttps://www.linkedin.com/in/sathwik-reddy-thaduru-1310261b2/_bhargav",
     ],
   },
+{
+    name: "Priyal Jain",
+    role: "Frontend Developer",
+    image: "https://avatars.githubusercontent.com/u/61619493?v=4",
+    skills: ['html', 'css', 'js', 'react'],
+    link: [
+      "https://github.com/Priyal056",
+      "https://www.linkedin.com/in/priyal-jain-6bb225173/",
+      "https://twitter.com/PriyalJ97784324",
+    ],
+  },
   {
     name: "Sandra Mariyam Jacob",
     role: "CSE Undergrad | Front-end developer",
