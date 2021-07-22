@@ -1,15 +1,5 @@
 const data = [
-  {
-    name: "Veeresh Soni",
-    role: "Student",
-    image: "https://github.com/veeresh745.png",
-    skills: ["js", "react", "node", "react native"],
-    link: [
-      "https://github.com/veeresh745",
-      "https://www.linkedin.com/in/veeresh-soni/",
-      "https://twitter.com/veereshsoni3",
-    ],
-  },
+ 
   {
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
@@ -1359,6 +1349,40 @@ const data = [
       "https://www.linkedin.com/in/-shubham-kumar-singh/",
       "https://twitter.com/ShubhamkSingh77",
     ],
+        },
+       {
+
+    name: "V SREENIVAS",
+
+    role: "Devops",
+
+    image: "GITHUB PROFILE IMAGE LINK",
+
+    skills: ['js', 'react', 'node', 'react native','kubernetes'],
+
+    link: [
+
+      "https://github.com/cnu1812",
+
+      "https://www.linkedin.com/in/v-sreenivas-985088203",
+
+      "https://twitter.com/seenuv96520797?s=09",
+
+    ],
+
+  },
+  {
+   
+    name: "Veeresh Soni",
+    role: "Student",
+    image: "https://github.com/veeresh745.png",
+    skills: ["js", "react", "node", "react native"],
+    link: [
+      "https://github.com/veeresh745",
+      "https://www.linkedin.com/in/veeresh-soni/",
+      "https://twitter.com/veereshsoni3",
+    ],
+  },
   
 ];
 
