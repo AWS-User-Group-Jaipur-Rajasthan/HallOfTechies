@@ -1559,6 +1559,38 @@ const data = [
     ],
   },
   {
+    name: "Sushant Gaurav",
+    role: "CSE Undergrad",
+    image: "https://avatars.githubusercontent.com/u/68695162?v=4",
+    skills: ['C/C++', 'Python', 'Data Structures and Algorithms', 'HTML','CSS','JavaScript','LINUX','DataBases'],
+    link: [
+      "https://github.com/imsushant12",
+      "https://linkedin.com/in/sushant-gaurav",
+      "https://twitter.com/_im_sushant",
+    ],
+  },
+  {
+    name: "Shashwat Sahu",
+    role: "MERN Stack Developer / Cloud Developer",
+    image: "https://avatars.githubusercontent.com/u/63558563?v=4",
+    skills: ["js", "react", "node", "react native", "GCP", "C++","Java"],
+    link: [
+      "https://github.com/Shashwat-Sahu",
+      "https://www.linkedin.com/in/shashwat-sahu-1427501aa/",
+      "https://twitter.com/sahu_shashwat",
+    ],
+  },
+  {
+    name: "Vaibhav Meena",
+    role: "Mobile App Developer | Flutter Developer",
+    image: "https://avatars.githubusercontent.com/u/85748557?v=4",
+    skills: ["Flutter","Dart","C++","C","Python","Git"],
+    link: [
+      "https://github.com/meena103",
+      "https://www.linkedin.com/in/vaibhav-meena-41b1961a0/",
+    ],
+  },
+  {
     name: "Komal Gupta",
     role: "SE-AIML Undergraduate",
     image: "https://avatars.githubusercontent.com/u/74819092?s=400&v=4",
