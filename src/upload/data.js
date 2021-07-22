@@ -1182,6 +1182,17 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+    {
+    name: "Kunal Virdi",
+    role: "Web Developer | CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/71556630?v=4",
+    skills: ['ReactJS','Java','Python','DSA'],
+    link: [
+      "https://github.com/mrkunal7",
+      "https://www.linkedin.com/in/kunal-virdi-b51a431b2/",
+      "https://twitter.com/KunalVirdi07",
+    ],
+  },
   {
     name: "Amit Kumar",
     role: "Web Developer",
