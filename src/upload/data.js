@@ -1326,6 +1326,18 @@ const data = [
       "https://twitter.com/ShruAg",
     ],
   },
+  {
+    name: "Raja Sekhar Karanam",
+    role: "Full Stack Developer / DevOps Enthusiast",
+    image:
+      "https://avatars.githubusercontent.com/u/13974570?v=4",
+    skills: ["Java", "Spring Boot", "JavaScript", "React", "AWS", "Python"],
+    link: [
+      "https://github.com/rkaranam",
+      "https://www.linkedin.com/in/raja-sekhar-karanam",
+      "https://twitter.com/rkaranam58",
+    ],
+  },
 ];
 
 export default data;
