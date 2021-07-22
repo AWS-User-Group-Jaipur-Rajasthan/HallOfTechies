@@ -119,6 +119,7 @@ const data = [
     image:
       "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
     skills: ["Android", "Java", "Kotlin", "Python", "CI/CD"],
+
     link: [
       "https://github.com/kazimsayed954",
       "https://www.linkedin.com/in/kazimsayed/",
@@ -142,6 +143,7 @@ const data = [
     name: "Viral Mamniya",
     role: "Software Developer | Future Data Scientist",
     image: "https://avatars.githubusercontent.com/u/64903130",
+
     skills: [
       "php(laravel)",
       "js",
@@ -152,6 +154,7 @@ const data = [
       "machine learning",
       "deep learning",
     ],
+
     link: [
       "https://github.com/VRL2403",
       "https://www.linkedin.com/in/viral-mamniya",
@@ -302,43 +305,32 @@ const data = [
     ],
   },
   {
-    name: "Nehal Jaisalmeria",
-    role: "Software Developer",
-    image: "https://avatars.githubusercontent.com/u/32421196?v=4",
-    skills: ['JavaScript', 'Angular', 'Node', 'Flutter', 'iOS'],
-    link: [
-      "https://github.com/nehal076",
-      "https://linkedin.com/in/nehal076",
-      "https://twitter.com/nehal076",
-    ],
-  },
-  {
     name: "Manish Kumar Barnwal",
     role: "Web Developer",
     image: "https://avatars.githubusercontent.com/u/46371923?v=4",
-    skills: ["HTML", "CSS", "js", "Python"],
+    skills: ['HTML','CSS','js','Python'],
     link: [
       "https://github.com/imanishbarnwal",
       "https://www.linkedin.com/in/imanishbarnwal",
       "https://twitter.com/imanishbarnwal",
-    ],
+      ]
   },
   {
     name: "Anupam Haldkar",
-    role: "Tech Dev",
+    role:"Tech Dev",
     image: "https://avatars.githubusercontent.com/u/48323127?v=4",
-    skills: ["Spring", "MongoDB", "js", "flask"],
+    skills: ['Spring','MongoDB','js','flask'],
     link: [
       "https://github.com/anupamhaldkar",
       "https://www.linkedin.com/in/ahaldkar/",
       "https://twitter.com/AnupamHaldkar",
     ],
-  },
+  },   
   {
     name: "Ankur Dey",
     role: "CSE Undergraduate",
     image: "https://avatars.githubusercontent.com/u/80063726?v=4",
-    skills: ["html", "css", "js", "java", "c++", "python", "bash"],
+    skills: ['html', 'css', 'js', 'java', 'c++', 'python', 'bash'],
     link: [
       "https://github.com/AnkurDey20",
       "https://www.linkedin.com/in/ankurdey20/",
@@ -348,32 +340,31 @@ const data = [
   {
     name: "Rajshree Nupur",
     role: "Frontend Web development",
-    image:
-      "https://avatars.githubusercontent.com/u/63921042?s=400&u=fea3baa23362b134a8e891d1a4eafb48a243b480&v=4",
-    skills: ["html", "css", "js", "sql"],
+    image: "https://avatars.githubusercontent.com/u/63921042?s=400&u=fea3baa23362b134a8e891d1a4eafb48a243b480&v=4",
+    skills: ['html', 'css', 'js', 'sql'],
     link: [
       "https://github.com/Rajshreenupur",
       "https://www.linkedin.com/in/rajshree-nupur-910087183/",
       "https://mobile.twitter.com/RajshreeNupur",
-    ],
+      ],
   },
-
+ 
   {
     name: "Akshat Lakhara",
     role: "Electrical undergrad",
     image: "https://avatars.githubusercontent.com/u/85992585?v=4",
-    skills: ["js", "css", "html", "cpp"],
+    skills: ['js', 'css', 'html', 'cpp'],
     link: [
       "https://github.com/Akshatlakhara",
       "https://linkedin.com/in/akshat-lakhara-355064201",
       "https://twitter.com/lakhara-akshat",
     ],
-  },
+},
   {
     name: "Aditya Prasad Panigrahy",
     role: "Frontend Developer",
     image: "https://avatars.githubusercontent.com/u/57298109?v=4",
-    skills: ["html", "css", "nodejs", "reactjs"],
+    skills: ['html', 'css', 'nodejs', 'reactjs'],
     link: [
       "https://github.com/aditya687",
       "https://www.linkedin.com/in/aditya-panigrahy-59bba8192/",
@@ -385,12 +376,12 @@ const data = [
     name: "Shashank",
     role: "ECE Undergrad",
     image: "https://avatars.githubusercontent.com/u/79925129?v=4",
-    skills: ["HTML5", "CSS", "Python", "Django"],
+    skills: ['HTML5','CSS','Python','Django'],
     link: [
       "https://github.com/Shashankkrj",
       "https://www.linkedin.com/in/shashank-a12a851a0/",
       "https://twitter.com/SHASHAN99905454",
-    ],
+      ]
   },
   {
     name: "Harekrishna Rai",
@@ -688,17 +679,6 @@ const data = [
       "https://twitter.com/AnkitMa72507083",
     ],
   },
-  {
-    name: "Ajit Fawade",
-    role: "MERN Stack Developer",
-    image: "https://avatars.githubusercontent.com/u/16475300?v=4",
-    skills: ["js", "react", "node"],
-    link: [
-      "https://github.com/ajitfawade",
-      "https://www.linkedin.com/in/ajitfawade/",
-      "https://twitter.com/ajitfawade",
-    ],
-  },
 
   {
     name: "Srijith",
@@ -875,29 +855,16 @@ const data = [
     ],
   },
   {
+
     name: "Anshumaan Kumar Prasad",
     role: "Junior at Information Technology & Services",
     image: "https://avatars.githubusercontent.com/u/75872316?v=4",
-    skills: [
-      "DevOps",
-      "Open Source",
-      "Java",
-      "Spring Boot",
-      "JS",
-      "HTML",
-      "Python",
-      "Service Mesh",
-      "Kubernetes",
-      "Go",
-      "CI",
-      "Docker",
-      "MERN",
-    ],
+    skills: ['DevOps', 'Open Source', 'Java', 'Spring Boot', 'JS', 'HTML', 'Python', 'Service Mesh', 'Kubernetes', 'Go', 'CI', 'Docker', 'MERN'],
     link: [
       "https://github.com/amino19",
       "https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino",
       "https://twitter.com/aminostwt",
-    ],
+     ],
   },
   {
     name: "Sai Bhargav R",
@@ -914,13 +881,25 @@ const data = [
     name: "Muthu Annamalai.V",
     role: "CS Undergrad",
     image: "https://avatars.githubusercontent.com/u/64524822?v=4",
-    skills: ["HTML", "CSS", "js"],
+    skills: ['HTML', 'CSS', 'js'],
     link: [
       "https://github.com/muthuannamalai12",
       "https://linkedin.com/in/muthu-annamalai",
       "https://twitter.com/muthuannamalai_",
     ],
   },
+  {
+    name: "Aswin V",
+    role: "CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/60834072?v=4",
+    skills: ['HTML', 'CSS', 'JS', 'Python'],
+    link: [
+      "https://github.com/aswinv266",
+      "https://www.linkedin.com/in/aswin-v01/",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  },
+
 ];
 
 export default data;
