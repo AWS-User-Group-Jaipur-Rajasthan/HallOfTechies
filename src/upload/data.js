@@ -854,7 +854,7 @@ const data = [
       "https://linkedin.com/in/lokeshvenk",
       "https://twitter.com/Supreme10014",
     ],
-  }
+  },
 
 
   {
