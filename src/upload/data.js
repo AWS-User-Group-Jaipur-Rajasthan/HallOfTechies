@@ -1034,6 +1034,12 @@ const data = [
       "https://twitter.com/77_hound",
     ],
   },
+    {
+    name: "koushik mondal",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/84120351?v=4",
+    skills: ["c++", "DBMS", "Python"],
+  },
   {
     name: "Ayush Mishra",
     role: "B.Tech CSE Student at Dronacharya Ggroup of Institutions",
