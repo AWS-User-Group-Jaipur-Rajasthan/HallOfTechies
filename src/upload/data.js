@@ -3,7 +3,7 @@ const data = [
     name: "Veeresh Soni",
     role: "Student",
     image: "https://github.com/veeresh745.png",
-    skills: ['js', 'react', 'node', 'react native'],
+    skills: ["js", "react", "node", "react native"],
     link: [
       "https://github.com/veeresh745",
       "https://www.linkedin.com/in/veeresh-soni/",
@@ -741,6 +741,17 @@ const data = [
       "https://github.com/Ankit851",
       "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
       "https://twitter.com/AnkitMa72507083",
+    ],
+  },
+  {
+    name: "Pradyumna Shirude",
+    role: "Front-End Web Developer | Technical Content Writer",
+    image: "https://avatars.githubusercontent.com/u/55198275?v=4",
+    skills: ["DS/Algo", "ReactJS", "Python", "MongoDB"],
+    link: [
+      "https://github.com/Patrick360X",
+      "https://www.linkedin.com/in/pradyumna-shirude/",
+      "https://twitter.com/Pattrick_8",
     ],
   },
   {
