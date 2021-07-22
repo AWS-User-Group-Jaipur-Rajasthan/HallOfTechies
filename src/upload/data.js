@@ -1569,6 +1569,17 @@ const data = [
     ],
   },
   {
+    name: "Sushant Gaurav",
+    role: "CSE Undergrad",
+    image: "https://avatars.githubusercontent.com/u/68695162?v=4",
+    skills: ['C/C++', 'Python', 'Data Structures and Algorithms', 'HTML','CSS','JavaScript','LINUX','DataBases'],
+    link: [
+      "https://github.com/imsushant12",
+      "https://linkedin.com/in/sushant-gaurav",
+      "https://twitter.com/_im_sushant",
+    ],
+  },
+  {
     name: "Shashwat Sahu",
     role: "MERN Stack Developer / Cloud Developer",
     image: "https://avatars.githubusercontent.com/u/63558563?v=4",
