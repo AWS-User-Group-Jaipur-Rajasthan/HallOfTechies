@@ -700,7 +700,19 @@ const data = [
       "https://twitter.com/AnkitMa72507083",
     ],
   },
-  {
+  
+{
+    name: "DEEPAK KUMAR SAH",
+    role: "APPS DEVELOPER",
+    image: "https://avatars.githubusercontent.com/u/87613102?v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/GITHUB_USERNAME",
+      "https://linkedin.com/in/deepakkumarsah",
+      "https://twitter.com/mrdeepakkrsah",
+    ],
+  },
+   {
     name: "Nayan Kamal Verma",
     role: "cs undergraduate",
     image: "https://avatars.githubusercontent.com/u/65735338?v=4",
@@ -976,6 +988,7 @@ const data = [
       "https://mobile.twitter.com/RahulKu52549520",
     ],
   },
+
   {
 name: "Tarun Upadhayay",
 role: "Software developer",
@@ -987,20 +1000,7 @@ link: [
 "https://twitter.com/TarunUpadhaya14",
 ],
 },
-  {
-name: "Tarun Upadhayay",
-role: "Software developer",
-image: "https://avatars.githubusercontent.com/u/65597321?s=400&u=1068e468cef406fed9be6f303d63a56799e36aaf&v=4",
-skills: [‘HTML’,'Python', 'C++','MySQL'],
-link: [
-"https://github.com/tarunupadhayay",
-"https://www.linkedin.com/in/tarun-upadhayay-9a2a601a5/",
-"https://twitter.com/TarunUpadhaya14",
-],
-},
-
-
-
 ];
+
 
 export default data;
