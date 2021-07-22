@@ -1774,6 +1774,19 @@ const data = [
     ],
   },
   {
+    name: "LOKESH V",
+    role: "AI RESEARCHER",
+    image: "https://avatars.githubusercontent.com/u/43855211?s=400&v=4",
+    skills: ['js', 'react', 'node', 'react native', 'python', 'java', 'react', 'R'],
+    link: [
+      "https://github.com/lokeshvenkatesan",
+      "https://linkedin.com/in/lokeshvenk",
+      "https://twitter.com/Supreme10014",
+    ],
+  },
+
+
+  {
     name: "Muthu Annamalai.V",
     role: "CS Undergrad",
     image: "https://avatars.githubusercontent.com/u/64524822?v=4",
