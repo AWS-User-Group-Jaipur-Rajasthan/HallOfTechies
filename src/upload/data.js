@@ -744,6 +744,17 @@ const data = [
     ],
   },
   {
+    name: "Nitish Saini",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/39373956?v=4",
+    skills: ['js', 'react', 'node', 'Blockchain' , 'solidity' ,'C++','python','system administrator','Mariadb','mysql'],
+    link: [
+      "https://github.com/nitishsaini706",
+      "https://www.linkedin.com/in/nitish-saini-524315197/",
+      "https://twitter.com/nitishs41097565",
+    ],
+  },
+  {
     name: "Jainish Shah",
     role: "Python Developer|Google cloud enthusiast|CS Undergrad",
     image: "https://avatars.githubusercontent.com/u/47889375?v=4",
@@ -1046,7 +1057,6 @@ const data = [
     ],
   },
   {
-
     name: "Siva Sankar Chandu",
     role: "Fresher | AWS Intern",
     image: "https://avatars.githubusercontent.com/u/57555760?v=4",
