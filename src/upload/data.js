@@ -1603,6 +1603,17 @@ const data = [
     ],
   },
   {
+    name: "Saran Agarwal",
+    role: "CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/60834417?s=400&v=4",
+    skills: ["js", "react", "C++", "python"],
+    link: [
+      "https://github.com/SaranAgarwal",
+      "https://www.linkedin.com/in/saran-agarwal-7a3290190/",
+      "https://twitter.com/SaranAgarwal2",
+    ],
+  },
+  {
     name: "Parul Sahoo",
     role: "CSE undergraduate",
     image: "https://avatars.githubusercontent.com/u/60248260?s=60&v=4",
