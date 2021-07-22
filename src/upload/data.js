@@ -1797,6 +1797,17 @@ const data = [
     ],
   },
   {
+    name: "Risav Sarkar",
+    role: "CSE Undergrad",
+    image: "https://avatars.githubusercontent.com/u/70391402?v=4",
+    skills: ['Java','Javascript', 'Python', 'HTML', 'CSS'],
+    link: [
+      "https://github.com/risav-sarkar",
+      "https://www.linkedin.com/in/risavsarkar",
+      "https://twitter.com/SarkarRisav",
+    ],
+  },
+  {
     name: "Arsheel Sheikh",
     role: "freshman learning web dev + DSA | opem-source enthusiast",
     image: "https://avatars.githubusercontent.com/u/69401139?v=4",
