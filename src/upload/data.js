@@ -1035,6 +1035,17 @@ const data = [
     ],
   },
   {
+    name: "Siva Sankar Chandu",
+    role: "Fresher | AWS Intern",
+    image: "https://avatars.githubusercontent.com/u/57555760?v=4",
+    skills: ['AWS', 'Python', 'Git', 'Packer', 'Linux'],
+    link: [
+      "https://github.com/SivaSankarChandu",
+      "https://www.linkedin.com/in/chandusivasankar/",
+      "https://twitter.com/sivasankarchand/",
+      ]
+  },
+  {
     name: "Digant Prajapati",
     role: "Security Reseacher",
     image: "https://avatars.githubusercontent.com/u/58943360?v=4",
