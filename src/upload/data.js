@@ -24,6 +24,18 @@ const data = [
     ],
   },
   {
+    name: "Mrunank Pawar",
+    role: "Engineering Student",
+    image: "https://avatars.githubusercontent.com/u/65391854?v=4",
+    skills: ['html', 'css', 'AR'],
+    link: [
+      "https://github.com/mrunankpawar",
+      "https://linkedin.com/in/mrunankpawar",
+      "https://twitter.com/MrunankPawar",
+    ],
+  },
+  {
+   
     name: "Aditya Sawant",
     role: "Front-End Developer",
     image: "https://avatars.githubusercontent.com/u/60505090?s=400&v=4",
