@@ -744,6 +744,18 @@ const data = [
     ],
   },
   {
+    name: "Neha Suryawanshi",
+    role: "Software Developer | Python Developer | Data Science & Analytics",
+    image: "https://avatars.githubusercontent.com/u/70685834?v=4",
+    skills: ['Python', 'Data Science', 'Django', 'AWS', 'ML', 'OpenCV','ASP.NET','C#', 'HTML', 'CSS'],
+    link: [
+      "https://github.com/nssuryawanshi10",
+      "https://www.linkedin.com/in/neha-suryawanshi-a331aa161/",
+      "https://twitter.com/NehaSur00209269",
+    ],
+  },
+
+  {
     name: "Ankit Raj",
     role: "Student",
     image: "https://avatars.githubusercontent.com/u/60232414?v=4",
