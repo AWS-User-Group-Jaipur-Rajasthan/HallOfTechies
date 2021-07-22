@@ -1270,6 +1270,17 @@ const data = [
     ],
   },
   {
+    name: "Siddhant Pradhan",
+    role: "Working Professional at TCS",
+    image: "https://avatars.githubusercontent.com/u/48193075?v=4",
+    skills: ['js', 'Django', 'Cloud Computing', 'python', 'Data Science & Business Analytics', 'Digital Marketing'],
+    link: [
+      "https://github.com/siddhant2202",
+      "https://www.linkedin.com/in/siddhant-pradhan-613a141a5/",
+      "https://twitter.com/Siddhan24486358",
+    ],
+  },
+  {
     name: "koushik Mondal",
     role: "BCA Student",
     image: "https://avatars.githubusercontent.com/u/84120351?v=4",
