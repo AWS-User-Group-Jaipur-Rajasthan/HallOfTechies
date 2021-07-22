@@ -901,6 +901,29 @@ const data = [
     ],
   },
   {
+    name: "Mohit Agarwal",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/48441450?v=4",
+    skills: ['Js', 'ReactJs', 'NodeJs', 'Php', 'Flutter', 'C++', 'HTML/CSS'],
+    link: [
+      "https://github.com/mohitagarwal1432",
+      "https://linkedin.com/in/mohitagarwal1432",
+      "https://twitter.com/_mohit_agarwal",
+      ],
+   },
+   {
+    name: "Himanshu Verma",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/72593058?v=4",
+    skills: ["Full-Stack Developer", "C++"],
+   },
+  {
+    name: 'Vimal M',
+    role: 'CSE sophomore | DevOps enthusiast',
+    image: 'https://avatars.githubusercontent.com/u/76787061?v=4',
+    skills: ['Python', 'React', 'Docker', 'Kubernetes', 'cloud'],
+  },
+  {
     name: "DEEPAK KUMAR SAH",
     role: "APPS DEVELOPER",
     image: "https://avatars.githubusercontent.com/u/87613102?v=4",
