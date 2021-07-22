@@ -850,10 +850,29 @@ const data = [
   },
 
   {
+
+
+    name: "Deepak Kumar",
+    role: "CSE Student",
+    image: "https://avatars.githubusercontent.com/u/78249949?v=4",
+    skills: ['html', 'css', 'js'],
+      
+    "https://github.com/DK85690",
+    "https://www.linkedin.com/in/deepak-kumar-aba987217/",
+    "https://twitter.com/DeepakK12286986",
+    ],
+    },
+  {
+    name: 'Srijith',
+    role: 'student',
+    image: 'https://avatars.githubusercontent.com/u/63923819?v=4',
+    skills: ['js', 'react', 'node', 'react native'],
+
     name: "Srijith",
     role: "student",
     image: "https://avatars.githubusercontent.com/u/63923819?v=4",
     skills: ["js", "react", "node", "react native"],
+
     link: [
       "https://github.com/GITHUB_Srijith",
       "https://linkedin.com/in/LINKEDIN_Srijith",
@@ -978,6 +997,8 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
+
+
   {
     name: "Yudhajit Sinha",
     role: "CS Undergrad",
