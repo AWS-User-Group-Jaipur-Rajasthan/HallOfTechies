@@ -744,6 +744,17 @@ const data = [
     ],
   },
   {
+    name: "Anjali Kundliya",
+    role: "CS Student",
+    image: "https://avatars.githubusercontent.com/u/80624328?v=4",
+    skills: ['C++', 'Python', 'AI', 'Data Science'],
+    link: [
+      "https://github.com/anjali-kundliya05/",
+      "https://www.linkedin.com/in/anjali-kundliya/",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  },
+  {
     name: "Shubham Savdekar",
     role: "System Administrator",
     image: "https://avatars.githubusercontent.com/u/35762637?v=4",
@@ -889,7 +900,6 @@ const data = [
       "https://twitter.com/ajitfawade",
     ],
   },
-
   {
     name: "Deepak Kumar",
     role: "CSE Student",
