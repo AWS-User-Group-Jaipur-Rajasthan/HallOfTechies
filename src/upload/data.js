@@ -1176,10 +1176,11 @@ const data = [
     name: "Ayush Mishra",
     role: "B.Tech CSE Student at Dronacharya Group of Institutions",
     image: "https://avatars.githubusercontent.com/u/84743134?v=4",
-    skills: ["js", "react", "node", "react native"],
+    skills: ["html", "css", "C++", "C", "python", "js", "react", "node", "react native"],
     link: [
       "https://github.com/ayuush13",
       "https://www.linkedin.com/in/ayush-mishra-7137051b4/",
+      "https://twitter.com/ayush_mishra_24",
     ],
   },
   {
