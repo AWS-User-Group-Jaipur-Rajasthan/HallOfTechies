@@ -880,11 +880,7 @@ const data = [
     ],
   },
   {
-    name: "Srijith",
-    role: "student",
-    image: "https://avatars.githubusercontent.com/u/63923819?v=4",
-    skills: ["js", "react", "node", "react native"],
-
+    
     name: "Srijith",
     role: "student",
     image: "https://avatars.githubusercontent.com/u/63923819?v=4",
