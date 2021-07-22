@@ -1183,6 +1183,17 @@ const data = [
     ],
   },
   {
+    name: "V.Chandra Shekhar",
+    role: "Full Stack Developer|Cloud Enthusiast|AI-ML Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/13059783?v=4",
+    skills: ['js','Python','SQL','Excel','C#','Core Java'],
+    link: [
+      "https://github.com/vcs200831",
+      "https://www.linkedin.com/in/v-chandra-shekhar-4a233140/",
+      "https://twitter.com/vchandrashekhar",
+    ],
+  },
+  {
     name: "Hemant Kumar Singh",
     role: "Web Developer | React mobile app developer",
     image: "https://avatars.githubusercontent.com/u/73472506?s=400&u=a270e3b7ebdb3a2596bebb19011cd87d05990913&v=4",
@@ -1246,7 +1257,6 @@ const data = [
     ],
   },
   {
-
     name: "Yudhajit Sinha",
     role: "CS Undergrad",
     image: "https://avatars.githubusercontent.com/u/17973367?v=4",
