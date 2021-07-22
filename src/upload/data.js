@@ -1557,6 +1557,19 @@ const data = [
     ],
   },
   {
+    name: "Komal Gupta",
+    role: "SE-AIML Undergraduate",
+    image: "https://avatars.githubusercontent.com/u/74819092?s=400&v=4",
+    skills: ['Python', 'C', 'Java', 'HTML','CSS'],
+    link: [
+      "https://github.com/Komal-99",
+      "https://www.linkedin.com/in/komal-gupta-1795b4181/",
+      "https://mobile.twitter.com/gkomal_0209",
+    ],
+  },
+  {
+
+
     name: "Riya Gupta",
     role: "Frontend Developer",
     image: "https://avatars.githubusercontent.com/u/72425181?s=400&u=9e732e1c9ecf6f4b0a0c4ddad76984d506963f60&v=4",
