@@ -1035,6 +1035,18 @@ const data = [
     ],
   },
   {
+    name: "AAMIR RAZDAN",
+    role: "STUDENT",
+    image: "https://avatars.githubusercontent.com/u/65817609?v=4",
+    skills: ['javascript', 'html', 'css', 'pyhton'],
+    link: [
+      "https://github.com/Aamir-Razdan",
+      "https://linkedin.com/in/aamir-razdan",
+      "https://twitter.com/AamirRazdan",
+    ],
+  },
+  {
+
     name: "Siva Sankar Chandu",
     role: "Fresher | AWS Intern",
     image: "https://avatars.githubusercontent.com/u/57555760?v=4",
