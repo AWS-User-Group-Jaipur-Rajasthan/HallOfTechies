@@ -1557,6 +1557,18 @@ const data = [
     ],
   },
   {
+    name: "Riya Gupta",
+    role: "Frontend Developer",
+    image: "https://avatars.githubusercontent.com/u/72425181?s=400&u=9e732e1c9ecf6f4b0a0c4ddad76984d506963f60&v=4",
+    skills: ['HTML5', 'CSS3', 'JS', 'React', 'NodeJS', 'ExpressJS', 'MongoDB', 'Mongoose', 'C++'],
+    link: [
+      "https://github.com/RiyaGupta89",
+      "https://www.linkedin.com/in/riyaaa",
+      "https://twitter.com/Riya54791008",
+    ],
+  },
+  {
+
     name: "Prakash Agarwal",
     role: "Student B.Tech(CSE)",
     image: "https://avatars.githubusercontent.com/u/36405534?v=4",
