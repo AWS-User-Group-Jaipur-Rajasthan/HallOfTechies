@@ -269,6 +269,20 @@ const data = [
     ],
   },
 
+   {
+    name: "Rohit Sen",
+    role: "Front-end developer",
+    image: "rohitsen223.png",
+    skills: ['HTML', 'CSS', 'JavaScript', 'Python'],
+    link: [
+      "https://github.com/rohitsen223",
+      "https://www.linkedin.com/in/rohit-sen-30381820b",
+      "https://twitter.com/RohitSe36744853",
+    ],
+  },
+
+    
+
   {
     name: "Harshit Pandey",
     role: "MERN Stack Developer",
