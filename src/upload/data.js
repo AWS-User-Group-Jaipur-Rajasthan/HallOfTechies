@@ -1,5 +1,15 @@
 const data = [
-
+{
+    name: "Rahul Kumar",
+    role: "Frontend Developer / Machine learning Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/63744632?s=400&u=42e417d7456a384d78b6fcd79a70facc932bd330&v=4",
+    skills: ['js', 'Python', 'C', 'C++'],
+    link: [
+      "https://github.com/rahul3git",
+      "https://www.linkedin.com/in/rahul-kumar-a88794215",
+      "https://mobile.twitter.com/RahulKu52549520",
+    ],
+  },
   {
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
@@ -933,17 +943,18 @@ const data = [
       "https://twitter.com/muthuannamalai_",
     ],
   },
-    {
-    name: "Rahul Kumar",
-    role: "Frontend Developer / Machine learning Enthusiast",
-    image: "https://avatars.githubusercontent.com/u/63744632?s=400&u=42e417d7456a384d78b6fcd79a70facc932bd330&v=4",
-    skills: ['js', 'Python', 'C', 'C++'],
-    link: [
-      "https://github.com/rahul3git",
-      "https://www.linkedin.com/in/rahul-kumar-a88794215",
-      "https://mobile.twitter.com/RahulKu52549520",
-    ],
-  },
+  {
+name: "Tarun Upadhayay",
+role: "Software developer",
+image: "https://avatars.githubusercontent.com/u/65597321?s=400&u=1068e468cef406fed9be6f303d63a56799e36aaf&v=4",
+skills: ['Python', 'C++','MySQL'],
+link: [
+"https://github.com/tarunupadhayay",
+"https://www.linkedin.com/in/tarun-upadhayay-9a2a601a5/",
+"https://twitter.com/TarunUpadhaya14",
+],
+},
+
 ];
 
 export default data;
