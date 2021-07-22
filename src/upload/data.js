@@ -1796,6 +1796,17 @@ const data = [
     ],
   },
   {
+    name: "Chirag Soni",
+    role: "Linux System Admin",
+    image: "https://avatars.githubusercontent.com/u/87776625?v=4",
+    skills: ['Cloud Computing', 'NetWork', 'Script', 'Linux'],
+    link: [
+      "https://github.com/chirag1999",
+      "https://www.linkedin.com/in/chirag-soni-615987179/",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  },
+  {
     name: "Subhayu Kumar Bala",                                                 
     role: "Student",                                                            
     image: "https://github.com/subhayu99.png",                                  
@@ -1907,7 +1918,6 @@ const data = [
     ],
   },
   {
-
     name: "Mohtasham Sayeed Mohiuddin",
     role: "Full Stack Developer/ Cloud Developer",
     image: "https://avatars.githubusercontent.com/u/77109645?v=4",
