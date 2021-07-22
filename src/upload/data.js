@@ -921,6 +921,19 @@ const data = [
       "https://twitter.com/muthuannamalai_",
     ],
   },
+  {
+    name: "Sahil Tripathi",
+    role: "CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/55251741?v=4",
+    skills: ["HTML", "CSS", "Js","Python","Flask"],
+    link: [
+      "https://github.com/sahil2128",
+      "https://www.linkedin.com/in/sahil-tripathi-5852b5184/",
+      "https://twitter.com/SahilTr35233930",
+    ],
+  },
 ];
+
+
 
 export default data;
