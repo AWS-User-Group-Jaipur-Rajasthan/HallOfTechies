@@ -305,6 +305,17 @@ const data = [
     ],
   },
   {
+    name: "Anupam Haldkar",
+    role:"Tech Dev",
+    image: "https://avatars.githubusercontent.com/u/48323127?v=4",
+    skills: ['Spring','MongoDB','js','flask'],
+    link: [
+      "https://github.com/anupamhaldkar",
+      "https://www.linkedin.com/in/ahaldkar/",
+      "https://twitter.com/AnupamHaldkar",
+    ],
+  },   
+  {
     name: "Ankur Dey",
     role: "CSE Undergraduate",
     image: "https://avatars.githubusercontent.com/u/80063726?v=4",
