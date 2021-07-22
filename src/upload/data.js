@@ -1796,6 +1796,17 @@ const data = [
     ],
   },
   {
+    name: "Vinayaka Nayak",
+    role: "Technical Solutions Consultant",
+    image: "https://avatars.githubusercontent.com/u/87776505?v=4",
+    skills: ['VMware', 'Virtualization', 'AWS', 'HCI'],
+    link: [
+      "https://github.com/NayakVinayaka",
+      "https://www.linkedin.com/in/vinayaka-nayak-47231b167/",
+      "https://twitter.com/NayakVinayaka",
+    ],
+  },
+  {
     name: "Chirag Soni",
     role: "Linux System Admin",
     image: "https://avatars.githubusercontent.com/u/87776625?v=4",
