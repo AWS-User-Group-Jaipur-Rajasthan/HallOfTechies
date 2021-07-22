@@ -1314,34 +1314,6 @@ const data = [
       " https://twitter.com/Divya82248572?s=08",
     ],
   },
-    
-    {
-    name: "Saurav kumar",
-    role: "B.Tech CSE Student at Lovely professional university",
-    image: "https://avatars.githubusercontent.com/u/87579538?v=4",
-    skills: ['C', 'C++', 'Python'],
-    link: [
-      "https://github.com/saurav9283",
-      "https://www.linkedin.com/feed/",
-      "https://twitter.com/home?lang=en",
-    ],
-
-
-  
-  
-  
-  },
-  {
-    name: "Sudeeksha Nayak",
-    role: "Web developer",
-    image: "https://avatars.githubusercontent.com/u/65765077?v=4",
-    skills: ['js', 'react', 'node', 'python','html/css','mongodb','java','c'],
-    link: [
-      "https://github.com/sudeeksha19",
-      "https://www.linkedin.com/in/sudeekshanayak19/",
-      "https://twitter.com/SudeekshaNayak",
-    ],
-  },
   {
     name: "Shubham Kumar Singh",
     role: "Developer",
@@ -1379,18 +1351,6 @@ const data = [
       "https://github.com/Aasthaawasthi0807",
       "https://linkedin.com/in/aastha-awasthi-62b9021aa",
       "https://twitter.com/Aastha Awasthi",
-    ],
-  },
-  {
-
-    name: "Chitresh Sharma",
-    role: "Consulting Enginner",
-    image: "https://avatars.githubusercontent.com/u/87748109?v=4",
-    skills: ['docker', 'cloud', 'node', 'react native', 'kubernetes'],
-    link: [
-      "https://github.com/chitresh1986",
-      "https://www.linkedin.com/in/chitresh-sharma-18899431/",
-      "https://twitter.com/e026edeba618458",
     ],
   },
   {
@@ -1648,7 +1608,17 @@ const data = [
       "https://www.linkedin.com/in/akshay-vishwakarma-a29694196",
       "https://twitter.com/Akshay32648002",
     ],
-  }
-
+  },
+  {
+    name: "TARUN UPADHAYAY",
+    role: "SOFTWARE DEVELOPER|APPLICATION DEVELOPER",
+    image: "https://avatars.githubusercontent.com/u/65597321?s=400&u=1068e468cef406fed9be6f303d63a56799e36aaf&v=4",
+    skills: ['HTML', 'Python', 'C++', 'MySQL'],
+    link: [
+      "https://github.com/tarunupadhayay",
+      "https://www.linkedin.com/in/tarun-upadhayay-9a2a601a5/",
+      "https://twitter.com/TarunUpadhaya14",
+    ],
+  },
 ];
 export default data;
