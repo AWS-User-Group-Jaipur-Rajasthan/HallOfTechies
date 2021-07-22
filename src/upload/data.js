@@ -1,15 +1,5 @@
 const data = [
-{
-    name: "Rahul Kumar",
-    role: "Frontend Developer / Machine learning Enthusiast",
-    image: "https://avatars.githubusercontent.com/u/63744632?s=400&u=42e417d7456a384d78b6fcd79a70facc932bd330&v=4",
-    skills: ['js', 'Python', 'C', 'C++'],
-    link: [
-      "https://github.com/rahul3git",
-      "https://www.linkedin.com/in/rahul-kumar-a88794215",
-      "https://mobile.twitter.com/RahulKu52549520",
-    ],
-  },
+
   {
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
@@ -311,6 +301,17 @@ const data = [
       "https://www.linkedin.com/in/m-samik/",
       "https://twitter.com/msamik7",
     ],
+  },
+  {
+    name: "DEEPAK KUMAR SAH",
+    role: "APPS DEVELOPER",
+    image: "https://avatars.githubusercontent.com/u/87613102?v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/GITHUB_USERNAME",
+      "https://linkedin.com/in/deepakkumarsah",
+      "https://twitter.com/mrdeepakkrsah",
+      ]
   },
   {
     name: "Nehal Jaisalmeria",
@@ -700,6 +701,27 @@ const data = [
     ],
   },
   {
+    name: "Nayan Kamal Verma",
+    role: "cs undergraduate",
+    image: "https://avatars.githubusercontent.com/u/65735338?v=4",
+    skills: ['c/c++', 'python', 'google_cloud', 'Azure','DBMS'],
+    link: [
+      "https://github.com/nayankamalverma",
+      "https://www.linkedin.com/in/nayan-verma-a4b9771b5/",
+    ],
+  },
+  {
+    name: "Aditya Srivastava",
+    role: "Student",
+    image: "https://github.com/zxabchttps://avatars.githubusercontent.com/u/72244050?v=4",
+    skills: [ 'css', 'html', 'python'],
+    link: [
+      "https://github.com/Zxabc",
+      "https://linkedin.com/",
+      "https://twitter.com/@Zxabc3",
+    ],
+  },
+ {
     name: "Ajit Fawade",
     role: "MERN Stack Developer",
     image: "https://avatars.githubusercontent.com/u/16475300?v=4",
@@ -947,15 +969,26 @@ const data = [
    name: "Tarun Upadhayay",
    role: "Software developer",
    image: "https://avatars.githubusercontent.com/u/65597321?s=400&u=1068e468cef406fed9be6f303d63a56799e36aaf&v=4",
-   skills: ['Python', 'C++','MySQL'],
+   skills: ['HTML','Python', 'C++','MySQL'],
    link: [
      "https://github.com/tarunupadhayay",
      "https://www.linkedin.com/in/tarun-upadhayay-9a2a601a5/",
      "https://twitter.com/TarunUpadhaya14",
      ],
    },
+    {
+    name: "Rahul Kumar",
+    role: "Frontend Developer / Machine learning Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/63744632?s=400&u=42e417d7456a384d78b6fcd79a70facc932bd330&v=4",
+    skills: ['js', 'Python', 'C', 'C++'],
+    link: [
+      "https://github.com/rahul3git",
+      "https://www.linkedin.com/in/rahul-kumar-a88794215",
+      "https://mobile.twitter.com/RahulKu52549520",
+    ],
+  },
 
-  
+
 ];
 
 export default data;
