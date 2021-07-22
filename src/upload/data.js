@@ -1,4 +1,5 @@
 const data = [
+
   {
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
@@ -10,17 +11,7 @@ const data = [
       "https://twitter.com/aksh__22",
     ],
   },
-  {
-    name: "Mohtasham Sayeed Mohiuddin",
-    role: "Full Stack Developer/ Cloud Developer",
-    image: "https://avatars.githubusercontent.com/u/77109645?v=4",
-    skills: ["js", "react", "node", "react native"],
-    link: [
-      "https://github.com/mohtasham9",
-      "https://www.linkedin.com/in/mohtasham-sayeed-mohiuddin-a844311a0",
-      "https://twitter.com/Mohtasham7862",
-    ],
-  },
+ 
   {
     name: "Ankit Chaudhari",
     role: "Full Stack Developer",
@@ -32,6 +23,18 @@ const data = [
       "https://twitter.com/Ankit15_",
     ],
   },
+  {
+    name: "NIDHI CHAURASIA",
+    role: "CONTENT WRITER || DEVELOPER || COMPETITIVE CODER",
+    image: "https://avatars.githubusercontent.com/u/77978770?v=4",
+    skills: ["my sql", "docker", "node", "google cloud"],
+    link: [
+      "https://github.com/NidhiChaurasia",
+      "https://linkedin.com/in/nidhi-chaurasia-62b0781bb/",
+      "https://twitter.com/TweedyCharm",
+    ],
+  },
+
   {
     name: "Priyanka Prasad",
     role: "Postman Student Expert | Developer",
@@ -119,7 +122,6 @@ const data = [
     image:
       "https://avatars.githubusercontent.com/u/41298650?s=400&u=32a8925dc53191a121b270f1a28df567917f9c23&v=4",
     skills: ["Android", "Java", "Kotlin", "Python", "CI/CD"],
-
     link: [
       "https://github.com/kazimsayed954",
       "https://www.linkedin.com/in/kazimsayed/",
@@ -143,7 +145,6 @@ const data = [
     name: "Viral Mamniya",
     role: "Software Developer | Future Data Scientist",
     image: "https://avatars.githubusercontent.com/u/64903130",
-
     skills: [
       "php(laravel)",
       "js",
@@ -154,7 +155,6 @@ const data = [
       "machine learning",
       "deep learning",
     ],
-
     link: [
       "https://github.com/VRL2403",
       "https://www.linkedin.com/in/viral-mamniya",
@@ -216,6 +216,16 @@ const data = [
     skills: ["HTML", "Js", "CSS", "react native"],
     link: [
       "https://github.com/varhacks",
+      "https://linkedin.com/in/LINKEDIN_USERNAME",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  },
+
+  {
+    image: "GITHUB PROFILE IMAGE LINK",
+    skills: ["js", "react", "node", "react native"],
+    link: [
+      "https://github.com/GITHUB_USERNAME",
       "https://linkedin.com/in/LINKEDIN_USERNAME",
       "https://twitter.com/TWITTER_USERNAME",
     ],
@@ -305,33 +315,100 @@ const data = [
     ],
   },
   {
+    name: "Nishith Patel",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/58653204?v=4",
+    skills: ["js", "react", "ml", "data science", "Tableau"],
+    link: [
+      "https://github.com/Nishith6",
+      "https://www.linkedin.com/in/nishith-patel-0b2463166/",
+      "https://twitter.com/Nishith62665915",
+    ],
+  },
+  {
+    name: "DEEPAK KUMAR SAH",
+    role: "APPS DEVELOPER",
+    image: "https://avatars.githubusercontent.com/u/87613102?v=4",
+    skills: ["js", "react", "node", "react native"],
+    link: [
+      "https://github.com/GITHUB_USERNAME",
+      "https://linkedin.com/in/deepakkumarsah",
+      "https://twitter.com/mrdeepakkrsah",
+    ],
+  },
+  {
+    name: "Nehal Jaisalmeria",
+    role: "Software Developer",
+    image: "https://avatars.githubusercontent.com/u/32421196?v=4",
+    skills: ["JavaScript", "Angular", "Node", "Flutter", "iOS"],
+    link: [
+      "https://github.com/nehal076",
+      "https://linkedin.com/in/nehal076",
+      "https://twitter.com/nehal076",
+    ],
+  },
+  {
+    name: "Manish Kumar Barnwal",
+    role: "Web Developer",
+    image: "https://avatars.githubusercontent.com/u/46371923?v=4",
+    skills: ["HTML", "CSS", "js", "Python"],
+    link: [
+      "https://github.com/imanishbarnwal",
+      "https://www.linkedin.com/in/imanishbarnwal",
+      "https://twitter.com/imanishbarnwal",
+    ],
+  },
+  {
+    name: "Anupam Haldkar",
+    role: "Tech Dev",
+    image: "https://avatars.githubusercontent.com/u/48323127?v=4",
+    skills: ["Spring", "MongoDB", "js", "flask"],
+    link: [
+      "https://github.com/anupamhaldkar",
+      "https://www.linkedin.com/in/ahaldkar/",
+      "https://twitter.com/AnupamHaldkar",
+    ],
+  },
+  {
+    name: "Ankur Dey",
+    role: "CSE Undergraduate",
+    image: "https://avatars.githubusercontent.com/u/80063726?v=4",
+    skills: ["html", "css", "js", "java", "c++", "python", "bash"],
+    link: [
+      "https://github.com/AnkurDey20",
+      "https://www.linkedin.com/in/ankurdey20/",
+      "https://twitter.com/the_dottish_boi",
+    ],
+  },
+  {
     name: "Rajshree Nupur",
     role: "Frontend Web development",
-    image: "https://avatars.githubusercontent.com/u/63921042?s=400&u=fea3baa23362b134a8e891d1a4eafb48a243b480&v=4",
-    skills: ['html', 'css', 'js', 'sql'],
+    image:
+      "https://avatars.githubusercontent.com/u/63921042?s=400&u=fea3baa23362b134a8e891d1a4eafb48a243b480&v=4",
+    skills: ["html", "css", "js", "sql"],
     link: [
       "https://github.com/Rajshreenupur",
       "https://www.linkedin.com/in/rajshree-nupur-910087183/",
       "https://mobile.twitter.com/RajshreeNupur",
-      ],
+    ],
   },
- 
+
   {
     name: "Akshat Lakhara",
     role: "Electrical undergrad",
     image: "https://avatars.githubusercontent.com/u/85992585?v=4",
-    skills: ['js', 'css', 'html', 'cpp'],
+    skills: ["js", "css", "html", "cpp"],
     link: [
       "https://github.com/Akshatlakhara",
       "https://linkedin.com/in/akshat-lakhara-355064201",
       "https://twitter.com/lakhara-akshat",
     ],
-},
+  },
   {
     name: "Aditya Prasad Panigrahy",
     role: "Frontend Developer",
     image: "https://avatars.githubusercontent.com/u/57298109?v=4",
-    skills: ['html', 'css', 'nodejs', 'reactjs'],
+    skills: ["html", "css", "nodejs", "reactjs"],
     link: [
       "https://github.com/aditya687",
       "https://www.linkedin.com/in/aditya-panigrahy-59bba8192/",
@@ -343,12 +420,12 @@ const data = [
     name: "Shashank",
     role: "ECE Undergrad",
     image: "https://avatars.githubusercontent.com/u/79925129?v=4",
-    skills: ['HTML5','CSS','Python','Django'],
+    skills: ["HTML5", "CSS", "Python", "Django"],
     link: [
       "https://github.com/Shashankkrj",
       "https://www.linkedin.com/in/shashank-a12a851a0/",
       "https://twitter.com/SHASHAN99905454",
-      ]
+    ],
   },
   {
     name: "Harekrishna Rai",
@@ -646,8 +723,254 @@ const data = [
       "https://twitter.com/AnkitMa72507083",
     ],
   },
-
   {
+    name: "Nitish Saini",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/39373956?v=4",
+    skills: ['js', 'react', 'node', 'Blockchain', 'solidity', 'C++', 'python', 'system administrator', 'Mariadb', 'mysql'],
+    link: [
+      "https://github.com/nitishsaini706",
+      "https://www.linkedin.com/in/nitish-saini-524315197/",
+      "https://twitter.com/nitishs41097565",
+    ],
+  },
+  {
+    name: "Jainish Shah",
+    role: "Python Developer|Google cloud enthusiast|CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/47889375?v=4",
+    skils: ['Python', 'Java', 'ML', 'API', 'Frontend', 'OpenCV', 'Data Science'],
+    links: [
+      "https://github.com/Jainish-shah",
+      "https://www.linkedin.com/in/jainish-shah25/",
+      "https://twitter.com/Jainish_25",
+    ]
+  },
+  {
+    name: "Anand Natarajan",
+    role: "Full-Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/6303094?v=4",
+    skills: ['AWS', 'HTML', 'CSS', 'JavaScript', 'Angular'],
+    link: [
+      "https://github.com/anandnat",
+      "https://www.linkedin.com/in/anandhnat/",
+      "https://twitter.com/anandnat",
+    ],
+  },
+  {
+    name: "suman shah",
+    role: "student",
+    image: "https://avatars.githubusercontent.com/u/61034696?v=4",
+    skills: ['python', 'c', 'c++', 'html'],
+    link: [
+      "https://github.com/suman-shah",
+      "https://linkedin.com/in/suman-shah/",
+      "https://twitter.com/shoppingevl",
+    ],
+  },
+  {
+    name: "Ashish Soyetra",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/53328534?v=4",
+    skills: ['GCP', 'React', 'Node', 'JavaScript', 'C/C++', 'HTML', 'CSS', 'MySQL'],
+    link: [
+      "https://github.com/ashishsoyetra30",
+      "https://www.linkedin.com/in/soyetra-ashish/",
+      "https://twitter.com/SoyetraAshish",
+    ],
+  },
+  {
+    name: "Anjali Kundliya",
+    role: "CS Student",
+    image: "https://avatars.githubusercontent.com/u/80624328?v=4",
+    skills: ['C++', 'Python', 'AI', 'Data Science'],
+    link: [
+      "https://github.com/anjali-kundliya05/",
+      "https://www.linkedin.com/in/anjali-kundliya/",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  },
+  {
+    name: "Shubham Savdekar",
+    role: "System Administrator",
+    image: "https://avatars.githubusercontent.com/u/35762637?v=4",
+    skills: ['AWS', 'IIS', 'Sophos Firewall', 'CentOS', 'Windows Server'],
+    link: [
+      "https://github.com/ShubhamSavdekar",
+      "https://www.linkedin.com/in/shubhamsavdekar/",
+      "https://twitter.com/SavdekarShubham",
+    ],
+  },
+  {
+    name: "Neha Suryawanshi",
+    role: "Software Developer | Python Developer | Data Science & Analytics",
+    image: "https://avatars.githubusercontent.com/u/70685834?v=4",
+    skills: ['Python', 'Data Science', 'Django', 'AWS', 'ML', 'OpenCV', 'ASP.NET', 'C#', 'HTML', 'CSS'],
+    link: [
+      "https://github.com/nssuryawanshi10",
+      "https://www.linkedin.com/in/neha-suryawanshi-a331aa161/",
+      "https://twitter.com/NehaSur00209269",
+    ],
+  },
+  {
+    name: "Ankit Raj",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/60232414?v=4",
+    skills: [
+      "AWS",
+      "react",
+      "node",
+      "react native",
+      "python",
+      "java",
+      "HTML",
+      "CSS",
+    ],
+    link: [
+      "https://github.com/MONTOX123",
+      "https://linkedin.com/in/ankit-raj-01aa751a0",
+      "https://twitter.com/@AnkitRa42015278",
+    ],
+  },
+  {
+    name: "Pradyumna Shirude",
+    role: "Front-End Web Developer | Technical Content Writer",
+    image: "https://avatars.githubusercontent.com/u/55198275?v=4",
+    skills: ["DS/Algo", "ReactJS", "Python", "MongoDB"],
+    link: [
+      "https://github.com/Patrick360X",
+      "https://www.linkedin.com/in/pradyumna-shirude/",
+      "https://twitter.com/Pattrick_8",
+    ],
+  },
+  {
+    name: "Akashdeep Gupta",
+    role: "Information Technology Student | Cloud Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/61601588?v=4",
+    skills: [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "My-Sql",
+      "Python",
+      "HTML",
+      "CSS",
+      "JS",
+      "Bash",
+      "Linux",
+    ],
+    link: [
+      "https://github.com/Akashdeep-47",
+      "https://linkedin.com/in/akashdeep-47",
+      "https://twitter.com/akashdeep_47",
+    ],
+  },
+  {
+    name: "Shubham Gupta",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/15152368?v=4",
+    skills: [
+      "js",
+      "react",
+      "node",
+      "aws",
+      "pyhton",
+      "java",
+      "git",
+      "github",
+      "jenkins",
+      "jira",
+      "oracle",
+      "mysql",
+      "android studio",
+      "GoLang",
+      "react native",
+    ],
+    link: [
+      "https://github.com/shubhamgupta083",
+      "https://www.linkedin.com/in/shubham-gupta-1028b3171/",
+      "https://twitter.com/Shubham32781475",
+    ],
+  },
+  {
+    name: "Mohit Agarwal",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/48441450?v=4",
+    skills: ['Js', 'ReactJs', 'NodeJs', 'Php', 'Flutter', 'C++', 'HTML/CSS'],
+    link: [
+      "https://github.com/mohitagarwal1432",
+      "https://linkedin.com/in/mohitagarwal1432",
+      "https://twitter.com/_mohit_agarwal",
+    ],
+  },
+  {
+    name: "Himanshu Verma",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/72593058?v=4",
+    skills: ["Full-Stack Developer", "C++"],
+  },
+  {
+    name: 'Vimal M',
+    role: 'CSE sophomore | DevOps enthusiast',
+    image: 'https://avatars.githubusercontent.com/u/76787061?v=4',
+    skills: ['Python', 'React', 'Docker', 'Kubernetes', 'cloud'],
+  },
+  {
+    name: "DEEPAK KUMAR SAH",
+    role: "APPS DEVELOPER",
+    image: "https://avatars.githubusercontent.com/u/87613102?v=4",
+    skills: ["js", "react", "node", "react native"],
+    link: [
+      "https://github.com/GITHUB_USERNAME",
+      "https://linkedin.com/in/deepakkumarsah",
+      "https://twitter.com/mrdeepakkrsah",
+    ],
+  },
+  {
+    name: "Nayan Kamal Verma",
+    role: "cs undergraduate",
+    image: "https://avatars.githubusercontent.com/u/65735338?v=4",
+    skills: ["c/c++", "python", "google_cloud", "Azure", "DBMS"],
+    link: [
+      "https://github.com/nayankamalverma",
+      "https://www.linkedin.com/in/nayan-verma-a4b9771b5/",
+    ],
+  },
+  {
+    name: "Aditya Srivastava",
+    role: "Student",
+    image:
+      "https://github.com/zxabchttps://avatars.githubusercontent.com/u/72244050?v=4",
+    skills: ["css", "html", "python"],
+    link: [
+      "https://github.com/Zxabc",
+      "https://linkedin.com/",
+      "https://twitter.com/@Zxabc3",
+    ],
+  },
+  {
+    name: "Ajit Fawade",
+    role: "MERN Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/16475300?v=4",
+    skills: ["js", "react", "node"],
+    link: [
+      "https://github.com/ajitfawade",
+      "https://www.linkedin.com/in/ajitfawade/",
+      "https://twitter.com/ajitfawade",
+    ],
+  },
+  {
+    name: "Deepak Kumar",
+    role: "CSE Student",
+    image: "https://avatars.githubusercontent.com/u/78249949?v=4",
+    skills: ["html", "css", "js"],
+    link: [
+      "https://github.com/DK85690",
+      "https://www.linkedin.com/in/deepak-kumar-aba987217/",
+      "https://twitter.com/DeepakK12286986",
+    ],
+  },
+  {
+
     name: "Srijith",
     role: "student",
     image: "https://avatars.githubusercontent.com/u/63923819?v=4",
@@ -703,8 +1026,69 @@ const data = [
     ],
   },
   {
+    name: "AAMIR RAZDAN",
+    role: "STUDENT",
+    image: "https://avatars.githubusercontent.com/u/65817609?v=4",
+    skills: ['javascript', 'html', 'css', 'pyhton'],
+    link: [
+      "https://github.com/Aamir-Razdan",
+      "https://linkedin.com/in/aamir-razdan",
+      "https://twitter.com/AamirRazdan",
+    ],
+  },
+  {
+    name: "Siva Sankar Chandu",
+    role: "Fresher | AWS Intern",
+    image: "https://avatars.githubusercontent.com/u/57555760?v=4",
+    skills: ['AWS', 'Python', 'Git', 'Packer', 'Linux'],
+    link: [
+      "https://github.com/SivaSankarChandu",
+      "https://www.linkedin.com/in/chandusivasankar/",
+      "https://twitter.com/sivasankarchand/",
+    ]
+  },
+  {
+    name: "Digant Prajapati",
+    role: "Security Reseacher",
+    image: "https://avatars.githubusercontent.com/u/58943360?v=4",
+    skills: ['Linux', 'VAPT', 'JAVA', 'Python', 'HTML'],
+    link: [
+      "https://github.com/invincible-9",
+      "https://linkedin.com/in/digant-prajapati",
+      "https://twitter.com/_invincible9",
+    ],
+  },
+  {
+    name: "ASTITVA BINDAL",
+    role: "STUDENT",
+    image: "https://avatars.githubusercontent.com/u/62743134?v=4",
+    skills: ['js', 'html', 'c++', 'python'],
+    link: [
+      "https://github.com/astitvabindal",
+      "https://linkedin.com/in/astitva-bindal",
+      "https://twitter.com/astitva_bindal",
+    ],
+  },
+  {
+    name: "LOKESH GAWANDE",
+    role: "STUDENT",
+    image: "https://avatars.githubusercontent.com/u/83236804?v=4",
+    skills: ['C++', 'HTML', 'CSS', 'JavaScript', 'Python'],
+    link: [
+      "https://github.com/lokesh21012002",
+      "https://www.linkedin.com/in/lokesh-gawande-92692a1b2/",
+      "https://mobile.twitter.com/Lokeshgawande7",
+    ],
+  },
+  {
+    name: "koushik mondal",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/84120351?v=4",
+    skills: ["c++", "DBMS", "Python"],
+  },
+  {
     name: "Ayush Mishra",
-    role: "B.Tech CSE Student at Dronacharya Ggroup of Institutions",
+    role: "B.Tech CSE Student at Dronacharya Group of Institutions",
     image: "https://avatars.githubusercontent.com/u/84743134?v=4",
     skills: ["js", "react", "node", "react native"],
     link: [
@@ -777,6 +1161,104 @@ const data = [
     ],
   },
   {
+    name: "Bhumi Rana",
+    role: "btech CSE student",
+    image: "https://avatars.githubusercontent.com/u/87715249?v=4",
+    skills: ['CSS', 'C', 'node', 'html'],
+    link: [
+      "https://github.com/bhumirana15",
+      "https://linkedin.com/in/LINKEDIN_USERNAME",
+      "https://twitter.com/bhumirana14",
+    ],
+  },
+  {
+
+
+    name: "Tanjim Shah Kabir",
+    role: "Ethical Hacker",
+    image: "https://avatars.githubusercontent.com/u/87455494?s=400&u=1ea2194010240c055eddbe4f21318dc6ca247139&v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/trinob2006",
+      "https://www.linkedin.com/in/tanjim-shah-kabir-trinob-8a040820b/",
+       "https://www.instagram.com/trinob_shah/",
+    ],
+  },
+  {
+    name: "V.Chandra Shekhar",
+    role: "Full Stack Developer|Cloud Enthusiast|AI-ML Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/13059783?v=4",
+    skills: ['js','Python','SQL','Excel','C#','Core Java'],
+    link: [
+      "https://github.com/vcs200831",
+      "https://www.linkedin.com/in/v-chandra-shekhar-4a233140/",
+      "https://twitter.com/vchandrashekhar",
+    ],
+  },
+  {
+    name: "Hemant Kumar Singh",
+    role: "Web Developer | React mobile app developer",
+    image: "https://avatars.githubusercontent.com/u/73472506?s=400&u=a270e3b7ebdb3a2596bebb19011cd87d05990913&v=4",
+    skills: ['c', 'c++', 'python', 'java script'],
+    link: [
+      "https://github.com/hemant11ks",
+      "https://www.linkedin.com/in/hemant-kumar-singh-singh-15216204/",
+      "https://twitter.com/HemantK01618866",
+    ],
+  },
+  {
+    name: "Kunal Virdi",
+    role: "Web Developer | CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/71556630?v=4",
+    skills: ['ReactJS', 'Java', 'Python', 'DSA'],
+    link: [
+      "https://github.com/mrkunal7",
+      "https://www.linkedin.com/in/kunal-virdi-b51a431b2/",
+      "https://twitter.com/KunalVirdi07",
+    ],
+  },
+  {
+    name: "Amit Kumar",
+    role: "Web Developer",
+    image: "https://avatars.githubusercontent.com/u/54941979?v=4",
+    skills: ['c', 'python', 'react', 'git'],
+    link: [
+      "https://github.com/amitkrraj",
+      "https://linkedin.com/in/amitkrraj",
+      "https://twitter.com/amitkrraj",
+    ],
+  },
+  {
+    name: "Aritra Sen",
+    role: "CSE Undergraduate at Government College of Engineering and Leather Technology | Web Developer | ML enthusiast",
+    image: "https://avatars.githubusercontent.com/u/71816694?v=4",
+    skills: ['python', 'html', 'css', 'java', 'c++', 'c', 'bootstrap', 'express', 'mongodb', 'sql', 'opencv', 'numpy', 'pandas', 'js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/aritrasen12345",
+      "https://www.linkedin.com/in/aritra-sen-0b8464202/",
+      "https://twitter.com/AritraS81007757",
+    ]
+  },
+  {
+    name: "Chandu Vadde",
+
+    role: "Computer Science Engineering Student",
+
+    image: "https://avatars.githubusercontent.com/u/62535597?v=4",
+
+    skills: ['html', 'css', 'js', 'ml', 'python'],
+
+    link: [
+
+      "https://github.com/Chandu2000",
+
+      "https://www.linkedin.com/in/chandu-vadde-065019193",
+
+      "https://twitter.com/ChanduVadde4?s=09",
+
+    ],
+  },
+  {
     name: "Yudhajit Sinha",
     role: "CS Undergrad",
     image: "https://avatars.githubusercontent.com/u/17973367?v=4",
@@ -785,6 +1267,17 @@ const data = [
       "https://github.com/lord-haji",
       "https://www.linkedin.com/in/yudhajit-sinha-a6729a211/",
       "https://twitter.com/lord-haji",
+    ],
+  },
+  {
+    name: "Siddhant Pradhan",
+    role: "Working Professional at TCS",
+    image: "https://avatars.githubusercontent.com/u/48193075?v=4",
+    skills: ['js', 'Django', 'Cloud Computing', 'python', 'Data Science & Business Analytics', 'Digital Marketing'],
+    link: [
+      "https://github.com/siddhant2202",
+      "https://www.linkedin.com/in/siddhant-pradhan-613a141a5/",
+      "https://twitter.com/Siddhan24486358",
     ],
   },
   {
@@ -832,18 +1325,33 @@ const data = [
       "https://linkedin.com/in/anushruti-shresth-025a481a8/",
       "https://twitter.com/AkritiShresth",
     ],
-  }
+  },
+  {
 
 
     name: "Anshumaan Kumar Prasad",
     role: "Junior at Information Technology & Services",
     image: "https://avatars.githubusercontent.com/u/75872316?v=4",
-    skills: ['DevOps', 'Open Source', 'Java', 'Spring Boot', 'JS', 'HTML', 'Python', 'Service Mesh', 'Kubernetes', 'Go', 'CI', 'Docker', 'MERN'],
+    skills: [
+      "DevOps",
+      "Open Source",
+      "Java",
+      "Spring Boot",
+      "JS",
+      "HTML",
+      "Python",
+      "Service Mesh",
+      "Kubernetes",
+      "Go",
+      "CI",
+      "Docker",
+      "MERN",
+    ],
     link: [
       "https://github.com/amino19",
       "https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino",
       "https://twitter.com/aminostwt",
-     ],
+    ],
   },
   {
     name: "Sai Bhargav R",
@@ -851,22 +1359,158 @@ const data = [
     image: "https://avatars.githubusercontent.com/u/37236514?s=400&v=4",
     skills: ["Node JS", "API", "Python"],
     link: [
-      "https://github.com/RsBhargav",
+      "https://github.com/RsBhttps://twitter.com/SathwikThadhargav",
       "https://www.linkedin.com/in/sai-bhargav-rallapalli-39110891/",
-      "https://twitter.com/rs_bhargav",
+      "https://twitter.com/rshttps://www.linkedin.com/in/sathwik-reddy-thaduru-1310261b2/_bhargav",
+    ],
+  },
+  {
+    name: "Sathwik Thaduru",
+    role: "CS UG student",
+    image: "https://avatars.githubusercontent.com/u/65865881?v=4",
+    skills: ["js", "ML", "java", "python"],
+    link: [
+      "https://github.com/sathwikreddythaduru",
+      "https://www.linkedin.com/in/sathwik-reddy-thaduru-1310261b2/",
+      "https://twitter.com/SathwikThad",
     ],
   },
   {
     name: "Muthu Annamalai.V",
     role: "CS Undergrad",
     image: "https://avatars.githubusercontent.com/u/64524822?v=4",
-    skills: ['HTML', 'CSS', 'js'],
+    skills: ["HTML", "CSS", "js"],
     link: [
       "https://github.com/muthuannamalai12",
       "https://linkedin.com/in/muthu-annamalai",
       "https://twitter.com/muthuannamalai_",
     ],
   },
-];
+  {
+    name: "Rahul Kumar",
+    role: "Frontend Developer / Machine learning Enthusiast",
+    image:
+      "https://avatars.githubusercontent.com/u/63744632?s=400&u=42e417d7456a384d78b6fcd79a70facc932bd330&v=4",
+    skills: ["js", "Python", "C", "C++"],
+    link: [
+      "https://github.com/rahul3git",
+      "https://www.linkedin.com/in/rahul-kumar-a88794215",
+      "https://mobile.twitter.com/RahulKu52549520",
+    ],
+  },
+  {
+    name: "Shruti Agrawal",
+    role: "Microsoft student Ambassador",
+    image: "https://avatars.githubusercontent.com/u/67502500?v=4",
+    skills: ["tsql", "python", "DBMS", "C++"],
+    link: [
+      "https://github.com/shru2408",
+      "https://www.linkedin.com/in/shruti-agrawal-2001/",
+      "https://twitter.com/ShruAg",
+    ],
+  },
+  {
+    name: "Shubham Kumar Singh",
+    role: "Developer",
+    image: "https://avatars.githubusercontent.com/u/61842432?s=400&u=727b4b64607a3613cda001b45521ba90ee5fced6&v=4",
+    skills: ['HTML', 'JAVA', 'CSS', 'UI/UX'],
+    link: [
+      "https://github.com/NightWalker110",
+      "https://www.linkedin.com/in/-shubham-kumar-singh/",
+      "https://twitter.com/ShubhamkSingh77",
+    ],
+  },
+  {
 
+    name: "V SREENIVAS",
+
+    role: "Devops",
+
+    image: "GITHUB PROFILE IMAGE LINK",
+
+    skills: ['js', 'react', 'node', 'react native', 'kubernetes'],
+
+    link: [
+
+      "https://github.com/cnu1812",
+
+      "https://www.linkedin.com/in/v-sreenivas-985088203",
+
+      "https://twitter.com/seenuv96520797?s=09",
+
+    ],
+
+  },
+  {
+
+    name: "Veeresh Soni",
+    role: "Student",
+    image: "https://github.com/veeresh745.png",
+    skills: ["js", "react", "node", "react native"],
+    link: [
+      "https://github.com/veeresh745",
+      "https://www.linkedin.com/in/veeresh-soni/",
+      "https://twitter.com/veereshsoni3",
+    ],
+  },
+   {
+    name: "DHRUVA BHATTACHARYA",
+    role: "Full Stack Web Developer/MERN",
+    image: "https://avatars.githubusercontent.com/u/71749153?v=4",
+    skills: ['C','C++', 'Java', 'Python', 'js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/dhruvaop",
+      "https://www.linkedin.com/in/dhruva-bhattacharya-14843915b/",
+      "https://twitter.com/DhruvaBhattach2",
+    ],
+  },
+  {
+ 
+    name: "Ankit Banerjee",
+    role: "Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/63962369?v=4",
+    skills: ['js', 'react', 'HTML', 'CSS', 'NodeJS'],
+    link: [
+      "https://github.com/ankitbanerjee0211",
+      "https://www.linkedin.com/in/ankit-banerjee-0211/",
+      "https://twitter.com/AnkitBan0211",
+    ],
+  },
+  {
+    name: "R Ashwin",
+    role: "Python Programmer",
+    image: "https://avatars.githubusercontent.com/u/73417773?v=4",
+    skills: ['Python', 'MySQL', 'GCP', 'Microsoft Azure'],
+    link: [
+      "https://github.com/ashwin3082002",
+      "https://linkedin.com/in/ashwin3082002",
+      "https://twitter.com/ashwin3082002",
+    ],
+  },
+  {
+
+
+    name: "Mohtasham Sayeed Mohiuddin",
+    role: "Full Stack Developer/ Cloud Developer",
+    image: "https://avatars.githubusercontent.com/u/77109645?v=4",
+    skills: ["js", "react", "node", "react native"],
+    link: [
+      "https://github.com/mohtasham9",
+      "https://www.linkedin.com/in/mohtasham-sayeed-mohiuddin-a844311a0",
+      "https://twitter.com/Mohtasham7862",
+    ],
+  },
+   {
+    name: "Akshay Vishwakarma",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/47742322?v=4",
+    skills: ["Angular", "Python", "C++", "Arduino"],
+    link: [
+      "https://github.com/SalientAuthor",
+      "https://www.linkedin.com/in/akshay-vishwakarma-a29694196",
+      "https://twitter.com/Akshay32648002",
+    ],
+  }
+
+];
 export default data;
