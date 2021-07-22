@@ -1,0 +1,11 @@
+{
+    name: "Bhaswati Roy",
+    role: "Student",
+    image: "GITHUB PROFILE IMAGE LINK",
+    skills: ['Data Analysis', 'Machine Learning', 'C++', 'Python'],
+    link: [
+      "https://github.com/BhaswatiRoy",
+      "https://www.linkedin.com/in/bhaswati-roy-6561641b6/",
+      "https://twitter.com/__bhaswati__",
+    ],
+  }
