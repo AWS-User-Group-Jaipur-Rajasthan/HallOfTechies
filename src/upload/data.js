@@ -701,6 +701,16 @@ const data = [
     ],
   },
   {
+    name: "Nayan Kamal Verma",
+    role: "cs undergraduate",
+    image: "https://avatars.githubusercontent.com/u/65735338?v=4",
+    skills: ['c/c++', 'python', 'google_cloud', 'Azure','DBMS'],
+    link: [
+      "https://github.com/nayankamalverma",
+      "https://www.linkedin.com/in/nayan-verma-a4b9771b5/",
+    ],
+  },
+  {
     name: "Aditya Srivastava",
     role: "Student",
     image: "https://github.com/zxabchttps://avatars.githubusercontent.com/u/72244050?v=4",
@@ -711,8 +721,7 @@ const data = [
       "https://twitter.com/@Zxabc3",
     ],
   },
-
-  {
+ {
     name: "Ajit Fawade",
     role: "MERN Stack Developer",
     image: "https://avatars.githubusercontent.com/u/16475300?v=4",
@@ -967,6 +976,7 @@ const data = [
       "https://mobile.twitter.com/RahulKu52549520",
     ],
   },
+
 ];
 
 export default data;
