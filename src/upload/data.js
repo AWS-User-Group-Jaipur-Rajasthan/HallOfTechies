@@ -1315,6 +1315,17 @@ const data = [
     ],
   },
   {
+    name: "Abhijeet Chimankar",
+    role: "Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/6971741?v=4",
+    skills: ['Python','SQL','js', 'react', 'react native'],
+    link: [
+      "https://github.com/abhijeet834u",
+      "https://linkedin.com/in/abhijeetchimankar",
+      "https://twitter.com/abhijeet834u",
+    ],
+  },
+  {
     name: "Vyshak Puthusseri",
     role: "Developer",
     image: "https://avatars.githubusercontent.com/u/33171828?v=4",
@@ -1325,10 +1336,8 @@ const data = [
       "https://twitter.com/puthusseris",
     ],
   },
-  {
 
-
-
+    {
     name: "Abhiroop Basak",
     role: "IT Undergrad",
     image: "https://avatars.githubusercontent.com/u/63965017?v=4",
