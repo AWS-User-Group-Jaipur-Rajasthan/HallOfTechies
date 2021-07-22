@@ -1569,6 +1569,17 @@ const data = [
     ],
   },
   {
+    name: "Shashwat Sahu",
+    role: "MERN Stack Developer / Cloud Developer",
+    image: "https://avatars.githubusercontent.com/u/63558563?v=4",
+    skills: ["js", "react", "node", "react native", "GCP", "C++","Java"],
+    link: [
+      "https://github.com/Shashwat-Sahu",
+      "https://www.linkedin.com/in/shashwat-sahu-1427501aa/",
+      "https://twitter.com/sahu_shashwat",
+    ],
+  },
+  {
     name: "Vaibhav Meena",
     role: "Mobile App Developer | Flutter Developer",
     image: "https://avatars.githubusercontent.com/u/85748557?v=4",
