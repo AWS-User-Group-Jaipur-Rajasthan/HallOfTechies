@@ -302,6 +302,17 @@ const data = [
     ],
   },
   {
+    name: "Nehal Jaisalmeria",
+    role: "Software Developer",
+    image: "https://avatars.githubusercontent.com/u/32421196?v=4",
+    skills: ['JavaScript', 'Angular', 'Node', 'Flutter', 'iOS'],
+    link: [
+      "https://github.com/nehal076",
+      "https://linkedin.com/in/nehal076",
+      "https://twitter.com/nehal076",
+    ],
+  },
+  {
     name: "Manish Kumar Barnwal",
     role: "Web Developer",
     image: "https://avatars.githubusercontent.com/u/46371923?v=4",
