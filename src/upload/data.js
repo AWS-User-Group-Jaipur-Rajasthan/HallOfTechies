@@ -1569,6 +1569,16 @@ const data = [
     ],
   },
   {
+    name: "Vaibhav Meena",
+    role: "Mobile App Developer | Flutter Developer",
+    image: "https://avatars.githubusercontent.com/u/85748557?v=4",
+    skills: ["Flutter","Dart","C++","C","Python","Git"],
+    link: [
+      "https://github.com/meena103",
+      "https://www.linkedin.com/in/vaibhav-meena-41b1961a0/",
+    ],
+  },
+  {
     name: "Komal Gupta",
     role: "SE-AIML Undergraduate",
     image: "https://avatars.githubusercontent.com/u/74819092?s=400&v=4",
