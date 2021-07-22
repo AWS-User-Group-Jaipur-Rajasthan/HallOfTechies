@@ -744,6 +744,26 @@ const data = [
     ],
   },
   {
+    name: "Ankit Raj",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/60232414?v=4",
+    skills: [
+      "AWS",
+      "react",
+      "node",
+      "react native",
+      "python",
+      "java",
+      "HTML",
+      "CSS",
+    ],
+    link: [
+      "https://github.com/MONTOX123",
+      "https://linkedin.com/in/ankit-raj-01aa751a0",
+      "https://twitter.com/@AnkitRa42015278",
+    ],
+  },
+  {
     name: "Pradyumna Shirude",
     role: "Front-End Web Developer | Technical Content Writer",
     image: "https://avatars.githubusercontent.com/u/55198275?v=4",
@@ -803,7 +823,6 @@ const data = [
       "https://twitter.com/Shubham32781475",
     ],
   },
-
   {
     name: "DEEPAK KUMAR SAH",
     role: "APPS DEVELOPER",
@@ -850,29 +869,26 @@ const data = [
   },
 
   {
-
-
     name: "Deepak Kumar",
     role: "CSE Student",
     image: "https://avatars.githubusercontent.com/u/78249949?v=4",
-    skills: ['html', 'css', 'js'],
-      
-    "https://github.com/DK85690",
-    "https://www.linkedin.com/in/deepak-kumar-aba987217/",
-    "https://twitter.com/DeepakK12286986",
+    skills: ["html", "css", "js"],
+    link: [
+      "https://github.com/DK85690",
+      "https://www.linkedin.com/in/deepak-kumar-aba987217/",
+      "https://twitter.com/DeepakK12286986",
     ],
-    },
+  },
   {
-    name: 'Srijith',
-    role: 'student',
-    image: 'https://avatars.githubusercontent.com/u/63923819?v=4',
-    skills: ['js', 'react', 'node', 'react native'],
-
     name: "Srijith",
     role: "student",
     image: "https://avatars.githubusercontent.com/u/63923819?v=4",
     skills: ["js", "react", "node", "react native"],
 
+    name: "Srijith",
+    role: "student",
+    image: "https://avatars.githubusercontent.com/u/63923819?v=4",
+    skills: ["js", "react", "node", "react native"],
     link: [
       "https://github.com/GITHUB_Srijith",
       "https://linkedin.com/in/LINKEDIN_Srijith",
@@ -997,7 +1013,6 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
-
 
   {
     name: "Yudhajit Sinha",
