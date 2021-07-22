@@ -1580,6 +1580,17 @@ const data = [
     ],
   },
   {
+    name: "SHAIFALI YADAV",
+    role: "COMPUTER SCIENCE STUDENT",
+    image: "GITHUB PROFILE IMAGE LINK",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/shaifaliyadav0306",
+      "https://linkedin.com/in/shaifali-yadav-409358188",
+      "https://twitter.com/shaifaliyadav____",
+    ],
+  },
+  {
     name: "Sushant Gaurav",
     role: "CSE Undergrad",
     image: "https://avatars.githubusercontent.com/u/68695162?v=4",
