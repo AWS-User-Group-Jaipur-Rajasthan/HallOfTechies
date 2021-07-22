@@ -744,6 +744,17 @@ const data = [
     ],
   },
   {
+    name: "Ashish Soyetra",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/53328534?v=4",
+    skills: ['GCP', 'React', 'Node', 'JavaScript', 'C/C++', 'HTML', 'CSS', 'MySQL'],
+    link: [
+      "https://github.com/ashishsoyetra30",
+      "https://www.linkedin.com/in/soyetra-ashish/",
+      "https://twitter.com/SoyetraAshish",
+    ],
+  },
+  {
     name: "Anjali Kundliya",
     role: "CS Student",
     image: "https://avatars.githubusercontent.com/u/80624328?v=4",
@@ -1041,7 +1052,6 @@ const data = [
       "https://twitter.com/_mayank_kumar__",
     ],
   },
-
   {
     name: "Yudhajit Sinha",
     role: "CS Undergrad",
