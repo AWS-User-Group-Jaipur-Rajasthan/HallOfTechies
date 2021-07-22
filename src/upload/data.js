@@ -1784,7 +1784,17 @@ const data = [
       "https://twitter.com/Supreme10014",
     ],
   },
-
+  {
+    name: "Abhijeet Modak",
+    role: "Software Engineer",
+    image: "https://avatars.githubusercontent.com/u/40936685?v=4",
+    skills: ['Python', 'react', 'Django', 'Rest-API', 'Data Warehouse'],
+    link: [
+      "https://github.com/abhijeetmodak96",
+      "https://www.linkedin.com/in/abhijeet-modak/",
+      "https://twitter.com/abhijeetmodak96",
+    ],
+  },
 
   {
     name: "Muthu Annamalai.V",
