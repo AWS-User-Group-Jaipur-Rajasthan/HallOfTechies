@@ -1350,6 +1350,16 @@ const data = [
       " https://twitter.com/Divya82248572?s=08",
     ],
   },
+  {
+    name: "Ashish Patwal",
+    role: "Opensource Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/63491234?v=4",
+    skills: ['Python', 'C++', 'JavaScript/Typescript', 'DevOps', 'Web Development','shell', 'Linux'],
+    link: [
+      "https://github.com/ashish-patwal",
+      "https://www.linkedin.com/in/ashish-patwal-6bb671190",
+    ],
+  },
     
     {
     name: "Saurav kumar",
@@ -1361,9 +1371,6 @@ const data = [
       "https://www.linkedin.com/feed/",
       "https://twitter.com/home?lang=en",
     ],
-
-
-  
   
   
   },
