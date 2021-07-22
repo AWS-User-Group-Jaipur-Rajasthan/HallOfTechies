@@ -855,6 +855,17 @@ const data = [
       "https://twitter.com/muthuannamalai_",
     ],
   },
+  {
+    name: "Risav Sarkar",
+    role: "CSE Undergrad",
+    image: "https://avatars.githubusercontent.com/u/70391402?v=4",
+    skills: ['Java','Javascript', 'Python', 'HTML', 'CSS'],
+    link: [
+      "https://github.com/risav-sarkar",
+      "https://www.linkedin.com/in/risavsarkar",
+      "https://twitter.com/SarkarRisav",
+    ],
+  },
 ];
 
 export default data;
