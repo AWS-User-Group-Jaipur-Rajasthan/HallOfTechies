@@ -1035,6 +1035,17 @@ const data = [
     ],
   },
   {
+    name: "ASTITVA BINDAL",
+    role: "STUDENT",
+    image: "https://avatars.githubusercontent.com/u/62743134?v=4",
+    skills: ['js', 'html', 'c++', 'python'],
+    link: [
+      "https://github.com/astitvabindal",
+      "https://linkedin.com/in/astitva-bindal",
+      "https://twitter.com/astitva_bindal",
+    ],
+  },
+  {
     name: "LOKESH GAWANDE",
     role: "STUDENT",
     image: "https://avatars.githubusercontent.com/u/83236804?v=4",
