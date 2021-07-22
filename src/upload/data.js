@@ -1350,6 +1350,17 @@ const data = [
       " https://twitter.com/Divya82248572?s=08",
     ],
   },
+{
+    name: "Ujjwal Srivastav",
+    role: "CS Undergraud",
+    image: "https://avatars.githubusercontent.com/u/87747687?v=4",
+    skills: ['js', 'Html', 'C', 'Python'],
+    link: [
+      "https://github.com/ujjwalsrivastav",
+      "https://www.linkedin.com/in/ujjwal-srivastava-456204206/",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  },
   {
     name: "Ashish Patwal",
     role: "Opensource Enthusiast",
