@@ -1998,6 +1998,18 @@ const data = [
     ],
   },
   {
+    name: "Raja Sekhar Karanam",
+    role: "Full Stack Developer / DevOps Enthusiast",
+    image:
+      "https://avatars.githubusercontent.com/u/13974570?v=4",
+    skills: ["Java", "Spring Boot", "JavaScript", "React", "AWS", "Python"],
+    link: [
+      "https://github.com/rkaranam",
+      "https://www.linkedin.com/in/raja-sekhar-karanam",
+      "https://twitter.com/rkaranam58",
+    ],
+  },
+  {
     name: "Shubham Kumar Singh",
     role: "Developer",
     image: "https://avatars.githubusercontent.com/u/61842432?s=400&u=727b4b64607a3613cda001b45521ba90ee5fced6&v=4",
