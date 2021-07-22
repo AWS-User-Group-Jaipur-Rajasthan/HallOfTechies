@@ -1161,6 +1161,19 @@ const data = [
     ],
   },
   {
+    name: "Bhumi Rana",
+    role: "btech CSE student",
+    image: "https://avatars.githubusercontent.com/u/87715249?v=4",
+    skills: ['CSS', 'C', 'node', 'html'],
+    link: [
+      "https://github.com/bhumirana15",
+      "https://linkedin.com/in/LINKEDIN_USERNAME",
+      "https://twitter.com/bhumirana14",
+    ],
+  },
+  {
+
+
     name: "Tanjim Shah Kabir",
     role: "Ethical Hacker",
     image: "https://avatars.githubusercontent.com/u/87455494?s=400&u=1ea2194010240c055eddbe4f21318dc6ca247139&v=4",
