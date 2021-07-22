@@ -1315,6 +1315,17 @@ const data = [
     ],
   },
   {
+    name: "Sudeeksha Nayak",
+    role: "Web developer",
+    image: "https://avatars.githubusercontent.com/u/65765077?v=4",
+    skills: ['js', 'react', 'node', 'python','html/css','mongodb','java','c'],
+    link: [
+      "https://github.com/sudeeksha19",
+      "https://www.linkedin.com/in/sudeekshanayak19/",
+      "https://twitter.com/SudeekshaNayak",
+    ],
+  },
+  {
     name: "Shubham Kumar Singh",
     role: "Developer",
     image: "https://avatars.githubusercontent.com/u/61842432?s=400&u=727b4b64607a3613cda001b45521ba90ee5fced6&v=4",
