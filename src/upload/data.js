@@ -227,7 +227,7 @@ const data = [
       "https://linkedin.com/in/LINKEDIN_USERNAME",
       "https://twitter.com/TWITTER_USERNAME",
     ],
-  }
+  },
 
 
   {
