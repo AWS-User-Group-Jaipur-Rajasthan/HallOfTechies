@@ -1315,6 +1315,20 @@ const data = [
     ],
   },
   {
+
+    name: "Anushruti",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/65386044?s=400&u=155957293a524084652b2950f101bd2963407666&v=4",
+    skills: ['C', 'C++','js', 'react', 'html', 'css'],
+    link: [
+      "https://github.com/anushruti11",
+      "https://linkedin.com/in/anushruti-shresth-025a481a8/",
+      "https://twitter.com/AkritiShresth",
+    ],
+  },
+  {
+
+
     name: "Anshumaan Kumar Prasad",
     role: "Junior at Information Technology & Services",
     image: "https://avatars.githubusercontent.com/u/75872316?v=4",
