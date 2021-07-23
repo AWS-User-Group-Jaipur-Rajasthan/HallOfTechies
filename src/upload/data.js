@@ -282,6 +282,17 @@ const data = [
     ],
   },
 
+
+  // {
+  //   image: "GITHUB PROFILE IMAGE LINK",
+  //   skills: ["js", "react", "node", "react native"],
+  //   link: [
+  //     "https://github.com/GITHUB_USERNAME",
+  //     "https://linkedin.com/in/LINKEDIN_USERNAME",
+  //     "https://twitter.com/TWITTER_USERNAME",
+  //   ],
+  // },
+
   {
      name: "Neelam Upadhyay ",
     role: "Full Stack Developer | IT Security | Could Computing ",
