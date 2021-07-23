@@ -282,15 +282,17 @@ const data = [
     ],
   },
 
-  // {
-  //   image: "GITHUB PROFILE IMAGE LINK",
-  //   skills: ["js", "react", "node", "react native"],
-  //   link: [
-  //     "https://github.com/GITHUB_USERNAME",
-  //     "https://linkedin.com/in/LINKEDIN_USERNAME",
-  //     "https://twitter.com/TWITTER_USERNAME",
-  //   ],
-  // },
+  {
+     name: "Neelam Upadhyay ",
+    role: "Full Stack Developer | IT Security | Could Computing ",
+   image: "https://github.com/nlmupdy01.png",
+    skills: ["HTML", "CSS", "PHP", " JavaScript" , "c++" , "Linux" , "AWS"],
+    link: [
+    "https://github.com/nlmupdy01",
+    "https://www.linkedin.com/in/neelam-upadhyay-8736a3115",
+     "https://twitter.com/nlmupdy",
+  ],
+  },
 
   {
     name: "Varshil Shah",
