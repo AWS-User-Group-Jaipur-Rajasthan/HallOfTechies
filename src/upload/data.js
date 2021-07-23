@@ -2156,6 +2156,18 @@ const data = [
       "https://www.linkedin.com/in/sarvesh1523/",
       "https://twitter.com/@Sarvesh65900833",
     ],
-  }
+  },
+  {
+    name: "Jahanvi Sharma",
+    role: "Developer",
+    image:
+      "https://avatars.githubusercontent.com/u/56484763?s=400&u=2b960213c7167ce8552af8c1a4da5ffb8ab9a53d&v=4",
+    skills: ["HTML", "PYTHON", "CSS", "UI/UX"],
+    link: [
+      "https://github.com/jahanvisharma-dotcom",
+      "https://www.linkedin.com/in/jahanvi-sharma-5333a8174/",
+      "https://twitter.com/jahanvisharma77",
+    ],
+  },
 ];
 export default data;
