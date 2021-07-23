@@ -2169,5 +2169,17 @@ const data = [
       "https://twitter.com/jahanvisharma77",
     ],
   },
+  {
+    name: "Shambashib Majumdar",
+    role: "Developer",
+    image:
+        "https://avatars.githubusercontent.com/u/62923672?v=4",
+    skills: ["HTML", "java", "C++"],
+    link: [
+        "https://github.com/shambashib20",
+        "https://www.linkedin.com/in/shambashib/",
+        "https://twitter.com/devholic_sham20",
+    ],
+  },
 ];
 export default data;
