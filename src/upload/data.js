@@ -1,5 +1,4 @@
 const data = [
-
   {
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
@@ -283,15 +282,15 @@ const data = [
     ],
   },
 
-  {
-    image: "GITHUB PROFILE IMAGE LINK",
-    skills: ["js", "react", "node", "react native"],
-    link: [
-      "https://github.com/GITHUB_USERNAME",
-      "https://linkedin.com/in/LINKEDIN_USERNAME",
-      "https://twitter.com/TWITTER_USERNAME",
-    ],
-  },
+  // {
+  //   image: "GITHUB PROFILE IMAGE LINK",
+  //   skills: ["js", "react", "node", "react native"],
+  //   link: [
+  //     "https://github.com/GITHUB_USERNAME",
+  //     "https://linkedin.com/in/LINKEDIN_USERNAME",
+  //     "https://twitter.com/TWITTER_USERNAME",
+  //   ],
+  // },
 
   {
     name: "Varshil Shah",
@@ -1639,8 +1638,6 @@ const data = [
     ],
   },
   {
-
-
     name: "SHAIFALI YADAV",
     role: "COMPUTER SCIENCE STUDENT",
     image: "GITHUB PROFILE IMAGE LINK",
@@ -2173,12 +2170,12 @@ const data = [
     name: "Shambashib Majumdar",
     role: "Developer",
     image:
-        "https://avatars.githubusercontent.com/u/62923672?v=4",
+      "https://avatars.githubusercontent.com/u/62923672?v=4",
     skills: ["HTML", "java", "C++"],
     link: [
-        "https://github.com/shambashib20",
-        "https://www.linkedin.com/in/shambashib/",
-        "https://twitter.com/devholic_sham20",
+      "https://github.com/shambashib20",
+      "https://www.linkedin.com/in/shambashib/",
+      "https://twitter.com/devholic_sham20",
     ],
   },
 ];
