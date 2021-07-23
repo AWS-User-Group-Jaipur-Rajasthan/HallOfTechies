@@ -13,14 +13,14 @@ Link to the [website](https://awsugjaipur-halloftechies.web.app/).
 
 ```
 {
-    name: "YOUR NAME",
-    role: "YOUR ROLE",
-    image: "GITHUB PROFILE IMAGE LINK",
-    skills: ['js', 'react', 'node', 'react native'],
+    name: "Neelam Upadhyay",
+    role: "IT Security ",
+    image: "https://github.com/nlmupdy01.png",
+    skills: ['cybersecurity', 'linux', 'UI', 'UX' , 'cloud'.],
     link: [
-      "https://github.com/GITHUB_USERNAME",
-      "https://linkedin.com/in/LINKEDIN_USERNAME",
-      "https://twitter.com/TWITTER_USERNAME",
+      "https://github.com/nlmupdy01",
+      "https://www.linkedin.com/in/neelam-upadhyay-8736a3115",
+      "https://twitter.com/nlmupdy",
     ],
   }
 
@@ -34,11 +34,11 @@ Please submit a Pull Request to be added to this list.
 
 - Go to your profile on GitHub.com
 Append to your GitHub Profile URL “.png”, so it will look like this:
-https://github.com/seema1711.png
+https://github.com/nlmupdy01.png
 
-- Just copy the URL will look like this, it look like this: https://avatars.githubusercontent.com/u/48756444?v=4
+- Just copy the URL will look like this, it look like this: https://avatars.githubusercontent.com/nlmupdy01
 
 
 ### Resources
 
-Pagination and Icons have been sourced from [Material UI](https://material-ui.com/)
+Pagination and Icons have been sourced from [Material UI](https://material-ui.com/neeelam.upadhyay)
