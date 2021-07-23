@@ -2178,5 +2178,16 @@ const data = [
       "https://twitter.com/devholic_sham20",
     ],
   },
+  {
+    name: "Suvra Shaw",
+    role: "Designer | ML Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/56395895?v=4",
+    skills: ['JAVA', 'UI/UX', 'ML', 'FIGMA'],
+    link: [
+      "https://github.com/suvrashaw",
+      "https://linkedin.com/in/suvrashaw",
+      "https://twitter.com/suvrashaw",
+    ],
+  },
 ];
 export default data;
