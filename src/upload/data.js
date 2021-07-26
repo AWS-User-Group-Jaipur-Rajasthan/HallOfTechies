@@ -2213,5 +2213,16 @@ const data = [
       "https://twitter.com/suvrashaw",
     ],
   },
+  {
+    name: 'Jayant Goel',
+    role: 'Developer',
+    image: 'https://avatars.githubusercontent.com/u/54479676?v=4',
+    skills: ['Android', 'Data Science', 'Web Development', 'Cloud Computing', 'C++'],
+    link: [
+      'https://github.com/JayantGoel001',
+      'https://www.linkedin.com/in/JayantGoel001/',
+      'https://twitter.com/JayantGoel001',
+    ],
+  },
 ];
 export default data;
