@@ -19,7 +19,7 @@ export default function Card(props) {
       </div>
       <div className={classes.bottom}>
         <div className={classes.skills}>
-          {props.userData.skills.map(el => {
+          {props.userData.skills?.map(el => {
             return el.length > 5 ? <p key={Math.floor(Math.random() * 10000)}>
               {el.substring(0, 5)}...
             </p> : <p key={Math.floor(Math.random() * 10000)}>
@@ -29,7 +29,7 @@ export default function Card(props) {
         </div>
         <div className={classes.icons}>
           <a
-            href={props.userData.link[0]}
+            href={props.userData.link ? props.userData.link[0] : '#'}
             target="_blank"
             rel="noreferrer"
             className={classes.link}
@@ -37,7 +37,7 @@ export default function Card(props) {
             <GitHubIcon />
           </a>
           <a
-            href={props.userData.link[1]}
+            href={props.userData.link ? props.userData.link[1] : '#'}
             target="_blank"
             rel="noreferrer"
             className={classes.link}
@@ -45,7 +45,7 @@ export default function Card(props) {
             <LinkedInIcon />
           </a>
           <a
-            href={props.userData.link[2]}
+            href={props.userData.link ? props.userData.link[2] : '#'}
             target="_blank"
             rel="noreferrer"
             className={classes.link}

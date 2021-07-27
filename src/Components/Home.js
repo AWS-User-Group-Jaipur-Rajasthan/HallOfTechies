@@ -18,7 +18,7 @@ export default function Home() {
   const searchHandler = (input) => {
     const newArr = [];
     data.forEach((el) => {
-      if (el.name.toLowerCase().startsWith(input.toLowerCase())) {
+      if (el.name?.toLowerCase().startsWith(input.toLowerCase())) {
         newArr.push(el);
       }
     });
