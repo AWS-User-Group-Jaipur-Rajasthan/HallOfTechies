@@ -2224,5 +2224,16 @@ const data = [
       'https://twitter.com/JayantGoel001',
     ],
   },
+  {
+    name: 'Avnoor Singh',
+    role: 'Competetive Programmer | Web-Developer | ML Enthusiast',
+    image: 'https://avatars.githubusercontent.com/u/54592053?v=4',
+    skills: ['C++','Competitve Coder', 'Data Science', 'Web Development', 'Machine Learning'],
+    link: [
+      'https://github.com/avnoor-488',
+      'https://www.linkedin.com/in/avnoor-488/',
+      ' ',
+    ],
+  },
 ];
 export default data;
