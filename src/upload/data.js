@@ -1317,6 +1317,20 @@ const data = [
     ],
   },
   {
+
+    name: "Jones Zachariah Noel N",
+    role: "Cloud Architect - Serverless",
+    image: "https://avatars.githubusercontent.com/u/12515425?v=4",
+    skills: ['js', 'VueJS', 'NodeJS', 'AWS', 'ReactJS', 'Serverless', 'Web Application Development'],
+    link: [
+      "https://github.com/zachjonesnoel",
+      "https://www.linkedin.com/in/jones-zachariah-noel-n",
+      "https://twitter.com/ZachjNOEL",
+      "https://dev.to/zachjonesnoel",
+      "https://zachjonesnoel.com"
+    ],
+  },
+  {
     name: "Kunal Virdi",
     role: "Web Developer | CS Undergrad",
     image: "https://avatars.githubusercontent.com/u/71556630?v=4",
@@ -1819,7 +1833,6 @@ const data = [
       "https://twitter.com/abhijeetmodak96",
     ],
   },
-
   {
     name: "Muthu Annamalai.V",
     role: "CS Undergrad",
