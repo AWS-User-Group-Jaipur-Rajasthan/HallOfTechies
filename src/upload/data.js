@@ -2248,5 +2248,16 @@ const data = [
       ' ',
     ],
   },
+  {
+    name: 'Ayush Kumar',
+    role: 'Web Developer | ML-Enthaustic | Open Source Contributer',
+    image: 'https://avatars.githubusercontent.com/u/67006255?v=4',
+    skills: ['C++', 'Python', 'Web Development', 'Machine-Learning', 'Open Source'],
+    link: [
+      'https://github.com/Ayush7614',
+      'https://www.linkedin.com/in/ayush-kumar-%F0%9F%87%AE%F0%9F%87%B3-984443191/',
+      'https://twitter.com/AyushKu38757918',
+    ],
+  },
 ];
 export default data;
