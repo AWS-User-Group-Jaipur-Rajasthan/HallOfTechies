@@ -2259,5 +2259,16 @@ const data = [
       'https://twitter.com/AyushKu38757918',
     ],
   },
+  {
+    name: 'Abhinav Dubey',
+    role: 'DevOps & Cloud Practitioner | Open Source Enthusiast | Tech Blogger',
+    image: 'https://avatars.githubusercontent.com/u/48083659?v=4',
+    skills: ['Python', 'Full Stack Developer', 'Kubernetes', 'Cloud Computing', 'DevOps'],
+    link: [
+      'https://github.com/Abhinav-26',
+      'https://www.linkedin.com/in/abhinavd26/',
+      'https://twitter.com/abhinavd26',
+    ],
+  },
 ];
 export default data;
